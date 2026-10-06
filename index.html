@@ -1,0 +1,1023 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Daniel Ashagrie Ayele | Civil Engineer & Quantitative Developer</title>
+
+  <meta
+    name="description"
+    content="Official portfolio of Daniel Ashagrie Ayele, a registered Construction Engineer, Civil Engineer, and Quantitative Developer working across infrastructure engineering and algorithmic trading systems."
+  >
+  <meta name="author" content="Daniel Ashagrie Ayele">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#07111f">
+
+  <link rel="canonical" href="https://danny-jesus.github.io/">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="Daniel Ashagrie Ayele | Civil Engineer & Quantitative Developer">
+  <meta
+    property="og:description"
+    content="Civil infrastructure engineering, construction delivery, geospatial analysis, and quantitative systems development."
+  >
+  <meta property="og:url" content="https://danny-jesus.github.io/">
+  <meta property="og:site_name" content="Daniel Ashagrie Ayele">
+
+  <!-- X / Twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Daniel Ashagrie Ayele | Civil Engineer & Quantitative Developer">
+  <meta
+    name="twitter:description"
+    content="Civil infrastructure engineering, construction delivery, geospatial analysis, and quantitative systems development."
+  >
+
+  <!--
+    Google Search Console:
+    Paste your verification meta tag here when Google provides it.
+
+    Optional social preview:
+    Add an image such as /assets/og-cover.jpg, then uncomment:
+    <meta property="og:image" content="https://danny-jesus.github.io/assets/og-cover.jpg">
+    <meta name="twitter:image" content="https://danny-jesus.github.io/assets/og-cover.jpg">
+  -->
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Daniel Ashagrie Ayele",
+    "url": "https://danny-jesus.github.io/",
+    "description": "Registered Construction Engineer, Civil Engineer, and Quantitative Developer.",
+    "jobTitle": "Civil Engineer and Quantitative Developer",
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "Bahir Dar University"
+    },
+    "hasOccupation": [
+      {
+        "@type": "Occupation",
+        "name": "Civil Engineer"
+      },
+      {
+        "@type": "Occupation",
+        "name": "Construction Engineer"
+      },
+      {
+        "@type": "Occupation",
+        "name": "Quantitative Developer"
+      }
+    ],
+    "knowsAbout": [
+      "Civil Engineering",
+      "Construction Engineering",
+      "Infrastructure",
+      "Structural Engineering",
+      "Hydraulic Engineering",
+      "Geospatial Analysis",
+      "Algorithmic Trading",
+      "Quantitative Development",
+      "C++",
+      "MQL5",
+      "Python",
+      "Pine Script"
+    ],
+    "sameAs": [
+      "https://github.com/Danny-Jesus",
+      "https://www.linkedin.com/in/daniel-ashagrie-ayele"
+    ]
+  }
+  </script>
+
+  <style>
+    :root {
+      --bg: #07111f;
+      --surface: #0b1727;
+      --surface-2: #0f1d30;
+      --text: #edf4fb;
+      --muted: #9cafc3;
+      --line: rgba(255, 255, 255, 0.11);
+      --accent: #4ea1ff;
+      --accent-strong: #79b9ff;
+      --accent-soft: rgba(78, 161, 255, 0.12);
+      --max-width: 1180px;
+      --radius: 18px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      min-width: 320px;
+      background:
+        radial-gradient(circle at 88% 8%, rgba(78, 161, 255, 0.11), transparent 28rem),
+        linear-gradient(180deg, #07111f 0%, #081321 100%);
+      color: var(--text);
+      font-family:
+        ui-sans-serif,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    a:focus-visible,
+    button:focus-visible {
+      outline: 3px solid var(--accent);
+      outline-offset: 4px;
+    }
+
+    .skip-link {
+      position: fixed;
+      top: 12px;
+      left: 12px;
+      z-index: 1000;
+      transform: translateY(-180%);
+      padding: 10px 14px;
+      border-radius: 10px;
+      background: var(--text);
+      color: var(--bg);
+      font-weight: 800;
+      text-decoration: none;
+    }
+
+    .skip-link:focus {
+      transform: translateY(0);
+    }
+
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      border-bottom: 1px solid var(--line);
+      background: rgba(7, 17, 31, 0.86);
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
+    }
+
+    .nav {
+      width: min(calc(100% - 40px), var(--max-width));
+      min-height: 72px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      color: var(--text);
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .brand-mark {
+      width: 34px;
+      height: 34px;
+      display: grid;
+      place-items: center;
+      border: 1px solid rgba(78, 161, 255, 0.45);
+      border-radius: 10px;
+      background: var(--accent-soft);
+      color: var(--accent-strong);
+      font-size: 0.84rem;
+      letter-spacing: 0.04em;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+
+    .nav-links a {
+      color: var(--muted);
+      font-size: 0.92rem;
+      font-weight: 650;
+      text-decoration: none;
+      transition: color 160ms ease;
+    }
+
+    .nav-links a:hover {
+      color: var(--text);
+    }
+
+    .shell {
+      width: min(calc(100% - 40px), var(--max-width));
+      margin: 0 auto;
+    }
+
+    .hero {
+      min-height: calc(100dvh - 73px);
+      display: grid;
+      grid-template-columns: minmax(0, 1.25fr) minmax(320px, 0.75fr);
+      align-items: center;
+      gap: clamp(48px, 7vw, 92px);
+      padding: 72px 0 64px;
+    }
+
+    .eyebrow {
+      margin: 0 0 20px;
+      color: var(--accent-strong);
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    h1,
+    h2,
+    h3,
+    p {
+      margin-top: 0;
+    }
+
+    h1 {
+      max-width: 850px;
+      margin-bottom: 24px;
+      font-size: clamp(3.2rem, 8vw, 7.4rem);
+      line-height: 0.92;
+      letter-spacing: -0.065em;
+      font-weight: 850;
+    }
+
+    .hero-role {
+      max-width: 800px;
+      margin-bottom: 22px;
+      color: var(--text);
+      font-size: clamp(1.18rem, 2vw, 1.62rem);
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      font-weight: 650;
+    }
+
+    .hero-summary {
+      max-width: 720px;
+      margin-bottom: 34px;
+      color: var(--muted);
+      font-size: 1.05rem;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .button {
+      min-height: 48px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 18px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      font-weight: 800;
+      text-decoration: none;
+      transition:
+        transform 150ms ease,
+        border-color 150ms ease,
+        background 150ms ease;
+    }
+
+    .button:hover {
+      transform: translateY(-1px);
+    }
+
+    .button:active {
+      transform: translateY(1px);
+    }
+
+    .button-primary {
+      border-color: var(--accent);
+      background: var(--accent);
+      color: #06101c;
+    }
+
+    .button-primary:hover {
+      background: var(--accent-strong);
+      border-color: var(--accent-strong);
+    }
+
+    .button-secondary {
+      background: rgba(255, 255, 255, 0.025);
+      color: var(--text);
+    }
+
+    .button-secondary:hover {
+      border-color: rgba(78, 161, 255, 0.5);
+      background: var(--accent-soft);
+    }
+
+    .hero-panel {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: linear-gradient(145deg, rgba(255, 255, 255, 0.045), rgba(255, 255, 255, 0.018));
+    }
+
+    .hero-panel::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      opacity: 0.36;
+      pointer-events: none;
+      background-image:
+        linear-gradient(rgba(78, 161, 255, 0.08) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(78, 161, 255, 0.08) 1px, transparent 1px);
+      background-size: 28px 28px;
+      mask-image: linear-gradient(to bottom, black, transparent 92%);
+    }
+
+    .panel-row {
+      position: relative;
+      display: grid;
+      gap: 4px;
+      padding: 22px 24px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .panel-row:last-child {
+      border-bottom: 0;
+    }
+
+    .panel-label {
+      color: var(--muted);
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .panel-value {
+      max-width: 34ch;
+      color: var(--text);
+      font-size: 1rem;
+      font-weight: 720;
+    }
+
+    section {
+      padding: 92px 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .section-head {
+      max-width: 760px;
+      margin-bottom: 44px;
+    }
+
+    h2 {
+      margin-bottom: 16px;
+      font-size: clamp(2rem, 4vw, 3.35rem);
+      line-height: 1.05;
+      letter-spacing: -0.045em;
+    }
+
+    .section-intro {
+      max-width: 68ch;
+      margin-bottom: 0;
+      color: var(--muted);
+      font-size: 1.02rem;
+    }
+
+    .about-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+      gap: clamp(36px, 6vw, 88px);
+      align-items: start;
+    }
+
+    .about-copy p {
+      color: var(--muted);
+      font-size: 1.04rem;
+    }
+
+    .about-copy strong {
+      color: var(--text);
+    }
+
+    .principles {
+      display: grid;
+      gap: 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .principle {
+      display: grid;
+      grid-template-columns: 110px 1fr;
+      gap: 24px;
+      padding: 22px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .principle-key {
+      color: var(--accent-strong);
+      font-weight: 800;
+    }
+
+    .principle-value {
+      color: var(--muted);
+    }
+
+    .expertise-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 22px;
+    }
+
+    .expertise-block {
+      min-height: 100%;
+      padding: 30px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(255, 255, 255, 0.022);
+    }
+
+    .expertise-block h3 {
+      margin-bottom: 12px;
+      font-size: 1.36rem;
+      letter-spacing: -0.025em;
+    }
+
+    .expertise-block p {
+      margin-bottom: 24px;
+      color: var(--muted);
+    }
+
+    .skill-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .skill {
+      display: inline-flex;
+      align-items: center;
+      min-height: 34px;
+      padding: 6px 10px;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      background: rgba(255, 255, 255, 0.025);
+      color: #c8d5e3;
+      font-size: 0.84rem;
+      font-weight: 700;
+    }
+
+    .work-list {
+      display: grid;
+      gap: 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .work-item {
+      display: grid;
+      grid-template-columns: minmax(170px, 0.34fr) minmax(0, 0.66fr);
+      gap: 36px;
+      padding: 28px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .work-item h3 {
+      margin-bottom: 0;
+      font-size: 1.08rem;
+    }
+
+    .work-item p {
+      max-width: 70ch;
+      margin-bottom: 0;
+      color: var(--muted);
+    }
+
+    .profiles {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 22px;
+    }
+
+    .profile-link {
+      min-height: 190px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 28px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(255, 255, 255, 0.022);
+      text-decoration: none;
+      transition:
+        transform 150ms ease,
+        border-color 150ms ease,
+        background 150ms ease;
+    }
+
+    .profile-link:hover {
+      transform: translateY(-2px);
+      border-color: rgba(78, 161, 255, 0.55);
+      background: rgba(78, 161, 255, 0.07);
+    }
+
+    .profile-name {
+      font-size: 1.35rem;
+      font-weight: 820;
+      letter-spacing: -0.03em;
+    }
+
+    .profile-meta {
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .cta {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 36px;
+      align-items: end;
+    }
+
+    .cta h2 {
+      max-width: 780px;
+      margin-bottom: 0;
+    }
+
+    .footer {
+      padding: 32px 0 42px;
+      border-top: 1px solid var(--line);
+    }
+
+    .footer-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .footer a {
+      color: var(--muted);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      color: var(--text);
+    }
+
+    @media (max-width: 900px) {
+      .nav {
+        min-height: 66px;
+      }
+
+      .nav-links a:nth-child(2),
+      .nav-links a:nth-child(3) {
+        display: none;
+      }
+
+      .hero {
+        min-height: auto;
+        grid-template-columns: 1fr;
+        gap: 42px;
+        padding: 64px 0;
+      }
+
+      .hero-panel {
+        max-width: 680px;
+      }
+
+      .about-grid,
+      .expertise-grid,
+      .profiles {
+        grid-template-columns: 1fr;
+      }
+
+      .work-item {
+        grid-template-columns: 1fr;
+        gap: 10px;
+      }
+
+      .cta {
+        grid-template-columns: 1fr;
+        align-items: start;
+      }
+    }
+
+    @media (max-width: 560px) {
+      .nav,
+      .shell {
+        width: min(calc(100% - 28px), var(--max-width));
+      }
+
+      .brand {
+        font-size: 0.92rem;
+      }
+
+      .brand-mark {
+        width: 31px;
+        height: 31px;
+      }
+
+      .nav-links {
+        gap: 14px;
+      }
+
+      .nav-links a:not(:last-child) {
+        display: none;
+      }
+
+      h1 {
+        font-size: clamp(3rem, 17vw, 5rem);
+      }
+
+      section {
+        padding: 72px 0;
+      }
+
+      .principle {
+        grid-template-columns: 1fr;
+        gap: 6px;
+      }
+
+      .actions,
+      .actions .button {
+        width: 100%;
+      }
+
+      .footer-inner {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html {
+        scroll-behavior: auto;
+      }
+
+      *,
+      *::before,
+      *::after {
+        transition-duration: 0.01ms !important;
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+      }
+    }
+
+    @media print {
+      .site-header,
+      .actions,
+      .cta .button {
+        display: none;
+      }
+
+      body {
+        background: #fff;
+        color: #111;
+      }
+
+      .hero,
+      section {
+        min-height: auto;
+        padding: 36px 0;
+      }
+
+      .hero-panel,
+      .expertise-block,
+      .profile-link {
+        border-color: #ccc;
+        background: transparent;
+      }
+
+      .hero-summary,
+      .section-intro,
+      .about-copy p,
+      .principle-value,
+      .expertise-block p,
+      .work-item p,
+      .profile-meta,
+      .footer-inner {
+        color: #444;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header class="site-header">
+    <nav class="nav" aria-label="Primary navigation">
+      <a class="brand" href="#top" aria-label="Daniel Ashagrie Ayele home">
+        <span class="brand-mark" aria-hidden="true">DA</span>
+        <span>Daniel Ashagrie Ayele</span>
+      </a>
+
+      <div class="nav-links">
+        <a href="#about">About</a>
+        <a href="#expertise">Expertise</a>
+        <a href="#profiles">Profiles</a>
+        <a href="https://github.com/Danny-Jesus" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <div class="shell" id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div>
+          <p class="eyebrow">Engineering and quantitative systems</p>
+
+          <h1 id="hero-title">Daniel Ashagrie Ayele</h1>
+
+          <p class="hero-role">
+            Registered Construction Engineer, Civil Engineer, and Quantitative Developer
+          </p>
+
+          <p class="hero-summary">
+            I work across physical infrastructure and computational systems, combining
+            engineering discipline, technical analysis, and software development to solve
+            complex real-world problems.
+          </p>
+
+          <div class="actions">
+            <a
+              class="button button-primary"
+              href="https://github.com/Danny-Jesus"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View GitHub
+            </a>
+
+            <a
+              class="button button-secondary"
+              href="https://www.linkedin.com/in/daniel-ashagrie-ayele"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View LinkedIn
+            </a>
+          </div>
+        </div>
+
+        <aside class="hero-panel" aria-label="Professional overview">
+          <div class="panel-row">
+            <span class="panel-label">Discipline</span>
+            <span class="panel-value">Civil and Construction Engineering</span>
+          </div>
+
+          <div class="panel-row">
+            <span class="panel-label">Technical Focus</span>
+            <span class="panel-value">Infrastructure, structural, hydraulic, and geospatial systems</span>
+          </div>
+
+          <div class="panel-row">
+            <span class="panel-label">Quantitative Focus</span>
+            <span class="panel-value">Algorithmic trading architecture, signal engineering, and automation</span>
+          </div>
+
+          <div class="panel-row">
+            <span class="panel-label">Education</span>
+            <span class="panel-value">BSc in Civil Engineering, Bahir Dar University</span>
+          </div>
+        </aside>
+      </section>
+    </div>
+
+    <section id="about">
+      <div class="shell">
+        <div class="section-head">
+          <h2>Engineering rigor across two technical domains.</h2>
+          <p class="section-intro">
+            My work sits at the intersection of civil infrastructure delivery and quantitative
+            software development, with a common emphasis on structured analysis, traceability,
+            reliability, and practical implementation.
+          </p>
+        </div>
+
+        <div class="about-grid">
+          <div class="about-copy">
+            <p>
+              <strong>Daniel Ashagrie Ayele</strong> is a registered Construction Engineer,
+              Civil Engineer, and Quantitative Developer. He holds a Bachelor of Science in
+              Civil Engineering from Bahir Dar University, Institute of Technology.
+            </p>
+
+            <p>
+              His engineering interests include infrastructure operations, construction
+              management, hydraulic systems, structural analysis, and geospatial workflows.
+              In quantitative development, he focuses on automated trading architectures,
+              market-data processing, technical signal engines, and research-driven system design.
+            </p>
+          </div>
+
+          <div class="principles" aria-label="Working principles">
+            <div class="principle">
+              <div class="principle-key">01</div>
+              <div class="principle-value">
+                Build from explicit specifications, measurable requirements, and verifiable outputs.
+              </div>
+            </div>
+
+            <div class="principle">
+              <div class="principle-key">02</div>
+              <div class="principle-value">
+                Treat reliability, documentation, and auditability as part of the engineering work.
+              </div>
+            </div>
+
+            <div class="principle">
+              <div class="principle-key">03</div>
+              <div class="principle-value">
+                Prefer systems that can be tested, maintained, and improved over time.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="expertise">
+      <div class="shell">
+        <div class="section-head">
+          <h2>Core expertise</h2>
+          <p class="section-intro">
+            A technical profile spanning infrastructure engineering, geospatial analysis,
+            software development, and quantitative research.
+          </p>
+        </div>
+
+        <div class="expertise-grid">
+          <article class="expertise-block">
+            <h3>Civil and Infrastructure Engineering</h3>
+            <p>
+              Engineering analysis, design support, construction delivery, documentation,
+              and infrastructure problem solving across multidisciplinary projects.
+            </p>
+
+            <div class="skill-list" aria-label="Civil engineering tools and domains">
+              <span class="skill">Construction Management</span>
+              <span class="skill">Structural Analysis</span>
+              <span class="skill">Hydraulic Design</span>
+              <span class="skill">Road Civil Works</span>
+              <span class="skill">AutoCAD</span>
+              <span class="skill">ETABS</span>
+              <span class="skill">SAP2000</span>
+              <span class="skill">QGIS</span>
+              <span class="skill">ArcGIS</span>
+            </div>
+          </article>
+
+          <article class="expertise-block">
+            <h3>Quantitative Development</h3>
+            <p>
+              Research and implementation of automated trading systems, market-analysis
+              pipelines, technical indicators, signal engines, and execution-oriented software.
+            </p>
+
+            <div class="skill-list" aria-label="Quantitative development tools and domains">
+              <span class="skill">C++</span>
+              <span class="skill">MQL5</span>
+              <span class="skill">Python</span>
+              <span class="skill">Pine Script</span>
+              <span class="skill">Algorithmic Trading</span>
+              <span class="skill">Signal Engineering</span>
+              <span class="skill">Market Data</span>
+              <span class="skill">Automation</span>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="work">
+      <div class="shell">
+        <div class="section-head">
+          <h2>Areas of work</h2>
+          <p class="section-intro">
+            The portfolio is organized around technical work rather than generic job titles.
+          </p>
+        </div>
+
+        <div class="work-list">
+          <article class="work-item">
+            <h3>Infrastructure Delivery</h3>
+            <p>
+              Construction planning, technical supervision, quantity and documentation workflows,
+              multidisciplinary coordination, and practical delivery of civil infrastructure.
+            </p>
+          </article>
+
+          <article class="work-item">
+            <h3>Engineering Analysis</h3>
+            <p>
+              Structural, hydraulic, roadway, and geospatial analysis using engineering software
+              and spatial-data tools to support design and field decisions.
+            </p>
+          </article>
+
+          <article class="work-item">
+            <h3>Quantitative Systems</h3>
+            <p>
+              Development of automated trading components, indicators, research pipelines,
+              execution logic, and technical validation workflows.
+            </p>
+          </article>
+
+          <article class="work-item">
+            <h3>Research and Automation</h3>
+            <p>
+              Reproducible technical research with explicit specifications, data integrity checks,
+              versioned outputs, and auditable implementation practices.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="profiles">
+      <div class="shell">
+        <div class="section-head">
+          <h2>Official profiles</h2>
+          <p class="section-intro">
+            Primary public profiles for source code, technical work, and professional history.
+          </p>
+        </div>
+
+        <div class="profiles">
+          <a
+            class="profile-link"
+            href="https://github.com/Danny-Jesus"
+            target="_blank"
+            rel="me noopener noreferrer"
+            aria-label="Open Daniel Ashagrie Ayele's GitHub profile"
+          >
+            <span class="profile-name">GitHub</span>
+            <span class="profile-meta">github.com/Danny-Jesus</span>
+          </a>
+
+          <a
+            class="profile-link"
+            href="https://www.linkedin.com/in/daniel-ashagrie-ayele"
+            target="_blank"
+            rel="me noopener noreferrer"
+            aria-label="Open Daniel Ashagrie Ayele's LinkedIn profile"
+          >
+            <span class="profile-name">LinkedIn</span>
+            <span class="profile-meta">linkedin.com/in/daniel-ashagrie-ayele</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="shell">
+        <div class="cta">
+          <h2>Engineering physical systems and computational systems with the same discipline.</h2>
+
+          <a
+            class="button button-primary"
+            href="https://github.com/Danny-Jesus"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Explore Projects
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="shell footer-inner">
+      <span>© 2026 Daniel Ashagrie Ayele. All rights reserved.</span>
+
+      <span>
+        Built for
+        <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
+      </span>
+    </div>
+  </footer>
+</body>
+</html>
