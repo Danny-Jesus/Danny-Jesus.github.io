@@ -1,0 +1,14 @@
+{
+  "browser": "154.0.8037.57",
+  "checks": [
+    "Actual WebGL identity scene loads with normal motion.",
+    "Changing reduced-motion preference disposes the live canvas and retains HTML.",
+    "Browser back, forward and direct deep-route reload.",
+    "Portrait/landscape and tablet resize without horizontal overflow.",
+    "Forced WebGL unavailability retains the identity, imagery, links and CSS spatial fallback.",
+    "Save-data preference skips the 3D runtime.",
+    "Baseline capture skipped: supplied v4.3 production is not present in this checkout."
+  ],
+  "errors": [],
+  "result": "PASS"
+}

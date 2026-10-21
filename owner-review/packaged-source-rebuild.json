@@ -1,0 +1,8 @@
+{
+  "result": "PASS",
+  "files": 306,
+  "locked_install": "PASS",
+  "build": "PASS",
+  "production_member_set_and_hashes": "exact match to frozen reviewed production",
+  "dependency_and_lockfile_changes": "none"
+}

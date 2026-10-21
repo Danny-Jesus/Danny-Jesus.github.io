@@ -1,0 +1,39 @@
+{
+  "result": "PASS",
+  "offline_file_open": false,
+  "file_open_limitation": "Cloud Chromium blocks file:// with ERR_BLOCKED_BY_ADMINISTRATOR; no policy bypass attempted",
+  "local_static_review": true,
+  "images": "all decoded",
+  "gallery_buttons": 4,
+  "videos": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "duration": 103.666,
+      "time": 0.306563,
+      "error": null
+    },
+    {
+      "width": 390,
+      "height": 900,
+      "duration": 68.049,
+      "time": 0.306268,
+      "error": null
+    }
+  ],
+  "widths": [
+    {
+      "width": 390,
+      "scrollWidth": 390
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440
+    }
+  ],
+  "errors": [],
+  "native_scroll": {
+    "wheelY": 450,
+    "keyY": 1165
+  }
+}

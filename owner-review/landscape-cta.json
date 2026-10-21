@@ -1,0 +1,54 @@
+{
+  "viewport": {
+    "width": 900,
+    "height": 390
+  },
+  "checks": [
+    {
+      "href": "/research/",
+      "text": "Research",
+      "tag": "A"
+    },
+    {
+      "href": "/about/",
+      "text": "About",
+      "tag": "A"
+    },
+    {
+      "href": "/contact/",
+      "text": "Contact",
+      "tag": "A"
+    },
+    {
+      "href": "#aji-classroom",
+      "text": "Explore Projects ",
+      "tag": "A"
+    }
+  ],
+  "pageErrors": [],
+  "result": "PASS",
+  "initial": {
+    "scrollY": 0,
+    "top": 560,
+    "bottom": 610,
+    "viewportHeight": 390
+  },
+  "focused": {
+    "isFocused": true,
+    "scrollY": 349,
+    "top": 211,
+    "bottom": 261,
+    "viewportHeight": 390,
+    "outlineStyle": "solid",
+    "outlineWidth": "3px"
+  },
+  "activated": {
+    "url": "http://127.0.0.1:46451/#aji-classroom",
+    "targetBox": {
+      "x": 0,
+      "y": 82,
+      "width": 900,
+      "height": 680
+    }
+  }
+}

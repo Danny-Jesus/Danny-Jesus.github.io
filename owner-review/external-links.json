@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://github.com/Danny-Jesus",
+    "http_status": "200",
+    "curl_exit": 0,
+    "diagnostic": "",
+    "scope": "Read-only HEAD; does not verify signed-in experience."
+  },
+  {
+    "url": "https://www.linkedin.com/in/daniel-ashagrie-ayele/",
+    "http_status": "000",
+    "curl_exit": 56,
+    "diagnostic": "curl: (56) CONNECT tunnel failed, response 403",
+    "scope": "Read-only HEAD; does not verify signed-in experience."
+  }
+]

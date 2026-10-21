@@ -1,0 +1,2140 @@
+{
+  "generated_utc": "2026-10-21T11:17:42.736430+00:00",
+  "scope": "Static filesystem/source/output audit only; no browser behavior, network availability, dependency vulnerability scan or legal rights certification inferred.",
+  "source_changes": {
+    "added": [
+      "assets-originals/approved-portrait/Friendly Outdoor Professional Portrait(1).png",
+      "docs/v7/APPROVED_PORTRAIT_DERIVATIVES.json",
+      "public/images/cinematic/portrait-approved-1254.webp",
+      "public/images/cinematic/portrait-approved-480.webp",
+      "public/images/cinematic/portrait-approved-960.webp",
+      "scripts/prepare-approved-portrait.py",
+      "scripts/rebuild-hero-review.mjs"
+    ],
+    "removed": [
+      "public/images/cinematic/portrait-1600.webp",
+      "public/images/cinematic/portrait-480.webp",
+      "public/images/cinematic/portrait-960.webp",
+      "public/images/daniel-field-480.webp",
+      "public/images/daniel-field-864.webp"
+    ],
+    "modified": [
+      "README.md",
+      "RELEASE_HOLD.json",
+      "public/social/about-social.jpg",
+      "public/social/contact-social.jpg",
+      "public/social/credentials-social.jpg",
+      "public/social/home-social.jpg",
+      "scripts/prepare-social-v7.py",
+      "scripts/prepare-v7-assets.py",
+      "src/data/site.ts",
+      "src/entry-server.tsx",
+      "src/v7/Pages.tsx",
+      "src/v7/Stories.tsx",
+      "src/v7/site.css"
+    ]
+  },
+  "dependency_manifest_unchanged": true,
+  "lockfile_unchanged": true,
+  "workflow_unchanged": true,
+  "photo_register_unchanged": true,
+  "selected_photo_count": 55,
+  "selected_photo_integrity": [
+    {
+      "id": "PHOTO-001",
+      "class": "C",
+      "category": "Anseta OPD",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-001-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-001-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-001-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-002",
+      "class": "C",
+      "category": "Anseta OPD",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-002-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-002-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-002-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-003",
+      "class": "C",
+      "category": "Anseta OPD",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-003-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-003-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-003-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-004",
+      "class": "C",
+      "category": "Class Room",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-004-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-004-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-004-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-005",
+      "class": "C",
+      "category": "Class Room",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-005-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-005-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-005-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-006",
+      "class": "C",
+      "category": "Class Room",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-006-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-006-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-006-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-007",
+      "class": "C",
+      "category": "Comm Training",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-007-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-007-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-007-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-008",
+      "class": "C",
+      "category": "Comm Training",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-008-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-008-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-008-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-010",
+      "class": "C",
+      "category": "Comm Training",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-010-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-010-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-010-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-011",
+      "class": "C",
+      "category": "Comm Training",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-011-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-011-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-011-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-012",
+      "class": "C",
+      "category": "Comm Training",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-012-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-012-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-012-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-013",
+      "class": "C",
+      "category": "Comm Training",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-013-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-013-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-013-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-015",
+      "class": "C",
+      "category": "Community Participation",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-015-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-015-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-015-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-016",
+      "class": "C",
+      "category": "Community Participation",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-016-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-016-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-016-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-017",
+      "class": "C",
+      "category": "FDP and warehouse",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-017-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-017-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-017-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-018",
+      "class": "C",
+      "category": "FDP and warehouse",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-018-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-018-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-018-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-019",
+      "class": "C",
+      "category": "FDP and warehouse",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-019-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-019-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-019-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-020",
+      "class": "C",
+      "category": "FDP and warehouse",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-020-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-020-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-020-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-021",
+      "class": "C",
+      "category": "FTC",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-021-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-021-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-021-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-022",
+      "class": "C",
+      "category": "FTC",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-022-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-022-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-022-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-023",
+      "class": "C",
+      "category": "FTC",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-023-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-023-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-023-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-024",
+      "class": "C",
+      "category": "FTC",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-024-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-024-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-024-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-025",
+      "class": "C",
+      "category": "Irrigation and dam",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-025-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-025-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-025-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-026",
+      "class": "C",
+      "category": "Irrigation and dam",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-026-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-026-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-026-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-027",
+      "class": "C",
+      "category": "Irrigation and dam",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-027-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-027-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-027-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-028",
+      "class": "C",
+      "category": "Irrigation and dam",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-028-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-028-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-028-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-029",
+      "class": "C",
+      "category": "Maintainance and rehabilitation",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-029-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-029-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-029-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-030",
+      "class": "B",
+      "category": "Maintainance and rehabilitation",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-030-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-030-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-030-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-032",
+      "class": "B",
+      "category": "Maintainance and rehabilitation",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-032-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-032-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-032-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-033",
+      "class": "B",
+      "category": "Maintainance and rehabilitation",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-033-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-033-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-033-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-034",
+      "class": "C",
+      "category": "Maintainance and rehabilitation",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-034-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-034-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-034-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-035",
+      "class": "B",
+      "category": "Maintainance and rehabilitation",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-035-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-035-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-035-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-037",
+      "class": "B",
+      "category": "Maintainance and rehabilitation",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-037-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-037-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-037-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-038",
+      "class": "C",
+      "category": "Maintainance and rehabilitation",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-038-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-038-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-038-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-039",
+      "class": "B",
+      "category": "Maintainance and rehabilitation",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-039-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-039-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-039-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-040",
+      "class": "C",
+      "category": "Mch",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-040-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-040-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-040-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-041",
+      "class": "C",
+      "category": "Mch",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-041-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-041-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-041-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-042",
+      "class": "C",
+      "category": "Mch",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-042-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-042-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-042-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-043",
+      "class": "C",
+      "category": "Modrn",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-043-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-043-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-043-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-044",
+      "class": "C",
+      "category": "Modrn",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-044-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-044-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-044-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-045",
+      "class": "B",
+      "category": "Modrn",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-045-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-045-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-045-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-046",
+      "class": "C",
+      "category": "Modrn",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-046-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-046-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-046-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-047",
+      "class": "C",
+      "category": "Road",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-047-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-047-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-047-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-048",
+      "class": "C",
+      "category": "Road",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-048-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-048-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-048-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-049",
+      "class": "C",
+      "category": "Road",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-049-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-049-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-049-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-050",
+      "class": "C",
+      "category": "Road",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-050-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-050-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-050-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-053",
+      "class": "B",
+      "category": "Supev",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-053-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-053-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-053-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-054",
+      "class": "B",
+      "category": "Supev",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-054-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-054-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-054-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-056",
+      "class": "C",
+      "category": "Vet Post Bisach",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-056-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-056-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-056-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-057",
+      "class": "C",
+      "category": "Vet Post Bisach",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-057-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-057-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-057-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-058",
+      "class": "C",
+      "category": "Vet Post Bisach",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-058-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-058-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-058-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-059",
+      "class": "C",
+      "category": "Water",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-059-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-059-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-059-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-060",
+      "class": "C",
+      "category": "Water",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-060-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-060-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-060-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-061",
+      "class": "C",
+      "category": "Water",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-061-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-061-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-061-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "PHOTO-062",
+      "class": "C",
+      "category": "Water",
+      "exports": [
+        {
+          "src": "/images/cinematic/photo-062-480.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-062-960.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        },
+        {
+          "src": "/images/cinematic/photo-062-1600.webp",
+          "exists": true,
+          "register_hash_matches": true,
+          "baseline_hash_matches": true
+        }
+      ]
+    }
+  ],
+  "all_selected_exports_preserved": true,
+  "installation_originals": [
+    {
+      "path": "public/images/installation/originals/1000039282.jpg",
+      "sha256": "25ce4dee36dfdcc857b7d71be9ba9c82789c2b011bfb743db88c713b6b874a19",
+      "baseline_hash_matches": true
+    },
+    {
+      "path": "public/images/installation/originals/1000039284.jpg",
+      "sha256": "9d6b61cd3f55c2f017cd4c220253706b0bd71efa059d21bb26f0a52fe7f68023",
+      "baseline_hash_matches": true
+    },
+    {
+      "path": "public/images/installation/originals/1000039285.jpg",
+      "sha256": "9d4d157051657ed078a04213c4fd5a808425f3859f90e4e6ef86495102390f97",
+      "baseline_hash_matches": true
+    }
+  ],
+  "all_installation_originals_preserved": true,
+  "retired_portrait_baseline_paths": [
+    "public/images/daniel-field-480.webp",
+    "public/images/daniel-field-864.webp",
+    "public/images/cinematic/portrait-1600.webp",
+    "public/images/cinematic/portrait-960.webp",
+    "public/images/cinematic/portrait-480.webp"
+  ],
+  "public_identical_retired_portrait_copies": [],
+  "retired_portrait_url_occurrences": 0,
+  "html_page_count": 26,
+  "public_route_count": 25,
+  "titles_unique": true,
+  "routes": [
+    {
+      "route": "/404.html",
+      "title": "Page unavailable | Daniel Ashagrie Ayele",
+      "description": "Civil engineering, infrastructure delivery, geospatial analysis, quantitative systems and AI research by Daniel Ashagrie Ayele.",
+      "canonical": "https://danny-jesus.github.io/404/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/home-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": "noindex",
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/about/",
+      "title": "About Daniel Ashagrie Ayele | Daniel Ashagrie Ayele",
+      "description": "Civil engineering, infrastructure coordination, construction supervision and computational research.",
+      "canonical": "https://danny-jesus.github.io/about/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/about-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/contact/",
+      "title": "Contact Daniel Ashagrie Ayele | Daniel Ashagrie Ayele",
+      "description": "Discuss civil infrastructure, specialist interiors, quantitative development and research with Daniel Ashagrie Ayele.",
+      "canonical": "https://danny-jesus.github.io/contact/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/contact-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/credentials/",
+      "title": "Professional Credentials | Daniel Ashagrie Ayele",
+      "description": "Daniel Ashagrie Ayele\u2019s civil engineering education, verified training, recognition and registration history.",
+      "canonical": "https://danny-jesus.github.io/credentials/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/credentials-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/field-community/",
+      "title": "Field, Training & Community | Daniel Ashagrie Ayele",
+      "description": "Owner-supplied training, community participation and field-supervision visual records, with image provenance kept visible.",
+      "canonical": "https://danny-jesus.github.io/field-community/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/field-community-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/",
+      "title": "Daniel Ashagrie Ayele | Civil Engineer & Quantitative Developer",
+      "description": "Civil engineering, infrastructure delivery, geospatial analysis, quantitative systems and AI research by Daniel Ashagrie Ayele.",
+      "canonical": "https://danny-jesus.github.io/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/home-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/aji-classroom/",
+      "title": "Aji Four-Classroom Construction | Daniel Ashagrie Ayele",
+      "description": "Continuous construction supervision and coordination for a four-classroom facility.",
+      "canonical": "https://danny-jesus.github.io/projects/aji-classroom/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/aji-classroom-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/anseta-opd/",
+      "title": "Anseta OPD Facility | Daniel Ashagrie Ayele",
+      "description": "Coordinated clinical building construction and supporting site infrastructure through completion.",
+      "canonical": "https://danny-jesus.github.io/projects/anseta-opd/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/anseta-opd-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/barguada-irrigation/",
+      "title": "Barguada Irrigation Canal | Daniel Ashagrie Ayele",
+      "description": "Design revisions and construction documentation supporting the canal extension.",
+      "canonical": "https://danny-jesus.github.io/projects/barguada-irrigation/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/barguada-irrigation-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/bisach-vet-post/",
+      "title": "Bisach Vet Post | Daniel Ashagrie Ayele",
+      "description": "A veterinary facility, livestock handling and supporting sanitation shown as a public-service environment.",
+      "canonical": "https://danny-jesus.github.io/projects/bisach-vet-post/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/bisach-vet-post-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/ftc-facilities/",
+      "title": "FTC Facilities | Daniel Ashagrie Ayele",
+      "description": "Exterior and interior views of owner-supplied FTC facilities.",
+      "canonical": "https://danny-jesus.github.io/projects/ftc-facilities/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/ftc-facilities-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/gosh-meda-mch/",
+      "title": "Gosh Meda MCH Facility | Daniel Ashagrie Ayele",
+      "description": "Healthcare delivery extending from site preparation to facility activation and formal handover.",
+      "canonical": "https://danny-jesus.github.io/projects/gosh-meda-mch/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/gosh-meda-mch-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/hydraulic-infrastructure/",
+      "title": "Irrigation, Dam & Reservoir Systems | Daniel Ashagrie Ayele",
+      "description": "Hydraulic context spanning storage, controlled conveyance and irrigated fields.",
+      "canonical": "https://danny-jesus.github.io/projects/hydraulic-infrastructure/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/hydraulic-infrastructure-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/",
+      "title": "Engineering Projects | Daniel Ashagrie Ayele",
+      "description": "The complete portfolio: education, healthcare, bridges, roads, water, irrigation, public-service facilities and specialist interiors.",
+      "canonical": "https://danny-jesus.github.io/projects/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/projects-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/insa-head-office/",
+      "title": "INSA Head Office | Daniel Ashagrie Ayele",
+      "description": "Office partition systems and associated interior works, with site coordination and material, workmanship and quality follow-up.",
+      "canonical": "https://danny-jesus.github.io/projects/insa-head-office/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/insa-head-office-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/institutional-installation-documentation/",
+      "title": "Shared Installation Documentation | Daniel Ashagrie Ayele",
+      "description": "Three authentic installation-stage photographs. Preserved as a shared archive without a specific institutional assignment.",
+      "canonical": "https://danny-jesus.github.io/projects/institutional-installation-documentation/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/institutional-installation-documentation-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/maintenance-rehabilitation/",
+      "title": "Maintenance & Rehabilitation | Daniel Ashagrie Ayele",
+      "description": "Paired site records show repair and rehabilitation context without rewriting the historical photograph.",
+      "canonical": "https://danny-jesus.github.io/projects/maintenance-rehabilitation/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/maintenance-rehabilitation-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/nefas-mewucha-road/",
+      "title": "Nefas Mewucha-Lay Gayint Road | Daniel Ashagrie Ayele",
+      "description": "Commercial and technical documentation supporting road construction and civil works.",
+      "canonical": "https://danny-jesus.github.io/projects/nefas-mewucha-road/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/nefas-mewucha-road-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/prime-ministers-office-press-offices/",
+      "title": "Press Secretariat of the Prime Minister\u2019s Office | Daniel Ashagrie Ayele",
+      "description": "Partition and soundproofing works supported by site measurements, installation coordination and quality follow-up.",
+      "canonical": "https://danny-jesus.github.io/projects/prime-ministers-office-press-offices/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/prime-ministers-office-press-offices-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/undp-head-office/",
+      "title": "UNDP Head Office | Daniel Ashagrie Ayele",
+      "description": "Partition systems and soundproofing works, with installation supervision and quality-control follow-up.",
+      "canonical": "https://danny-jesus.github.io/projects/undp-head-office/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/undp-head-office-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/warehouse-fdp/",
+      "title": "Warehouse, FDP & Operational Support Infrastructure | Daniel Ashagrie Ayele",
+      "description": "Storage buildings, large internal spaces and Rub Hall structures in the operational-support portfolio.",
+      "canonical": "https://danny-jesus.github.io/projects/warehouse-fdp/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/warehouse-fdp-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/water-wash/",
+      "title": "Water & WASH Infrastructure | Daniel Ashagrie Ayele",
+      "description": "Source development, collection, storage and conveyance viewed as connected civil systems.",
+      "canonical": "https://danny-jesus.github.io/projects/water-wash/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/water-wash-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/projects/zazi-bridge/",
+      "title": "Zazi Bridge Infrastructure Project | Daniel Ashagrie Ayele",
+      "description": "Structural and civil works, with technical follow-up, documentation and formal handover.",
+      "canonical": "https://danny-jesus.github.io/projects/zazi-bridge/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/zazi-bridge-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/research/",
+      "title": "Research Programs | Daniel Ashagrie Ayele",
+      "description": "XAUUSD quantitative research and PETRA AI: reproducible data, feature engineering, evaluation and review controls.",
+      "canonical": "https://danny-jesus.github.io/research/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/research-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/research/petra-ai/",
+      "title": "PETRA AI | Daniel Ashagrie Ayele",
+      "description": "An AI and software research program organized around deterministic processing, independent review and explicit authorization.",
+      "canonical": "https://danny-jesus.github.io/research/petra-ai/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/petra-ai-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    },
+    {
+      "route": "/research/xauusd-research/",
+      "title": "XAUUSD Market Structure & Quantitative Research | Daniel Ashagrie Ayele",
+      "description": "Historical data becomes availability-aware features, independently reconstructed evidence and reproducible research.",
+      "canonical": "https://danny-jesus.github.io/research/xauusd-research/",
+      "canonical_correct": true,
+      "h1_count": 1,
+      "og_image": "https://danny-jesus.github.io/social/xauusd-research-social.jpg",
+      "og_exists": true,
+      "twitter_matches_og": true,
+      "structured_data_valid": true,
+      "person_approved_portrait": true,
+      "favicons": [
+        "/favicon.svg",
+        "/favicon-32.png",
+        "/apple-touch-icon.png",
+        "/favicon.ico",
+        "/favicon-16.png"
+      ],
+      "favicons_exist": true,
+      "robots": null,
+      "external_scripts": [],
+      "unsafe_urls": [],
+      "missing_alt": 0
+    }
+  ],
+  "sitemap_count": 25,
+  "robots": "User-agent: *\nAllow: /\nSitemap: https://danny-jesus.github.io/sitemap.xml\n",
+  "404_noindex": true,
+  "source_maps": [],
+  "secret_scan": {
+    "text_files_scanned": 172,
+    "patterns": [
+      "private_key",
+      "github_token",
+      "github_pat",
+      "aws_access_key",
+      "openai_style_key"
+    ],
+    "findings_without_values": [],
+    "sensitive_name_candidates": []
+  },
+  "known_private_E_file": {
+    "path": "assets-originals/photo-library/Photos/Comm Training/Certificat.png",
+    "present_in_working_source": true,
+    "must_exclude_from_source_package": true,
+    "present_in_public_or_dist": false
+  },
+  "release_hold": {
+    "schema_version": "1.0",
+    "status": "HOLD",
+    "basis": "Controlled v7.1 rebuild. Approved portrait supplied by owner; publication requires separate final visual approval.",
+    "personal_brand_owner_approved": false,
+    "hero_portrait_owner_approved": true,
+    "temporary_portrait": false,
+    "public_upload_authorized": false,
+    "release_owner_approved": false,
+    "approval_evidence": null,
+    "review_only": true
+  },
+  "production_tree": {
+    "file_count": 306,
+    "content_manifest_sha256": "c4d49ef4121511dae19e85a99bc8c8734a1b76e1a7735371da50ac577d6e0512"
+  }
+}

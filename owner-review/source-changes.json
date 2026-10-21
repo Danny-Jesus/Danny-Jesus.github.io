@@ -1,0 +1,106 @@
+[
+  {
+    "path": "README.md",
+    "status": "changed"
+  },
+  {
+    "path": "RELEASE_HOLD.json",
+    "status": "changed"
+  },
+  {
+    "path": "assets-originals/approved-portrait/Friendly Outdoor Professional Portrait(1).png",
+    "status": "added"
+  },
+  {
+    "path": "docs/v7/APPROVED_PORTRAIT_DERIVATIVES.json",
+    "status": "added"
+  },
+  {
+    "path": "public/images/cinematic/portrait-1600.webp",
+    "status": "removed"
+  },
+  {
+    "path": "public/images/cinematic/portrait-480.webp",
+    "status": "removed"
+  },
+  {
+    "path": "public/images/cinematic/portrait-960.webp",
+    "status": "removed"
+  },
+  {
+    "path": "public/images/cinematic/portrait-approved-1254.webp",
+    "status": "added"
+  },
+  {
+    "path": "public/images/cinematic/portrait-approved-480.webp",
+    "status": "added"
+  },
+  {
+    "path": "public/images/cinematic/portrait-approved-960.webp",
+    "status": "added"
+  },
+  {
+    "path": "public/images/daniel-field-480.webp",
+    "status": "removed"
+  },
+  {
+    "path": "public/images/daniel-field-864.webp",
+    "status": "removed"
+  },
+  {
+    "path": "public/social/about-social.jpg",
+    "status": "changed"
+  },
+  {
+    "path": "public/social/contact-social.jpg",
+    "status": "changed"
+  },
+  {
+    "path": "public/social/credentials-social.jpg",
+    "status": "changed"
+  },
+  {
+    "path": "public/social/home-social.jpg",
+    "status": "changed"
+  },
+  {
+    "path": "scripts/prepare-approved-portrait.py",
+    "status": "added"
+  },
+  {
+    "path": "scripts/prepare-social-v7.py",
+    "status": "changed"
+  },
+  {
+    "path": "scripts/prepare-v7-assets.py",
+    "status": "changed"
+  },
+  {
+    "path": "scripts/rebuild-hero-review.mjs",
+    "status": "added"
+  },
+  {
+    "path": "scripts/record-v7-rebuilt.mjs",
+    "status": "added"
+  },
+  {
+    "path": "src/data/site.ts",
+    "status": "changed"
+  },
+  {
+    "path": "src/entry-server.tsx",
+    "status": "changed"
+  },
+  {
+    "path": "src/v7/Pages.tsx",
+    "status": "changed"
+  },
+  {
+    "path": "src/v7/Stories.tsx",
+    "status": "changed"
+  },
+  {
+    "path": "src/v7/site.css",
+    "status": "changed"
+  }
+]

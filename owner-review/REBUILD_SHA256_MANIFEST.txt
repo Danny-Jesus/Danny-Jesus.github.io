@@ -1,0 +1,3 @@
+# Source and Production final ZIP hashes. The final Review ZIP hash is in the separately supplied external manifest to avoid a circular self-hash.
+4bb48ccb3388d27154298006f8761840337a1aa2b7adcfbc6c8b4771800eae93  Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_1_REBUILT_Source.zip
+71b4da6a60552911f6005be390322fa6158f6b9e6093cac0745fbc5853e13371  Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_1_REBUILT_Production.zip

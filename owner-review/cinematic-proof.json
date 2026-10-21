@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-21T11:19:29.702Z",
+  "browser": "154.0.8037.57",
+  "desktop": [
+    {
+      "id": "identity",
+      "width": 1440,
+      "height": 1000,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "aji-classroom",
+      "width": 1440,
+      "height": 1000,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "anseta-opd",
+      "width": 1440,
+      "height": 1000,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "zazi-bridge",
+      "width": 1440,
+      "height": 1000,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "barguada-irrigation",
+      "width": 1440,
+      "height": 1000,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "undp-head-office",
+      "width": 1440,
+      "height": 1000,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "width": 1440,
+      "height": 1000,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "insa-head-office",
+      "width": 1440,
+      "height": 1000,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "research",
+      "width": 1440,
+      "height": 1000,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "petra",
+      "width": 1440,
+      "height": 1000,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    }
+  ],
+  "mobile": [
+    {
+      "id": "identity",
+      "width": 390,
+      "height": 900,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "aji-classroom",
+      "width": 390,
+      "height": 900,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "anseta-opd",
+      "width": 390,
+      "height": 900,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "zazi-bridge",
+      "width": 390,
+      "height": 900,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "barguada-irrigation",
+      "width": 390,
+      "height": 900,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "undp-head-office",
+      "width": 390,
+      "height": 900,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "width": 390,
+      "height": 900,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "insa-head-office",
+      "width": 390,
+      "height": 900,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "research",
+      "width": 390,
+      "height": 900,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    },
+    {
+      "id": "petra",
+      "width": 390,
+      "height": 900,
+      "render": "webgl",
+      "error": null,
+      "canvas": 1
+    }
+  ],
+  "consoleErrors": [],
+  "videos": [
+    {
+      "mode": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "frames": 2204,
+      "duration": 103.66402578353882,
+      "reachedDocumentEnd": true,
+      "method": "Native browser CDP screencast of continuous real scroll. Actual timestamps retained without duration clamping. No generated frames or simulated UI."
+    },
+    {
+      "mode": "mobile",
+      "width": 390,
+      "height": 900,
+      "frames": 3307,
+      "duration": 68.0472400188446,
+      "reachedDocumentEnd": true,
+      "method": "Native browser CDP screencast of continuous real scroll. Actual timestamps retained without duration clamping. No generated frames or simulated UI."
+    }
+  ]
+}

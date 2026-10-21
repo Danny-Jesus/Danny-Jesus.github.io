@@ -1,0 +1,5 @@
+
+> daniel-ashagrie-ayele-portfolio@7.1.0 release:check
+> node scripts/check-release-hold.mjs
+
+Release is on hold: the final authentic hero portrait and personal identity require owner review. Public upload and release approval remain unresolved. Internal builds and reviews remain available.

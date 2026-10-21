@@ -1,0 +1,11 @@
+
+> daniel-ashagrie-ayele-portfolio@7.1.0 test:performance
+> node scripts/performance-v7.mjs
+
+{"mode":"mobile","version":"13.5.0","scores":{"performance":84,"accessibility":100,"best-practices":100,"seo":100},"metrics":{"first-contentful-paint":{"value":1558.5549,"display":"1.6 s"},"largest-contentful-paint":{"value":2951.33235,"display":"3.0 s"},"total-blocking-time":{"value":404.5,"display":"400 ms"},"cumulative-layout-shift":{"value":0,"display":"0"},"speed-index":{"value":2390.6867978698046,"display":"2.4 s"}},"warnings":[],"opportunities":[{"id":"unused-javascript","title":"Reduce unused JavaScript","value":"Est savings of 100 KiB"}]}
+{"mode":"desktop","version":"13.5.0","scores":{"performance":89,"accessibility":100,"best-practices":100,"seo":100},"metrics":{"first-contentful-paint":{"value":370.3197,"display":"0.4 s"},"largest-contentful-paint":{"value":1238.559475,"display":"1.2 s"},"total-blocking-time":{"value":232,"display":"230 ms"},"cumulative-layout-shift":{"value":0,"display":"0"},"speed-index":{"value":1002.9639791670787,"display":"1.0 s"}},"warnings":[],"opportunities":[{"id":"unused-javascript","title":"Reduce unused JavaScript","value":"Est savings of 100 KiB"}]}
+npm notice
+npm notice New major version of npm available! 11.9.0 -> 12.2.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.0
+npm notice To update run: npm install -g npm@12.2.0
+npm notice

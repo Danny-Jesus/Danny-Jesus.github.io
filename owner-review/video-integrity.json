@@ -1,0 +1,28 @@
+[
+  {
+    "file": "FINAL_CINEMATIC_SCROLL_REVIEW.mp4",
+    "bytes": 40612539,
+    "codec": "h264",
+    "width": 1440,
+    "height": 1000,
+    "duration": 103.666,
+    "native_capture_duration": 103.66402578353882,
+    "frames": "2205",
+    "decode": "PASS",
+    "strictly_increasing_packet_dts": true,
+    "decode_verification": "FFmpeg passthrough with 1:1000 timebase: exit0, empty error log. Default null-mux timebase initially rounded variable timestamps; corrected verifier retained source timing, without changing MP4."
+  },
+  {
+    "file": "FINAL_MOBILE_SCROLL_REVIEW.mp4",
+    "bytes": 10513341,
+    "codec": "h264",
+    "width": 390,
+    "height": 900,
+    "duration": 68.049,
+    "native_capture_duration": 68.0472400188446,
+    "frames": "3308",
+    "decode": "PASS",
+    "strictly_increasing_packet_dts": true,
+    "decode_verification": "FFmpeg passthrough with 1:1000 timebase: exit0, empty error log. Default null-mux timebase initially rounded variable timestamps; corrected verifier retained source timing, without changing MP4."
+  }
+]

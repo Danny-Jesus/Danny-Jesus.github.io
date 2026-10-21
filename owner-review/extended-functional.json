@@ -1,0 +1,405 @@
+{
+  "date": "2026-10-21T11:17:35.760Z",
+  "browser": "154.0.8037.57",
+  "checks": [
+    "Homepage hero Explore Projects CTA performs native anchor navigation to Aji scene.",
+    "Desktop Projects navigation opens /projects/",
+    "Desktop Research navigation opens /research/",
+    "Desktop About navigation opens /about/",
+    "Desktop Contact navigation opens /contact/",
+    "Contact and footer LinkedIn/GitHub links have valid HTTPS URLs, noopener and new-tab targets. External account interaction not attempted.",
+    "Mobile menu opens with Enter, tabs through Projects then Research, keyboard selection navigates and closes menu.",
+    "Native lazy images remain unloaded far below viewport and decode successfully when scrolled into view; no eager override used."
+  ],
+  "deepReloads": [
+    {
+      "route": "/",
+      "status": 200,
+      "title": "Daniel Ashagrie Ayele | Civil Engineer & Quantitative Developer"
+    },
+    {
+      "route": "/projects/",
+      "status": 200,
+      "title": "Engineering Projects | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/research/",
+      "status": 200,
+      "title": "Research Programs | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/field-community/",
+      "status": 200,
+      "title": "Field, Training & Community | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/about/",
+      "status": 200,
+      "title": "About Daniel Ashagrie Ayele | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/credentials/",
+      "status": 200,
+      "title": "Professional Credentials | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/contact/",
+      "status": 200,
+      "title": "Contact Daniel Ashagrie Ayele | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/institutional-installation-documentation/",
+      "status": 200,
+      "title": "Shared Installation Documentation | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/gosh-meda-mch/",
+      "status": 200,
+      "title": "Gosh Meda MCH Facility | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/anseta-opd/",
+      "status": 200,
+      "title": "Anseta OPD Facility | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/zazi-bridge/",
+      "status": 200,
+      "title": "Zazi Bridge Infrastructure Project | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/barguada-irrigation/",
+      "status": 200,
+      "title": "Barguada Irrigation Canal | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/aji-classroom/",
+      "status": 200,
+      "title": "Aji Four-Classroom Construction | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/nefas-mewucha-road/",
+      "status": 200,
+      "title": "Nefas Mewucha-Lay Gayint Road | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/insa-head-office/",
+      "status": 200,
+      "title": "INSA Head Office | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/prime-ministers-office-press-offices/",
+      "status": 200,
+      "title": "Press Secretariat of the Prime Minister’s Office | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/undp-head-office/",
+      "status": 200,
+      "title": "UNDP Head Office | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/water-wash/",
+      "status": 200,
+      "title": "Water & WASH Infrastructure | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/hydraulic-infrastructure/",
+      "status": 200,
+      "title": "Irrigation, Dam & Reservoir Systems | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/bisach-vet-post/",
+      "status": 200,
+      "title": "Bisach Vet Post | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/ftc-facilities/",
+      "status": 200,
+      "title": "FTC Facilities | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/warehouse-fdp/",
+      "status": 200,
+      "title": "Warehouse, FDP & Operational Support Infrastructure | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/projects/maintenance-rehabilitation/",
+      "status": 200,
+      "title": "Maintenance & Rehabilitation | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/research/xauusd-research/",
+      "status": 200,
+      "title": "XAUUSD Market Structure & Quantitative Research | Daniel Ashagrie Ayele"
+    },
+    {
+      "route": "/research/petra-ai/",
+      "status": 200,
+      "title": "PETRA AI | Daniel Ashagrie Ayele"
+    }
+  ],
+  "console": [],
+  "pageErrors": [],
+  "requestFailures": [],
+  "badResponses": [],
+  "shortHero": [
+    {
+      "width": 390,
+      "height": 740,
+      "documentWidth": 390,
+      "portrait": {
+        "x": -23.40625,
+        "y": 76,
+        "right": 413.390625,
+        "bottom": 512.796875,
+        "width": 436.796875,
+        "height": 436.796875
+      },
+      "faceIncludingHair": {
+        "x": 103.26484375,
+        "y": 108.759765625,
+        "right": 291.0875,
+        "bottom": 342.44609375
+      },
+      "faceVisible": true,
+      "text": [
+        {
+          "text": "Daniel",
+          "x": 22,
+          "y": 450.984375,
+          "right": 118.84375,
+          "bottom": 491.40625,
+          "width": 96.84375,
+          "height": 40.421875
+        },
+        {
+          "text": "Ashagrie Ayele",
+          "x": 22,
+          "y": 491.40625,
+          "right": 250.046875,
+          "bottom": 531.828125,
+          "width": 228.046875,
+          "height": 40.421875
+        },
+        {
+          "text": "Civil Engineer & Quantitative Developer",
+          "x": 22,
+          "y": 543.828125,
+          "right": 368,
+          "bottom": 560.625,
+          "width": 346,
+          "height": 16.796875
+        },
+        {
+          "text": "I deliver civil infrastructure and build rigorous computational research systems.",
+          "x": 22,
+          "y": 570.625,
+          "right": 300.15625,
+          "bottom": 609,
+          "width": 278.15625,
+          "height": 38.375
+        },
+        {
+          "text": "Explore Projects LinkedIn GitHub ",
+          "x": 22,
+          "y": 624,
+          "right": 368,
+          "bottom": 672,
+          "width": 346,
+          "height": 48
+        }
+      ],
+      "overlap": [],
+      "actionsVisible": true
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "documentWidth": 320,
+      "portrait": {
+        "x": -19.203125,
+        "y": 76,
+        "right": 339.1875,
+        "bottom": 434.390625,
+        "width": 358.390625,
+        "height": 358.390625
+      },
+      "faceIncludingHair": {
+        "x": 84.73015625,
+        "y": 102.879296875,
+        "right": 238.838125,
+        "bottom": 294.61828125
+      },
+      "faceVisible": true,
+      "text": [
+        {
+          "text": "Daniel",
+          "x": 18,
+          "y": 424.140625,
+          "right": 100.828125,
+          "bottom": 458.6875,
+          "width": 82.828125,
+          "height": 34.546875
+        },
+        {
+          "text": "Ashagrie Ayele",
+          "x": 18,
+          "y": 458.6875,
+          "right": 213.015625,
+          "bottom": 493.234375,
+          "width": 195.015625,
+          "height": 34.546875
+        },
+        {
+          "text": "Civil Engineer & Quantitative Developer",
+          "x": 18,
+          "y": 505.234375,
+          "right": 302,
+          "bottom": 520.625,
+          "width": 284,
+          "height": 15.390625
+        },
+        {
+          "text": "I deliver civil infrastructure and build rigorous computational research systems.",
+          "x": 18,
+          "y": 530.625,
+          "right": 296.15625,
+          "bottom": 569,
+          "width": 278.15625,
+          "height": 38.375
+        },
+        {
+          "text": "Explore Projects LinkedIn GitHub ",
+          "x": 18,
+          "y": 584,
+          "right": 302,
+          "bottom": 632,
+          "width": 284,
+          "height": 48
+        }
+      ],
+      "overlap": [],
+      "actionsVisible": true
+    },
+    {
+      "width": 900,
+      "height": 390,
+      "documentWidth": 900,
+      "portrait": {
+        "x": 550.5,
+        "y": 82,
+        "right": 882,
+        "bottom": 413.5,
+        "width": 331.5,
+        "height": 331.5
+      },
+      "faceIncludingHair": {
+        "x": 646.635,
+        "y": 106.8625,
+        "right": 789.18,
+        "bottom": 284.21500000000003
+      },
+      "faceVisible": true,
+      "text": [
+        {
+          "text": "Daniel",
+          "x": 45,
+          "y": 342.65625,
+          "right": 165.5625,
+          "bottom": 390.140625,
+          "width": 120.5625,
+          "height": 47.484375
+        },
+        {
+          "text": "Ashagrie Ayele",
+          "x": 45,
+          "y": 390.140625,
+          "right": 328.875,
+          "bottom": 437.625,
+          "width": 283.875,
+          "height": 47.484375
+        },
+        {
+          "text": "Civil Engineer & Quantitative Developer",
+          "x": 45,
+          "y": 459.625,
+          "right": 855,
+          "bottom": 479.21875,
+          "width": 810,
+          "height": 19.59375
+        },
+        {
+          "text": "I deliver civil infrastructure and build rigorous computational research systems.",
+          "x": 45,
+          "y": 489.21875,
+          "right": 513.46875,
+          "bottom": 542,
+          "width": 468.46875,
+          "height": 52.78125
+        },
+        {
+          "text": "Explore Projects LinkedIn GitHub ",
+          "x": 45,
+          "y": 560,
+          "right": 855,
+          "bottom": 610,
+          "width": 810,
+          "height": 50
+        }
+      ],
+      "overlap": [],
+      "actionsVisible": false
+    }
+  ],
+  "socials": [
+    {
+      "label": "LinkedInProfessional profile",
+      "href": "https://www.linkedin.com/in/daniel-ashagrie-ayele/",
+      "target": "_blank",
+      "rel": "noopener noreferrer",
+      "valid": true
+    },
+    {
+      "label": "GitHubCode & collaboration",
+      "href": "https://github.com/Danny-Jesus",
+      "target": "_blank",
+      "rel": "noopener noreferrer",
+      "valid": true
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/daniel-ashagrie-ayele/",
+      "target": "_blank",
+      "rel": "noopener noreferrer",
+      "valid": true
+    },
+    {
+      "label": "GitHub",
+      "href": "https://github.com/Danny-Jesus",
+      "target": "_blank",
+      "rel": "noopener noreferrer",
+      "valid": true
+    }
+  ],
+  "lazy": {
+    "initialCount": 18,
+    "lazyCount": 16,
+    "unloadedLazyCount": 13,
+    "targetBefore": {
+      "src": "/images/cinematic/photo-054-960.webp",
+      "currentSrc": "",
+      "loading": "lazy",
+      "complete": false,
+      "naturalWidth": 0,
+      "top": 11109.421875
+    },
+    "targetAfter": {
+      "src": "http://127.0.0.1:38245/images/cinematic/photo-054-1600.webp",
+      "naturalWidth": 1440,
+      "complete": true,
+      "top": 82.421875
+    },
+    "videos": 0
+  },
+  "result": "PASS"
+}

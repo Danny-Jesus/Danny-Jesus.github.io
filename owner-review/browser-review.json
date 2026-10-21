@@ -1,0 +1,619 @@
+{
+  "date": "2026-10-21T11:17:15.923Z",
+  "browser": "154.0.8037.57",
+  "viewports": [
+    {
+      "width": 320,
+      "viewport": 320,
+      "document": 320,
+      "heroActions": 822
+    },
+    {
+      "width": 360,
+      "viewport": 360,
+      "document": 360,
+      "heroActions": 822
+    },
+    {
+      "width": 375,
+      "viewport": 375,
+      "document": 375,
+      "heroActions": 822
+    },
+    {
+      "width": 390,
+      "viewport": 390,
+      "document": 390,
+      "heroActions": 822
+    },
+    {
+      "width": 430,
+      "viewport": 430,
+      "document": 430,
+      "heroActions": 822
+    },
+    {
+      "width": 768,
+      "viewport": 768,
+      "document": 768,
+      "heroActions": 905
+    },
+    {
+      "width": 1024,
+      "viewport": 1024,
+      "document": 1024,
+      "heroActions": 900
+    },
+    {
+      "width": 1440,
+      "viewport": 1440,
+      "document": 1440,
+      "heroActions": 900
+    }
+  ],
+  "routes": [
+    {
+      "route": "/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/research/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/field-community/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/about/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/credentials/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/contact/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/institutional-installation-documentation/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/gosh-meda-mch/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/anseta-opd/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/zazi-bridge/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/barguada-irrigation/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/aji-classroom/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/nefas-mewucha-road/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/insa-head-office/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/prime-ministers-office-press-offices/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/undp-head-office/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/water-wash/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/hydraulic-infrastructure/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/bisach-vet-post/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/ftc-facilities/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/warehouse-fdp/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/maintenance-rehabilitation/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/research/xauusd-research/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/research/petra-ai/",
+      "width": 390,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/research/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/field-community/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/about/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/credentials/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/contact/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/institutional-installation-documentation/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/gosh-meda-mch/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/anseta-opd/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/zazi-bridge/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/barguada-irrigation/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/aji-classroom/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/nefas-mewucha-road/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/insa-head-office/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/prime-ministers-office-press-offices/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/undp-head-office/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/water-wash/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/hydraulic-infrastructure/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/bisach-vet-post/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/ftc-facilities/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/warehouse-fdp/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/projects/maintenance-rehabilitation/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/research/xauusd-research/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    },
+    {
+      "route": "/research/petra-ai/",
+      "width": 1440,
+      "status": 200,
+      "images": "PASS"
+    }
+  ],
+  "accessibility": [
+    {
+      "route": "/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/research/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/field-community/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/about/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/credentials/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/contact/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/institutional-installation-documentation/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/gosh-meda-mch/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/anseta-opd/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/zazi-bridge/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/barguada-irrigation/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/aji-classroom/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/nefas-mewucha-road/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/insa-head-office/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/prime-ministers-office-press-offices/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/undp-head-office/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/water-wash/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/hydraulic-infrastructure/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/bisach-vet-post/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/ftc-facilities/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/warehouse-fdp/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/projects/maintenance-rehabilitation/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/research/xauusd-research/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/research/petra-ai/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/research/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/field-community/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/about/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/credentials/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/contact/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/institutional-installation-documentation/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/gosh-meda-mch/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/anseta-opd/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/zazi-bridge/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/barguada-irrigation/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/aji-classroom/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/nefas-mewucha-road/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/insa-head-office/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/prime-ministers-office-press-offices/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/undp-head-office/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/water-wash/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/hydraulic-infrastructure/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/bisach-vet-post/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/ftc-facilities/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/warehouse-fdp/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/projects/maintenance-rehabilitation/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/research/xauusd-research/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "route": "/research/petra-ai/",
+      "width": 1440,
+      "violations": []
+    }
+  ],
+  "interactions": [
+    "Mobile menu, Escape and focus restoration.",
+    "Project filters select categories and restore all 15 cases.",
+    "Native lightbox, arrow navigation, keyboard containment, Escape and focus restoration.",
+    "Rehabilitation comparison supports keyboard interaction and site-specific pairs.",
+    "200% zoom equivalent reflow at 640px.",
+    "Prerendered homepage and case narrative work without JavaScript.",
+    "Unknown routes return actual 404 and noindex metadata."
+  ],
+  "errors": [],
+  "result": "PASS"
+}
