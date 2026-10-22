@@ -1,0 +1,40 @@
+{
+  "result": "PASS",
+  "method": "ffprobe counted all encoded frames and inspected codec/dimensions/duration; ffmpeg fully decoded both files to null without suppressing errors. Encoded/capture durations compared directly.",
+  "checks": [
+    {
+      "file": "videos/FINAL_CINEMATIC_SCROLL_REVIEW_CORRECTED.mp4",
+      "bytes": 44031153,
+      "sha256": "924461ea1f70cf96f17863189c78e7d1210b5283ea8e8915192e2df79290701c",
+      "codec": "h264",
+      "pixelFormat": "yuv420p",
+      "width": 1440,
+      "height": 1000,
+      "framesRead": 1352,
+      "encodedDurationSeconds": 132.836,
+      "capturedDurationSeconds": 132.8340299129486,
+      "durationDifferenceSeconds": 0.0019700870514043345,
+      "decodeExit": 0,
+      "decodeErrors": "",
+      "reachedDocumentEnd": true,
+      "result": "PASS"
+    },
+    {
+      "file": "videos/FINAL_MOBILE_SCROLL_REVIEW_CORRECTED.mp4",
+      "bytes": 12315052,
+      "sha256": "0caf15b20ad51a2559ce05ed588224c743d85c87cf62198954561806261f87ab",
+      "codec": "h264",
+      "pixelFormat": "yuv420p",
+      "width": 390,
+      "height": 900,
+      "framesRead": 2663,
+      "encodedDurationSeconds": 107.378,
+      "capturedDurationSeconds": 107.37552213668823,
+      "durationDifferenceSeconds": 0.002477863311767692,
+      "decodeExit": 0,
+      "decodeErrors": "",
+      "reachedDocumentEnd": true,
+      "result": "PASS"
+    }
+  ]
+}

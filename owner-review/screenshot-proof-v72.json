@@ -1,0 +1,796 @@
+{
+  "captureScope": "SCREENSHOTS_ONLY",
+  "videosRequested": false,
+  "date": "2026-10-22T05:40:57.739Z",
+  "browser": "154.0.8037.57",
+  "sourceIndexSha256": "c6606251eff49c40c8808256eda8053ad23e1c5a8b7c6335af350913fc3b2cb8",
+  "desktop": [
+    {
+      "id": "aji-classroom",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "5",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "anseta-opd",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "1",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, -0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "gosh-meda-mch",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "42",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "bisach-vet-post",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "56",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "ftc-facilities",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "24",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, -0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "warehouse-fdp",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "19",
+      "photoTransform": "matrix3d(1.09998, 0, -0.00671948, 0, 0, 1.1, 0, 0, 0.00610861, 0, 0.999981, 0, 10.4832, -6.24, 0, 1)",
+      "webgl": null
+    },
+    {
+      "id": "zazi-bridge",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "48",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "nefas-mewucha-road",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "50",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, -0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "road-bridge-culvert",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "49",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "barguada-irrigation",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "27",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "hydraulic-infrastructure",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "25",
+      "photoTransform": "matrix3d(1.09998, 0, 0.00671948, 0, 0, 1.1, 0, 0, -0.00610861, 0, 0.999981, 0, -10.4832, -6.24, 0, 1)",
+      "webgl": null
+    },
+    {
+      "id": "water-wash",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "62",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "maintenance-rehabilitation",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "37",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "supervision-field-practice",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "54",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, -0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "undp-head-office",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "46",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "44",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "insa-head-office",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "43",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, -0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "training-artisan",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "7",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "wash-community-training",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "13",
+      "photoTransform": "matrix(1.0625, 0, 0, 1.0625, 0.748797, -1.04)",
+      "webgl": null
+    },
+    {
+      "id": "community-participation-awareness",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "16",
+      "photoTransform": "matrix3d(1.09998, 0, 0.00671948, 0, 0, 1.1, 0, 0, -0.00610861, 0, 0.999981, 0, -10.4832, -6.24, 0, 1)",
+      "webgl": null
+    },
+    {
+      "id": "research",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": null,
+      "photoId": null,
+      "photoTransform": null,
+      "webgl": "webgl"
+    },
+    {
+      "id": "petra",
+      "width": 1440,
+      "height": 1000,
+      "motion": "ready",
+      "mode": null,
+      "photoId": null,
+      "photoTransform": null,
+      "webgl": "webgl"
+    }
+  ],
+  "mobile": [
+    {
+      "id": "aji-classroom",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "5",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "anseta-opd",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "1",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, -0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "gosh-meda-mch",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "42",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "bisach-vet-post",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "56",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "ftc-facilities",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "24",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, -0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "warehouse-fdp",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "19",
+      "photoTransform": "matrix(1.065, 0, 0, 1.065, 2.78447, -5.508)",
+      "webgl": null
+    },
+    {
+      "id": "zazi-bridge",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "48",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "nefas-mewucha-road",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "50",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, -0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "road-bridge-culvert",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "49",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "barguada-irrigation",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "27",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "hydraulic-infrastructure",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "layered",
+      "photoId": "25",
+      "photoTransform": "matrix(1.065, 0, 0, 1.065, -2.78447, -5.508)",
+      "webgl": null
+    },
+    {
+      "id": "water-wash",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "62",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "maintenance-rehabilitation",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "37",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "supervision-field-practice",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "54",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, -0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "undp-head-office",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "46",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "44",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "insa-head-office",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "43",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, -0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "training-artisan",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "7",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "wash-community-training",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "13",
+      "photoTransform": "matrix(1.0451, 0, 0, 1.0451, 0.207244, -0.932688)",
+      "webgl": null
+    },
+    {
+      "id": "community-participation-awareness",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": "intact",
+      "photoId": "16",
+      "photoTransform": "matrix(1.065, 0, 0, 1.065, -2.78447, -5.508)",
+      "webgl": null
+    },
+    {
+      "id": "research",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": null,
+      "photoId": null,
+      "photoTransform": null,
+      "webgl": "webgl"
+    },
+    {
+      "id": "petra",
+      "width": 390,
+      "height": 900,
+      "motion": "ready",
+      "mode": null,
+      "photoId": null,
+      "photoTransform": null,
+      "webgl": "webgl"
+    }
+  ],
+  "pageErrors": [],
+  "console": [],
+  "failedRequests": [],
+  "videos": [],
+  "screenshots": [
+    {
+      "id": "identity",
+      "mode": "desktop",
+      "file": "screenshots/HERO_DESKTOP_1440_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "aji-classroom",
+      "mode": "desktop",
+      "file": "screenshots/AJI_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "anseta-opd",
+      "mode": "desktop",
+      "file": "screenshots/ANSETA_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "gosh-meda-mch",
+      "mode": "desktop",
+      "file": "screenshots/MCH_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "bisach-vet-post",
+      "mode": "desktop",
+      "file": "screenshots/VET_POST_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "ftc-facilities",
+      "mode": "desktop",
+      "file": "screenshots/FTC_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "warehouse-fdp",
+      "mode": "desktop",
+      "file": "screenshots/WAREHOUSE_FDP_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "zazi-bridge",
+      "mode": "desktop",
+      "file": "screenshots/ZAZI_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "nefas-mewucha-road",
+      "mode": "desktop",
+      "file": "screenshots/NEFAS_ROAD_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "road-bridge-culvert",
+      "mode": "desktop",
+      "file": "screenshots/ROAD_CULVERT_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "barguada-irrigation",
+      "mode": "desktop",
+      "file": "screenshots/BARGUADA_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "hydraulic-infrastructure",
+      "mode": "desktop",
+      "file": "screenshots/HYDRAULIC_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "water-wash",
+      "mode": "desktop",
+      "file": "screenshots/WATER_WASH_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "maintenance-rehabilitation",
+      "mode": "desktop",
+      "file": "screenshots/MAINTENANCE_REHAB_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "supervision-field-practice",
+      "mode": "desktop",
+      "file": "screenshots/SUPERVISION_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "undp-head-office",
+      "mode": "desktop",
+      "file": "screenshots/UNDP_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "mode": "desktop",
+      "file": "screenshots/PMO_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "insa-head-office",
+      "mode": "desktop",
+      "file": "screenshots/INSA_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "training-artisan",
+      "mode": "desktop",
+      "file": "screenshots/TRAINING_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "wash-community-training",
+      "mode": "desktop",
+      "file": "screenshots/WASH_TRAINING_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "community-participation-awareness",
+      "mode": "desktop",
+      "file": "screenshots/COMMUNITY_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "research",
+      "mode": "desktop",
+      "file": "screenshots/XAUUSD_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "petra",
+      "mode": "desktop",
+      "file": "screenshots/PETRA_AI_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "credentials-about-contact",
+      "mode": "desktop",
+      "file": "screenshots/DESKTOP_CREDENTIALS_ABOUT_CONTACT_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "identity",
+      "mode": "mobile",
+      "file": "screenshots/HERO_MOBILE_390_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "aji-classroom",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_AJI_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "anseta-opd",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_ANSETA_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "gosh-meda-mch",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_MCH_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "bisach-vet-post",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_VET_POST_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "ftc-facilities",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_FTC_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "warehouse-fdp",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_WAREHOUSE_FDP_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "zazi-bridge",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_ZAZI_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "nefas-mewucha-road",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_NEFAS_ROAD_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "road-bridge-culvert",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_ROAD_CULVERT_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "barguada-irrigation",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_BARGUADA_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "hydraulic-infrastructure",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_HYDRAULIC_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "water-wash",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_WATER_WASH_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "maintenance-rehabilitation",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_MAINTENANCE_REHAB_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "supervision-field-practice",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_SUPERVISION_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "undp-head-office",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_UNDP_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_PMO_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "insa-head-office",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_INSA_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "training-artisan",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_TRAINING_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "wash-community-training",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_WASH_TRAINING_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "community-participation-awareness",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_COMMUNITY_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "research",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_XAUUSD_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "petra",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_PETRA_AI_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "credentials-about-contact",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_CREDENTIALS_ABOUT_CONTACT_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    }
+  ],
+  "result": "PASS",
+  "screenshotMode": "CAPTURED_THIS_RUN",
+  "videoStatus": "NOT_RUN_AWAITING_ISOLATED_LIGHTHOUSE_COMPLETION"
+}

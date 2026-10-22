@@ -1,0 +1,87 @@
+{
+  "parts": [
+    [
+      "DANIEL_V7_SOURCE.part001",
+      31457280,
+      "a93821e2a12327de010907af4d3cfc6e9fce91793ea68e1f06536966b532dbeb"
+    ],
+    [
+      "DANIEL_V7_SOURCE.part002",
+      31457280,
+      "0ed2c265aedd34593c9b19625b0a09a7088ae4f84fa7649141fcc8326f59d675"
+    ],
+    [
+      "DANIEL_V7_SOURCE.part003",
+      31457280,
+      "0f110276d9edccbcb45838cbff9017000a386149c00063bd234b4bd96a2cfde1"
+    ],
+    [
+      "DANIEL_V7_SOURCE.part004",
+      31457280,
+      "d3b4d2f296c5c70b04ba8656b72098b40a562444963c4114b2d13559443be860"
+    ],
+    [
+      "DANIEL_V7_SOURCE.part005",
+      31457280,
+      "3cd0e1179746b7e9573e2924d52c3d4f5c1082396635529242260b9fe544d7ef"
+    ],
+    [
+      "DANIEL_V7_SOURCE.part006",
+      31457280,
+      "a26c50275a29ed9d48c877bcb2bebf78a72f4fbdf7a0ea6b08545465ab975d85"
+    ],
+    [
+      "DANIEL_V7_SOURCE.part007",
+      28834346,
+      "a28f0823baf4969c38c0cad6f01eb25a8267250df1bd05fa5dd2c6c31345220b"
+    ],
+    [
+      "DANIEL_V7_REVIEW.part001",
+      31457280,
+      "567a499d434bdee3b626e4d0a86a01c095a29ca8f733f047699879a820eab705"
+    ],
+    [
+      "DANIEL_V7_REVIEW.part002",
+      31457280,
+      "e88356b647e7bdd4ab398933ac35f07c3b1895a3fe411e65503113eb0b98627a"
+    ],
+    [
+      "DANIEL_V7_REVIEW.part003",
+      31457280,
+      "456e4c9395e1641efd4b9997cf32c6b2a85384814373d661ee0ce3b9c097cac7"
+    ],
+    [
+      "DANIEL_V7_REVIEW.part004",
+      31457280,
+      "e3402f3ac4a101b61ba21b57bd4649bc6e1957b237bc6f20141449cbc4f473d5"
+    ],
+    [
+      "DANIEL_V7_REVIEW.part005",
+      31457280,
+      "1ab6c7edf3be8802f99c781af767391d217ce626932251d0eafe41a960968134"
+    ],
+    [
+      "DANIEL_V7_REVIEW.part006",
+      30163019,
+      "a36fa7e5b35d19eeca353b25e7d32d0db5816c3d4eca7bd195622ba46ed42e47"
+    ]
+  ],
+  "archives": [
+    {
+      "kind": "SOURCE",
+      "size": 217578026,
+      "sha256": "de6f9dd8ef79cb42b4ef6db495a6b262c60d3a74294a3a3661804040f5d53c7f",
+      "members": 541,
+      "uncompressed": 222331064,
+      "extracted": "/workspace/rebuild-evidence/source-baseline"
+    },
+    {
+      "kind": "REVIEW",
+      "size": 187449419,
+      "sha256": "1e6480efee0b1f543443a7007295a3fbc9925e6d000b4cde541807220edfd3f5",
+      "members": 162,
+      "uncompressed": 206264540,
+      "extracted": "/workspace/rebuild-evidence/reference"
+    }
+  ]
+}

@@ -1,0 +1,1064 @@
+{
+  "scope": "Read-only evidence/mask recommendation audit of current supplied library. Does not establish scene acceptance before implementation or independent source provenance.",
+  "coverage": "20 photographic workstreams + XAUUSD + PETRA AI + credentials/about/contact closing group =23 required category groups.",
+  "contact_sheet": "/workspace/v72-correction/photo-audit-contact-sheet.jpg",
+  "global_rules": [
+    "Preserve existing A/B/C/D/E classes. Current chosen photographic portfolio images are B/C, not documentary A.",
+    "Never upgrade C to documentary. Class B unconfirmed provenance receives explicit HOLD under newest fail-closed rule.",
+    "Project facts/narratives may remain verified independently of photo assignment; frame named scenes as conceptual context until imagery assignment is evidenced.",
+    "Pure same-photo masks and intact planes avoid generation; do not claim measured depth maps or automatic segmentation.",
+    "Maintenance pair35/37 is a recorded same-site pairing, not evidence of dated scope, causality or assignment.",
+    "FTA/FDP acronyms must not be expanded absent evidence; existing route slugs remain.",
+    "Any use of shared authentic installation originals must remain unassigned to named facilities."
+  ],
+  "scenes": [
+    {
+      "coverage_number": 1,
+      "scene_slug": "aji-classroom",
+      "category": "Aji Four-Classroom Construction",
+      "source_images": [
+        {
+          "id": 5,
+          "name": "Classroom building context",
+          "public_src": "/images/cinematic/photo-005-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Class Room/Class room.png",
+          "original_sha256": "1bedcc446848d34230c81b193dd0f15f979b7dbe4dc210c749141f92f2428db5",
+          "public_sha256": "74a9c7b79d28d755314fa86c67c22f17b5672b28ba94fbe98bb8165ecff1b739",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 6,
+          "name": "Furnished classroom interior",
+          "public_src": "/images/cinematic/photo-006-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Class Room/Classroom.png",
+          "original_sha256": "c0dc3fd25e43828687ee3938a0d772503ae2df2076e9453e14ff4829015946d7",
+          "public_sha256": "3b19d32adfacb821428ddfd51d76c0395da9e084a3f2448b57a565de473ee114",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 4,
+          "name": "Classroom ceiling detail",
+          "public_src": "/images/cinematic/photo-004-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Class Room/Class room ceiling.png",
+          "original_sha256": "336b40cd775f85231caee2fa1bd6a54031ee950629f5f907bc6e15d82f07b39e",
+          "public_sha256": "9919dbaba1c3a98b875bee2e20659c9fde71e698e0cec6a1b42591de44e140cb",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/aji-classroom/",
+      "kind": "building",
+      "background": "Sky/trees behind the roofline.",
+      "midground": "Exact classroom exterior roof/walls.",
+      "foreground": "Nearby gravel/planting at bottom edge.",
+      "recommended_masks_layers": "feathered ground band y\u22480.78\u20131; optional building silhouette only after careful roof/edge tracing",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 2,
+      "scene_slug": "anseta-opd",
+      "category": "Anseta OPD Facility",
+      "source_images": [
+        {
+          "id": 1,
+          "name": "OPD facility context",
+          "public_src": "/images/cinematic/photo-001-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Anseta OPD/Anseta OPD con.png",
+          "original_sha256": "dd0663fa1eac82a700609a2b52a35eec72d3ec1cf61630037077ee3c473687c4",
+          "public_sha256": "f15b2099c99741f3275aa6d81b34fb2622ef11aa639b0b3f81527904f5f3df3d",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 2,
+          "name": "OPD construction context",
+          "public_src": "/images/cinematic/photo-002-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Anseta OPD/Anseta Opd pic.png",
+          "original_sha256": "cfbb7fde6444d2cb626c3d77d7195c8d1f6e6777ac07e2e0e12b8edb36cb3cc4",
+          "public_sha256": "14afbe598ec3c67c96db44a294bb1de59b90ba378218a4d57a763982a195ab1a",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 3,
+          "name": "VIP latrine support facility",
+          "public_src": "/images/cinematic/photo-003-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Anseta OPD/Vip Latrane.png",
+          "original_sha256": "19c4e8f32cceafdc1b364e76c037c5bcd2599f6088228365aa522beddd8c6532",
+          "public_sha256": "5337bf5344fb0aec5a293d07ce8092b2e874c20cf06bc21d0ff46f52fc8e3297",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/anseta-opd/",
+      "kind": "landscape-building",
+      "background": "Sky and distant hills.",
+      "midground": "Exact visible OPD roofs, walls and verandah.",
+      "foreground": "Vegetation/terrain below and left of building.",
+      "recommended_masks_layers": "intact landscape base; soft vegetation band y\u22480.70\u20131; conservative facility region x\u22480.27\u20131,y\u22480.34\u20130.73; no generic frame",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 5,
+      "scene_slug": "gosh-meda-mch",
+      "category": "Gosh Meda MCH Facility",
+      "source_images": [
+        {
+          "id": 42,
+          "name": "Maternal and child health facility context",
+          "public_src": "/images/cinematic/photo-042-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Mch/Modern Rural MCH Health Facility.png",
+          "original_sha256": "026de0803de4b7979f838926dd2a44c4bc61ff5109be0077d9772aca482a5dbe",
+          "public_sha256": "ede74923468814a368510fb124ada3d6b3fdad0a2015b6619524c8c99dcd2d25",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 40,
+          "name": "Maternal and child clinic waiting room",
+          "public_src": "/images/cinematic/photo-040-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Mch/Bright Maternal and Child Clinic Waiting Room.png",
+          "original_sha256": "4925431ca980419f97e7361ba46b697dd678d8e12fa05c9917b5bef3ffe1ff01",
+          "public_sha256": "29739c853c767563aa518ff170dfeebcfdf3e1dce99c932618165787ffbd00a4",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 41,
+          "name": "Maternal and child clinic interior",
+          "public_src": "/images/cinematic/photo-041-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Mch/ChatGPT Image Oct 7, 2026, 02_33_57 PM.png",
+          "original_sha256": "8138334942510e0b421fb1c91e80f167c6d01a4020a54a64b87042f3202fa1a5",
+          "public_sha256": "02ff113b078b8851591e2deb21fb17dda86ded93128cbd8ecd8f49d9ca514115",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/gosh-meda-mch/",
+      "kind": "building",
+      "background": "Sky and trees behind clinic.",
+      "midground": "Exact clinic exterior.",
+      "foreground": "Low planting, path and ground.",
+      "recommended_masks_layers": "soft ground band y\u22480.76\u20131; preserve roof contour in intact base",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 10,
+      "scene_slug": "bisach-vet-post",
+      "category": "Bisach Vet Post",
+      "source_images": [
+        {
+          "id": 56,
+          "name": "Veterinary facility context",
+          "public_src": "/images/cinematic/photo-056-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Vet Post Bisach/Bisach Vet post.png",
+          "original_sha256": "d058efb060620c75f38136d7e6666100657054b3e5724377300aef09cb0b9f41",
+          "public_sha256": "0caa623c322ced4112acf8a218427e4ba854bf7bd95647cf631233ed9ac722b7",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 57,
+          "name": "Cattle crush context",
+          "public_src": "/images/cinematic/photo-057-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Vet Post Bisach/Cattle crash.png",
+          "original_sha256": "80c1ece1b09c705da8f9c563f79bd6a6e10aa860fd2d4d75084df860a089f5bc",
+          "public_sha256": "b90af9f3477225c4a5155df0a135d4097b1a1707172e02b1ad93e7afb23a4095",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 58,
+          "name": "Veterinary support infrastructure",
+          "public_src": "/images/cinematic/photo-058-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Vet Post Bisach/Vip Latrane and Incilinator.png",
+          "original_sha256": "28c93fca1f8d44a7a70df585e71dc8a5f4326b2a13310308002b430e34f971ab",
+          "public_sha256": "90b1786ad911db3ced31a2dec6188d06359d211cf77dd3e878d418558c676ec0",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/bisach-vet-post/",
+      "kind": "building",
+      "background": "Sky beyond the veterinary building.",
+      "midground": "Exact veterinary building and visible corners.",
+      "foreground": "Adjacent ground and stone plinth.",
+      "recommended_masks_layers": "intact perspective plane; soft lower ground band only, no reconstructed wall/roof behind edges",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 11,
+      "scene_slug": "ftc-facilities",
+      "category": "FTC Facilities",
+      "source_images": [
+        {
+          "id": 24,
+          "name": "FTC facility context",
+          "public_src": "/images/cinematic/photo-024-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/FTC/Warkaye FTC Simada.png",
+          "original_sha256": "8e217ce5c88bff43d3b37c19242e935c375340b2fcbb6cd87d67503d1abd34b8",
+          "public_sha256": "8c48d537e1b1db8705228997bc0b26bb7cf89ba30bc8dac7bfd7bba25880cb1c",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 22,
+          "name": "FTC facility exterior",
+          "public_src": "/images/cinematic/photo-022-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/FTC/Kutmnder FTC (2).png",
+          "original_sha256": "4563aebb354cb35783c0d7186ea03b32e98ee7758ede76bccacc31b7f3bacf74",
+          "public_sha256": "3ba75394c30fd711e0f981d724feb11ed36c284355d4d4ea3fe6f4f2e2fe39fe",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 23,
+          "name": "FTC facility construction view",
+          "public_src": "/images/cinematic/photo-023-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/FTC/Kutmnder FTC.png",
+          "original_sha256": "166a3a846e4a38d9efc2b2ec867138eed6811fa95471511785e72707d23ff17d",
+          "public_sha256": "5ca60267639ab648377803d00cf446ece2e8a23be7324a904eb9cc4f047d98bb",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 21,
+          "name": "FTC facility interior",
+          "public_src": "/images/cinematic/photo-021-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/FTC/Intrnal.png",
+          "original_sha256": "713ef22a9969feba607d5a243d81927b54c9ecd9499034e9d5d2abaa7fcce4df",
+          "public_sha256": "cc62e98eb04a133b02d23971c0b2757e4caa3adb502d3b4e8764dc1c76526388",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/ftc-facilities/",
+      "kind": "building",
+      "background": "Sky and distant field.",
+      "midground": "Exact facility exterior.",
+      "foreground": "Grass and nearer earth.",
+      "recommended_masks_layers": "soft grass band y\u22480.78\u20131; full facility plane retained",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 12,
+      "scene_slug": "warehouse-fdp",
+      "category": "Warehouse / FDP / Rub Hall / operational support infrastructure",
+      "source_images": [
+        {
+          "id": 19,
+          "name": "Warehouse exterior",
+          "public_src": "/images/cinematic/photo-019-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/FDP and warehouse/Modern Industrial Warehouse Exterior.png",
+          "original_sha256": "e2e5399674baed3b1f4b80e46cb57ff249f877365d98537eb9d645956b821967",
+          "public_sha256": "a43f0531123974f25e738b0c49af92668de0b2e13364a93970cfad888c7e4867",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 20,
+          "name": "Rub Hall structural interior",
+          "public_src": "/images/cinematic/photo-020-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/FDP and warehouse/Rub Hall Construction (2).png",
+          "original_sha256": "8d304f5a44f0fcd151bdd1603b600ed832c02235b60b6b42e03ef89e99202129",
+          "public_sha256": "42965dfd937674a9e03721b5a7089069abd8c3dc850e3baf8d4be35f51092f44",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 17,
+          "name": "Warehouse internal space",
+          "public_src": "/images/cinematic/photo-017-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/FDP and warehouse/Empty Industrial Warehouse Interior.png",
+          "original_sha256": "9ee50718d6409ac2f59646e7bd031a942b15f9a8325c02f9ded8ab05332705be",
+          "public_sha256": "d91fc6fec97d149731fd41b8659ed005cfc12a104f8d6b2d131ab7a126c5deb8",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 18,
+          "name": "Field operational-support structure",
+          "public_src": "/images/cinematic/photo-018-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/FDP and warehouse/Humanitarian Field Tent in Rocky Landscape.png",
+          "original_sha256": "67fa6756392bf4bea35d60b302cddafd62266aa4cd7fde05d368b70580b3ce0c",
+          "public_sha256": "18b25a94ee0c71790f7e57841f27eacebdff2ce13882960591c8365a7fd2cdba",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/warehouse-fdp/",
+      "kind": "building",
+      "background": "Sky beyond warehouse exterior.",
+      "midground": "Exact facade/structural roof and openings.",
+      "foreground": "Near approach ground.",
+      "recommended_masks_layers": "soft lower approach band y\u22480.76\u20131; second Rub Hall image as edge-to-edge documentary dissolve, not card",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 3,
+      "scene_slug": "zazi-bridge",
+      "category": "Zazi Bridge Infrastructure Project",
+      "source_images": [
+        {
+          "id": 48,
+          "name": "Road culvert in mountain landscape",
+          "public_src": "/images/cinematic/photo-048-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Road/Completed Rural Culvert Bridge in Mountain Landscape.png",
+          "original_sha256": "0e45f4ecbf8d4520d6914849b7be327adf52b77daeb52e41f281a20a3278ce7d",
+          "public_sha256": "70478e78bce18e4d96ac63219975ff170e88783f9e3f3d0131e8de2ff125d4e4",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 49,
+          "name": "Stone culvert road context",
+          "public_src": "/images/cinematic/photo-049-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Road/Completed Rural Stone Culvert Bridge.png",
+          "original_sha256": "d02f52506e7bde1dc68d0a15a57efe54ae083e2350043ec224c8662d956800c8",
+          "public_sha256": "9d8ae418d3a3a9a4925c838f22a91128173b1cdb300ba803d2809918943181fa",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 47,
+          "name": "Culvert inlet context",
+          "public_src": "/images/cinematic/photo-047-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Road/ChatGPT Image Oct 7, 2026, 10_53_25 PM.png",
+          "original_sha256": "d5925a4ad9aff8096e37b1a30108eda4acbc26de9bd80c148c2861b4b22a01d5",
+          "public_sha256": "2d6ee9ddb5fc779d00c70878aab221dff84720d8a26956306999facf66c8f436",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/zazi-bridge/",
+      "kind": "transport",
+      "background": "Sky and far mountain slope.",
+      "midground": "Visible road/culvert structure in supplied conceptual context.",
+      "foreground": "Near shrubs, rocky terrain and ravine.",
+      "recommended_masks_layers": "soft shrubs/terrain foreground band; intact road/culvert plate behind it; no invented bridge model or inferred bridge-axis survey",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Selected visual is explicitly road/culvert conceptual context; no evidence uniquely assigns it to Zazi or establishes the actual Zazi structural system."
+      ]
+    },
+    {
+      "coverage_number": 6,
+      "scene_slug": "nefas-mewucha-road",
+      "category": "Nefas Mewucha\u2013Lay Gayint Road",
+      "source_images": [
+        {
+          "id": 50,
+          "name": "Road construction illustrative triptych",
+          "public_src": "/images/cinematic/photo-050-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Road/Professional Road Construction Triptych.png",
+          "original_sha256": "aa820e1b306ec5d407c82eb694708d03a9ffc2b45dcc6fe1be1ef30c8cc57028",
+          "public_sha256": "d9c3752b6e505b9051d524387dcbcf2288cd2fc011864211bc32a04caf390eb4",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 48,
+          "name": "Road culvert in mountain landscape",
+          "public_src": "/images/cinematic/photo-048-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Road/Completed Rural Culvert Bridge in Mountain Landscape.png",
+          "original_sha256": "0e45f4ecbf8d4520d6914849b7be327adf52b77daeb52e41f281a20a3278ce7d",
+          "public_sha256": "70478e78bce18e4d96ac63219975ff170e88783f9e3f3d0131e8de2ff125d4e4",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 49,
+          "name": "Stone culvert road context",
+          "public_src": "/images/cinematic/photo-049-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Road/Completed Rural Stone Culvert Bridge.png",
+          "original_sha256": "d02f52506e7bde1dc68d0a15a57efe54ae083e2350043ec224c8662d956800c8",
+          "public_sha256": "9d8ae418d3a3a9a4925c838f22a91128173b1cdb300ba803d2809918943181fa",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/nefas-mewucha-road/",
+      "kind": "intact-montage",
+      "background": "Sky/trees already inside the supplied three-panel composition.",
+      "midground": "Road and machine/person panels inside the supplied composition.",
+      "foreground": "Near road texture inside original panels.",
+      "recommended_masks_layers": "use intact photo-montage plane; no segmentation pretending three panels form one physical view",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 7,
+      "scene_slug": "road-bridge-culvert",
+      "category": "Road / bridge / culvert infrastructure",
+      "source_images": [
+        {
+          "id": 49,
+          "name": "Stone culvert road context",
+          "public_src": "/images/cinematic/photo-049-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Road/Completed Rural Stone Culvert Bridge.png",
+          "original_sha256": "d02f52506e7bde1dc68d0a15a57efe54ae083e2350043ec224c8662d956800c8",
+          "public_sha256": "9d8ae418d3a3a9a4925c838f22a91128173b1cdb300ba803d2809918943181fa",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 48,
+          "name": "Road culvert in mountain landscape",
+          "public_src": "/images/cinematic/photo-048-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Road/Completed Rural Culvert Bridge in Mountain Landscape.png",
+          "original_sha256": "0e45f4ecbf8d4520d6914849b7be327adf52b77daeb52e41f281a20a3278ce7d",
+          "public_sha256": "70478e78bce18e4d96ac63219975ff170e88783f9e3f3d0131e8de2ff125d4e4",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 47,
+          "name": "Culvert inlet context",
+          "public_src": "/images/cinematic/photo-047-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Road/ChatGPT Image Oct 7, 2026, 10_53_25 PM.png",
+          "original_sha256": "d5925a4ad9aff8096e37b1a30108eda4acbc26de9bd80c148c2861b4b22a01d5",
+          "public_sha256": "2d6ee9ddb5fc779d00c70878aab221dff84720d8a26956306999facf66c8f436",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/nefas-mewucha-road/",
+      "kind": "transport",
+      "background": "Far roadside and trees.",
+      "midground": "Exact culvert inlet, parapet and road.",
+      "foreground": "Near stones, shrubs and channel.",
+      "recommended_masks_layers": "ground/vegetation feather band y\u22480.75\u20131 over intact culvert plate; avoid topology or span assertions",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 4,
+      "scene_slug": "barguada-irrigation",
+      "category": "Barguada Irrigation Canal",
+      "source_images": [
+        {
+          "id": 27,
+          "name": "Irrigation and field conveyance",
+          "public_src": "/images/cinematic/photo-027-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Irrigation and dam/Irrigation.png",
+          "original_sha256": "650b988abc532fec5cf2c5917867de3518d7f5675682113653ce8c0a2b2d97df",
+          "public_sha256": "4bc8cbf2fe740532026e76d167603bc8121108ed057faf9e7a3255d597abae6e",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 28,
+          "name": "Reservoir context",
+          "public_src": "/images/cinematic/photo-028-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Irrigation and dam/Reserviour.png",
+          "original_sha256": "618e62c07dd33483c18f202005c148f243e3a67b5abf5951344c747ea6fa4847",
+          "public_sha256": "17f077b8ef0b6ecf1bd9766ce96f527e59bd41ba5ad678ab4bd3123362218e63",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 25,
+          "name": "Dam and spillway context",
+          "public_src": "/images/cinematic/photo-025-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Irrigation and dam/Dam.png",
+          "original_sha256": "2c73c18b37af2e67973dc47bf7f9784b65fe87f0470b7ae395dd88b9fdb6ac7b",
+          "public_sha256": "ecccdbc8fc45480136c8fbda478fead9d76f3d670a9ca7d859641225a20eff01",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/barguada-irrigation/",
+      "kind": "landscape",
+      "background": "Distant landscape and trees.",
+      "midground": "Visible irrigated field rows and conveyance in supplied context.",
+      "foreground": "Near soil/vegetation rows.",
+      "recommended_masks_layers": "intact field base with soft lower soil/row band; no hydraulic streamlines unless tracing a visible channel only",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 9,
+      "scene_slug": "hydraulic-infrastructure",
+      "category": "Irrigation / dam / reservoir systems",
+      "source_images": [
+        {
+          "id": 25,
+          "name": "Dam and spillway context",
+          "public_src": "/images/cinematic/photo-025-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Irrigation and dam/Dam.png",
+          "original_sha256": "2c73c18b37af2e67973dc47bf7f9784b65fe87f0470b7ae395dd88b9fdb6ac7b",
+          "public_sha256": "ecccdbc8fc45480136c8fbda478fead9d76f3d670a9ca7d859641225a20eff01",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 28,
+          "name": "Reservoir context",
+          "public_src": "/images/cinematic/photo-028-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Irrigation and dam/Reserviour.png",
+          "original_sha256": "618e62c07dd33483c18f202005c148f243e3a67b5abf5951344c747ea6fa4847",
+          "public_sha256": "17f077b8ef0b6ecf1bd9766ce96f527e59bd41ba5ad678ab4bd3123362218e63",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 27,
+          "name": "Irrigation and field conveyance",
+          "public_src": "/images/cinematic/photo-027-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Irrigation and dam/Irrigation.png",
+          "original_sha256": "650b988abc532fec5cf2c5917867de3518d7f5675682113653ce8c0a2b2d97df",
+          "public_sha256": "4bc8cbf2fe740532026e76d167603bc8121108ed057faf9e7a3255d597abae6e",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 26,
+          "name": "Family hand-dug well context",
+          "public_src": "/images/cinematic/photo-026-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Irrigation and dam/Family hand dug well.png",
+          "original_sha256": "ef81735ca8f20fe96823c12f2971d39e25b5c33d0641f8f078f2732e3eeee89d",
+          "public_sha256": "a8984897c4d324dadea43ba01a452801d1d4064ddd6be8b35f864a26414b573f",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/hydraulic-infrastructure/",
+      "kind": "hydraulic",
+      "background": "Sky and far bank/trees.",
+      "midground": "Exact visible dam/spillway or reservoir plate.",
+      "foreground": "Near vegetation and edge terrain.",
+      "recommended_masks_layers": "dam base with feathered near-vegetation band; reservoir as a separate fullbleed plate/dissolve, never an invented common hydraulic model",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 8,
+      "scene_slug": "water-wash",
+      "category": "Water & WASH infrastructure",
+      "source_images": [
+        {
+          "id": 62,
+          "name": "Spring development context",
+          "public_src": "/images/cinematic/photo-062-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Water/Spring Development.png",
+          "original_sha256": "79eaa788847102d27e9201d48e83c322d1b51216df6622f47576675f0e4a423b",
+          "public_sha256": "ae77a332b7477597d5ed481c0283662ae83701e01670d6c3d8ad49d4c28fcf08",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 59,
+          "name": "Hand-dug well water point",
+          "public_src": "/images/cinematic/photo-059-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Water/Hand dug well (2).png",
+          "original_sha256": "2704273df127e97096b68ecd2bf6c4e35083663c75754b48ace2d6df8ae16c5e",
+          "public_sha256": "89995711b9edd02b7e9e75a5525361d4ebea284a9dec766bc44be3e8479377ce",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 61,
+          "name": "Water reservoir inspection context",
+          "public_src": "/images/cinematic/photo-061-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Water/Inspecting a Rural Water Reservoir.png",
+          "original_sha256": "c9a50e65a96b55fef9605f36ff86e66b2cb5c5c554a8fb45dfdfb12acd2bf3d1",
+          "public_sha256": "119987a02f9173ec3adeca5677f8664e0c6ff38e87ee5f18dd709f6816c8f7e4",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 60,
+          "name": "Hand-dug well construction context",
+          "public_src": "/images/cinematic/photo-060-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Water/Hand dug well.png",
+          "original_sha256": "561a922e3417ed862e87c4143d87129b6c7d47ffb1d93572ed38e37f0d6a29be",
+          "public_sha256": "600610309462bd55f87c2880cf55bbf3c3fb40d60e068db8cb3c40a4eea996ee",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/water-wash/",
+      "kind": "intact-montage",
+      "background": "Original far field/trees above water structure.",
+      "midground": "Exact supplied spring-development/well visual.",
+      "foreground": "Near water-point apron/foreground people already in source.",
+      "recommended_masks_layers": "intact source plate preferred: photo62 is a split/composite; do not separate people or fabricate occluded structure",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 13,
+      "scene_slug": "maintenance-rehabilitation",
+      "category": "Maintenance & Rehabilitation",
+      "source_images": [
+        {
+          "id": 35,
+          "name": "Saka Health Post before view",
+          "public_src": "/images/cinematic/photo-035-1600.webp",
+          "provenance_class": "B",
+          "provenance_label": "Owner-supplied photograph; provenance to confirm",
+          "original_path": "assets-originals/photo-library/Photos/Maintainance and rehabilitation/Saka Health post maintainance/Before, Saka Health care.jpg",
+          "original_sha256": "cf5692bb9281961b83a8f077edc84ead39eb55f8ec131e94b955df9b829cd390",
+          "public_sha256": "f0c8b673a35195c3d5fe975bbafe9d22acb82757d44d8091a30a04443f400c8a",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 37,
+          "name": "Saka Health Post after view",
+          "public_src": "/images/cinematic/photo-037-1600.webp",
+          "provenance_class": "B",
+          "provenance_label": "Owner-supplied photograph; provenance to confirm",
+          "original_path": "assets-originals/photo-library/Photos/Maintainance and rehabilitation/Saka Health post maintainance/Saka After Health Care.jpg",
+          "original_sha256": "ae70c4db4ac66e04df897462013100fb3ff74b3d389ef6a34c277c279f0ada3f",
+          "public_sha256": "446e85b0fcc968cc81631feaed011dc75c253812408c6d6ebcd6c0e428537cfc",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/maintenance-rehabilitation/",
+      "kind": "matched-pair",
+      "background": "Existing sky/trees in each original photograph.",
+      "midground": "Same Saka Health Post pair, different views/angles.",
+      "foreground": "Existing ground in each photo.",
+      "recommended_masks_layers": "whole-photo before/after wipe or dissolve; no geometric morph, replacement construction or perspective synthesis",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "HOLD",
+      "holds_or_boundaries": [
+        "Class B before/after provenance, dates, exact scope and site attribution remain unconfirmed. Owner confirmation is required; no documentary PASS is claimed."
+      ]
+    },
+    {
+      "coverage_number": 20,
+      "scene_slug": "supervision-field-practice",
+      "category": "Supervision / field practice",
+      "source_images": [
+        {
+          "id": 54,
+          "name": "Valley team field practice",
+          "public_src": "/images/cinematic/photo-054-1600.webp",
+          "provenance_class": "B",
+          "provenance_label": "Owner-supplied photograph; provenance to confirm",
+          "original_path": "assets-originals/photo-library/Photos/Supev/09-valley-team-panorama.jpg",
+          "original_sha256": "aad0da2b063b6613a2666c355cee7db75faeade98ffcda1848d598433c30f181",
+          "public_sha256": "90b71c484e8ff6bb1fea26d9ceccba02a0336e06e57eff4be1da41308cca0b41",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 53,
+          "name": "Hillside team field practice",
+          "public_src": "/images/cinematic/photo-053-1600.webp",
+          "provenance_class": "B",
+          "provenance_label": "Owner-supplied photograph; provenance to confirm",
+          "original_path": "assets-originals/photo-library/Photos/Supev/08-hillside-team-portrait.jpg",
+          "original_sha256": "39db60a3eb6325db268381f52d7760737edbc11f79880465de68f776668a46c6",
+          "public_sha256": "ee02f6c05e5bf7c84f77751b6ca81fa97a0fb63bc510b62d0d66e3c4991262c4",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/field-community/",
+      "kind": "people-landscape",
+      "background": "Far valley, mountains and sky.",
+      "midground": "Hillside team as supplied.",
+      "foreground": "Grass/near rocky ground.",
+      "recommended_masks_layers": "intact human/group photo plane; optional feathered bottom grass only; keep people unsegmented to avoid edge/body invention",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "HOLD",
+      "holds_or_boundaries": [
+        "Class B provenance, participant permissions, exact date/assignment and event/site history remain unconfirmed. Owner confirmation required; no documentary PASS."
+      ]
+    },
+    {
+      "coverage_number": 14,
+      "scene_slug": "undp-head-office",
+      "category": "UNDP Head Office",
+      "source_images": [
+        {
+          "id": 46,
+          "name": "UNDP illustrative institutional context",
+          "public_src": "/images/cinematic/photo-046-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Modrn/UNDP/UNDP Head office.png",
+          "original_sha256": "0f910f9bca2e0db52a67d48562ce3dffae502edc826ca0f2d441126581580263",
+          "public_sha256": "11d2079e6832450422a6f05a8d8fa923356b0e5bf10207dc67af13ab77ce0123",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/undp-head-office/",
+      "kind": "intact-montage",
+      "background": "Different source panels are illustrative facade/interior contexts.",
+      "midground": "Visible partition/window rhythms within original panels.",
+      "foreground": "Existing photographed floor/approach portions only.",
+      "recommended_masks_layers": "intact supplied montage plane; no facade/interior reconstructed unity; no additional 3D building",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Illustrative source montage only. No exact named-facility photo assignment; specialist partition/interior scope only; do not attribute whole-building delivery."
+      ]
+    },
+    {
+      "coverage_number": 15,
+      "scene_slug": "prime-ministers-office-press-offices",
+      "category": "Press Secretariat of the Prime Minister\u2019s Office",
+      "source_images": [
+        {
+          "id": 44,
+          "name": "Press Secretariat illustrative interior context",
+          "public_src": "/images/cinematic/photo-044-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Modrn/PMO/PM Presing.png",
+          "original_sha256": "3028d2bbab9587d646ca248a685b58f2ea8d6c4ab946c9423a1d7cec639cb971",
+          "public_sha256": "1970d2361cf7100243253e560ebe8755aeb5de92ab985367f19d7e7ccdc07689",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/prime-ministers-office-press-offices/",
+      "kind": "intact-montage",
+      "background": "Original conference/interior panels.",
+      "midground": "Visible interior/glazed partition planes in each panel.",
+      "foreground": "Original table/floor and lower partition details.",
+      "recommended_masks_layers": "intact supplied montage plate with shallow camera drift; any technical trace must stay within one actual panel or be omitted",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Illustrative source montage only. No exact named-facility photo assignment; specialist partition/interior scope only; do not attribute whole-building delivery."
+      ]
+    },
+    {
+      "coverage_number": 16,
+      "scene_slug": "insa-head-office",
+      "category": "INSA Head Office",
+      "source_images": [
+        {
+          "id": 43,
+          "name": "INSA illustrative institutional context",
+          "public_src": "/images/cinematic/photo-043-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Modrn/INSA/INSA Head Office.png",
+          "original_sha256": "2d8b1f575233d65a4dd7f3991d28cb49671976d468e4ffce0901e0a93b69c0c2",
+          "public_sha256": "10473b07e41401d850a80b48b6fd99def23a4fd7edcf2676bbf1888ef8ee48d5",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/projects/insa-head-office/",
+      "kind": "intact-montage",
+      "background": "Original building/interior panels.",
+      "midground": "Original glazing and partition panel details.",
+      "foreground": "Existing original pavement/floor portions.",
+      "recommended_masks_layers": "intact supplied montage plate; explicit specialist-interiors scope; no 3D whole-building attribution",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Illustrative source montage only. No exact named-facility photo assignment; specialist partition/interior scope only; do not attribute whole-building delivery."
+      ]
+    },
+    {
+      "coverage_number": 17,
+      "scene_slug": "training-artisan",
+      "category": "Training / artisan training",
+      "source_images": [
+        {
+          "id": 7,
+          "name": "Artisan graduation and tool handover",
+          "public_src": "/images/cinematic/photo-007-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Comm Training/Artisian Graduation and tool distribution.png",
+          "original_sha256": "9413139638d910068ea15a5142957f757478406a5693fcee9a9dea4c6b60c7b1",
+          "public_sha256": "07a86f809f36fbb24f51d7fcdce179b978927f263b8d28bffd0a107db2c86bf4",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 11,
+          "name": "Technical workshop",
+          "public_src": "/images/cinematic/photo-011-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Comm Training/Workshop.png",
+          "original_sha256": "e3ed2de314a72d5e57566c9239d5c833cc86b9c5153c4775be2c1cd4b5cd200b",
+          "public_sha256": "ea3c1a29a6b95f33ccac86114e4a8af8fc3e968e46a665dde6042d57d76c35c5",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 12,
+          "name": "Artisan training group",
+          "public_src": "/images/cinematic/photo-012-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Comm Training/artisian training (2).png",
+          "original_sha256": "e73f02a92e1db352736bb8e12b0105c18698bf6169604525b512686aa2ca1f95",
+          "public_sha256": "ead9f60275a81cbace628d97b01c28e92717bf41b50ccee487a4a7a209a3b788",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 8,
+          "name": "Practical artisan training",
+          "public_src": "/images/cinematic/photo-008-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Comm Training/Artisian Training.png",
+          "original_sha256": "f137f6c1e646110b635d279b241ed8d690c3d985bca1ee25278532e916af1626",
+          "public_sha256": "fd013d06ed5743f5ef6c3121c66634b1ba9e94d65607b26edee58fa1528c158e",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/field-community/",
+      "kind": "people-interior",
+      "background": "Room wall/poster context already visible.",
+      "midground": "Trainer, participants and tool-handover presentation.",
+      "foreground": "Seated attendees/tables in exact supplied image.",
+      "recommended_masks_layers": "intact photo plane; do not cut/generate body regions; whole-plate perspective/dolly is safer than person segmentation",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 18,
+      "scene_slug": "wash-community-training",
+      "category": "WASH / community training",
+      "source_images": [
+        {
+          "id": 13,
+          "name": "WASH community training",
+          "public_src": "/images/cinematic/photo-013-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Comm Training/train wash comm.png",
+          "original_sha256": "d7c3c914a944ea3c910d290ad32069a43931714dbfcb1cd1c30ddc09f249c80c",
+          "public_sha256": "34efaf7ab72ba1d31327bcb91f5425d9940cfd11b788b95bf34be0ae900cd819",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 10,
+          "name": "Community hall training session",
+          "public_src": "/images/cinematic/photo-010-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Comm Training/Community Hall Training Session.png",
+          "original_sha256": "2ac6ff91c405604b4049af18c9fcac518b542b9a3528d15b60bb33878ae46ea8",
+          "public_sha256": "81f9e8063c283dd3dd6663347ff588ca88c752e9e68a15f3e8343e33d3b3ac5d",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/field-community/",
+      "kind": "people-interior",
+      "background": "Classroom walls, posters and rear field of view.",
+      "midground": "Trainer and participant rows.",
+      "foreground": "Nearest chairs/attendees from original.",
+      "recommended_masks_layers": "intact photo plane with restrained lateral drift; no generated faces/bodies or inferred named event",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    },
+    {
+      "coverage_number": 19,
+      "scene_slug": "community-participation-awareness",
+      "category": "Community participation / awareness",
+      "source_images": [
+        {
+          "id": 16,
+          "name": "Community awareness session",
+          "public_src": "/images/cinematic/photo-016-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Community Participation/Community awairness.png",
+          "original_sha256": "f055d3ecca83723f421c44efe325ebcea4a9e576662a3354be45569c5c530781",
+          "public_sha256": "9862bd1c04b21658221d4c0a33ca111e966627a0e980cfca6f380bec43b2e16d",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        },
+        {
+          "id": 15,
+          "name": "Community participation in earthworks",
+          "public_src": "/images/cinematic/photo-015-1600.webp",
+          "provenance_class": "C",
+          "provenance_label": "Conceptual / edited visualization",
+          "original_path": "assets-originals/photo-library/Photos/Community Participation/Community Participation.png",
+          "original_sha256": "8e79ad4a74cf23e758ea912ce69f85c5553c7992cc5374be0a28413764e23f55",
+          "public_sha256": "a8c08c4c326fc79f5ebdd484c4b32cdab6e33cc520d82067dafd39e9f03e15d3",
+          "source_assignment": "Folder context only; not documentary proof of a named project."
+        }
+      ],
+      "dedicated_route": "/field-community/",
+      "kind": "people-landscape",
+      "background": "Trees/landscape in original supplied views.",
+      "midground": "Community meeting or earthwork participants.",
+      "foreground": "Nearest seated audience/earth already visible.",
+      "recommended_masks_layers": "intact human-scene plane; near-earth soft band only if it avoids people; fullbleed awareness\u2192participation dissolve",
+      "camera_recommendation": "Small source-preserving dolly/lateral shift; foreground/background differential only where layers are responsibly bounded. Keep an overscanned intact source below every mask; never fill missing pixels or synthesize occlusion.",
+      "technical_graphics": "Omit generic WebGL meshes/wireframes. Omission is preferred over inaccurate correspondence. If any graphic is added, document exact visible feature/panel it traces; no dimensions or systems inferred.",
+      "webgl_fallback": "Photo-depth CSS/GSAP can operate without WebGL. Reduced-motion/save-data must retain intact untransformed photograph and all text/links.",
+      "visual_integration_acceptance": "NOT YET EVALUATED \u2014 requires fresh implemented scene/scroll inspection.",
+      "provenance_disposition": "CONDITIONAL_CONTEXT_ONLY",
+      "holds_or_boundaries": [
+        "Class C imagery may be used only as explicitly conceptual/edited context. Named-project documentary assignment is unconfirmed and must not be implied."
+      ]
+    }
+  ],
+  "nonphotographic_groups": [
+    {
+      "category": "XAUUSD Market Structure & Quantitative Research",
+      "provenance_class": "D",
+      "route": "/research/xauusd-research/",
+      "boundary": "Synthetic normalized geometry; research methodology, no measured profitability or model result."
+    },
+    {
+      "category": "PETRA AI",
+      "provenance_class": "D/C brand context",
+      "route": "/research/petra-ai/",
+      "boundary": "Preserve supplied brand; schematic governance/dataset/model language, unresolved gates remain held."
+    },
+    {
+      "category": "Credentials / About / Contact",
+      "routes": [
+        "/credentials/",
+        "/about/",
+        "/contact/"
+      ],
+      "boundary": "Use existing source-reported facts; no unsupported credentials. Approved hero PNG remains canonical."
+    }
+  ]
+}

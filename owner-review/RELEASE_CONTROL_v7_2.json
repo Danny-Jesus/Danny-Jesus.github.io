@@ -1,0 +1,17 @@
+{
+  "publication": "HOLD_PENDING_OWNER_VISUAL_APPROVAL",
+  "v72_actions": {
+    "push_to_main": false,
+    "push_any_branch": false,
+    "merge": false,
+    "release": false,
+    "deploy": false,
+    "github_pages_configuration_changed": false,
+    "live_website_modified": false
+  },
+  "last_verified_remote_main": "59a53041351954950a52ebba8c9d89287dbbcfff",
+  "pre_existing_review_branch": "review/v7-1-owner-approval",
+  "last_verified_review_branch_commit": "3616e03ed3a89ba1f13cd9539a049acf0b40bfba",
+  "source_reproducibility": "PASS;318 production members match byte-for-byte",
+  "environment_draft": "Saved only; not applied or published."
+}

@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "source_package_sha256": "67155df4b3e0b8473b533c49ea58dfe9b6e862fc9063e744da2dd2a51b77d0fb",
+  "method": "Fresh extraction of final Source ZIP, npm ci locked workflow using shared download cache, full production build including TypeScript/prerender/verifier, exhaustive byte/hash comparison with reviewed production manifest.",
+  "npm_ci": "PASS",
+  "build": "PASS",
+  "compared_members": 318,
+  "exact_member_set_and_sizes_and_sha256": "PASS",
+  "private_E_and_retired_originals_excluded": "PASS",
+  "node_modules_and_dist_excluded": "PASS",
+  "dependency_updates": "NONE; version metadata only",
+  "limitations": "Shared npm download cache; fresh extracted project and fresh node_modules.",
+  "source_isolation_directory": "/workspace/v72-correction/source-isolation-final/daniel-portfolio-v7-2-corrected",
+  "review_encoder": "Explicit full-range JPEG to limited-range yuv420p conversion; original CDP timestamps retained."
+}

@@ -1,0 +1,38 @@
+{
+  "result": "PASS",
+  "date": "2026-10-22T05:42:06.990Z",
+  "screenshots": [
+    {
+      "mode": "desktop",
+      "id": "ABOUT",
+      "selector": ".about-close",
+      "file": "screenshots/DESKTOP_ABOUT_CLOSE_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "mode": "desktop",
+      "id": "CONTACT",
+      "selector": ".contact-close",
+      "file": "screenshots/DESKTOP_CONTACT_CLOSE_CORRECTED.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "mode": "mobile",
+      "id": "ABOUT",
+      "selector": ".about-close",
+      "file": "screenshots/MOBILE_ABOUT_CLOSE_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "mode": "mobile",
+      "id": "CONTACT",
+      "selector": ".contact-close",
+      "file": "screenshots/MOBILE_CONTACT_CLOSE_CORRECTED.png",
+      "width": 390,
+      "height": 900
+    }
+  ]
+}

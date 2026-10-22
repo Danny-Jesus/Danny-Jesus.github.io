@@ -1,0 +1,417 @@
+{
+  "result": "PASS",
+  "productionIndexSha256": "c6606251eff49c40c8808256eda8053ad23e1c5a8b7c6335af350913fc3b2cb8",
+  "requiredCount": 25,
+  "requiredPresent": 25,
+  "missing": [],
+  "pngFiles": 58,
+  "verification": "Every PNG opened and CRC-verified with Pillow; dimensions, byte counts and SHA-256 recorded. Required names extracted from controlling owner correction command.",
+  "members": [
+    {
+      "file": "screenshots/AJI_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1470911,
+      "sha256": "1e6f6c3dfba9996191317826f485ddc7bb90f15a132c869bc23f74228c4a0663"
+    },
+    {
+      "file": "screenshots/ANSETA_BEFORE_AFTER_CINEMATIC.png",
+      "width": 1440,
+      "height": 665,
+      "bytes": 985703,
+      "sha256": "8b8b77d365ff48ec1b269ef81549d873fdd57e5bba2e4a48c8995a0fe410c17b"
+    },
+    {
+      "file": "screenshots/ANSETA_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1743293,
+      "sha256": "7abd647b363977c59b9a134fc6f2a04d340ac2141d00c2420a221fe1f6c08615"
+    },
+    {
+      "file": "screenshots/BARGUADA_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1953399,
+      "sha256": "5a010417e876219a9347848c032f8848a1162820173d7fce48322104d8a23208"
+    },
+    {
+      "file": "screenshots/COMMUNITY_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1593130,
+      "sha256": "4d8377ff91628ca750a5ea7982e0ca4ddb31819ee88923112a9742a278d75422"
+    },
+    {
+      "file": "screenshots/DESKTOP_ABOUT_CLOSE_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 74793,
+      "sha256": "40f55a2d1f72a4a73d90c47c2c947413975c4142df1faeb81fb22f5e57fa65ef"
+    },
+    {
+      "file": "screenshots/DESKTOP_CONTACT_CLOSE_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 73110,
+      "sha256": "26abcbe2e9aa895953e4bff46f083ab9682dbfdfbbce2312af68b9b277ed8c97"
+    },
+    {
+      "file": "screenshots/DESKTOP_CREDENTIALS_ABOUT_CONTACT_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 73346,
+      "sha256": "2447ece7cc402c255921346dec3c28463964fcad34df67c32146954c5e2c63b8"
+    },
+    {
+      "file": "screenshots/FTC_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1228976,
+      "sha256": "907cf9ec1398a3a5bcb115168e360569a5ebf8efe9708fae8d1eb151eb0523b5"
+    },
+    {
+      "file": "screenshots/HERO_DESKTOP_1440_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1144701,
+      "sha256": "83376a8e16a5a8a70d11940f5f9f14e95bd1bd1ba4ed49b493578ebd5bf91f08"
+    },
+    {
+      "file": "screenshots/HERO_MOBILE_390_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 267618,
+      "sha256": "13e63337bc9cbe40d84ee15ac1998a8acfa058635297444efa443edde875d176"
+    },
+    {
+      "file": "screenshots/HOMEPAGE_ALL_23_CATEGORIES_DESKTOP_CONTACT_SHEET.png",
+      "width": 2400,
+      "height": 2195,
+      "bytes": 4948157,
+      "sha256": "58e40f980633f7f3d01c1665fa507e4b4f8e636e99e657120327238883ef2a7f"
+    },
+    {
+      "file": "screenshots/HOMEPAGE_ALL_23_CATEGORIES_MOBILE_CONTACT_SHEET.png",
+      "width": 2400,
+      "height": 3230,
+      "bytes": 4051070,
+      "sha256": "20fd7a6291b3a05f0209c13c488279d2c454ca3c8a2329fa5d1f01b8c040bb62"
+    },
+    {
+      "file": "screenshots/HYDRAULIC_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1933057,
+      "sha256": "8159d5553806c2387161177f58be17fb6e3dcaf19e9750715abcd0d87053f64f"
+    },
+    {
+      "file": "screenshots/INSA_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1325464,
+      "sha256": "d9ac5540d805fa42649d70c7738d1033b7d3c26f8e504ef0af746d4866640af5"
+    },
+    {
+      "file": "screenshots/LOGO_BRAND_LOCKUP_DESKTOP.png",
+      "width": 1440,
+      "height": 80,
+      "bytes": 12200,
+      "sha256": "98e0ad46bfec917cd4a1f2a33f5bd915f4d87170eda136cb98edb87a2e04a16b"
+    },
+    {
+      "file": "screenshots/LOGO_BRAND_LOCKUP_MOBILE.png",
+      "width": 390,
+      "height": 76,
+      "bytes": 6900,
+      "sha256": "a1759312d65c4c6e68c8620b8296dc6ffe7f9f62b54176a768247f9e54b4a5aa"
+    },
+    {
+      "file": "screenshots/LOGO_USAGE_COMPARISON.png",
+      "width": 1800,
+      "height": 1570,
+      "bytes": 1482238,
+      "sha256": "01acee857fa6194d9c3fb8923887f11aaf528c286f4b5973c962837cda12dc84"
+    },
+    {
+      "file": "screenshots/MAINTENANCE_REHAB_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1567356,
+      "sha256": "710a0fd1c6c33e1dfd66b97682f9e42f3f8727b5d1cc709596871df1f2046be7"
+    },
+    {
+      "file": "screenshots/MCH_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1681105,
+      "sha256": "eb93722616bfc0692271e934bcca59f2da0c8a7640d0447cf81e04742b79554d"
+    },
+    {
+      "file": "screenshots/MOBILE_ABOUT_CLOSE_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 47886,
+      "sha256": "87f2354229bc19ba27a720f1eed1ebc2c6a530af36e8af6d2f4239f5bb79ac16"
+    },
+    {
+      "file": "screenshots/MOBILE_AJI_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 399470,
+      "sha256": "61081a417193a23a506f2aab78a334f78d5c7c09ebf420c7d407d2d9ed2e17bc"
+    },
+    {
+      "file": "screenshots/MOBILE_ANSETA_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 419680,
+      "sha256": "6e7c2db54e7c475f1f4c9b8da8e270db797be429408ac820b4e8ca3b1dbd7606"
+    },
+    {
+      "file": "screenshots/MOBILE_BARGUADA_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 456035,
+      "sha256": "5b63f2971bc4c00611d72e3b85fdde67e1963f1af3e394cce7db5cbd0017e6f6"
+    },
+    {
+      "file": "screenshots/MOBILE_COMMUNITY_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 428452,
+      "sha256": "00f08044295621a1b3bc80e0864711f1eddcd38c3b6859937decfc5e8cf09ae0"
+    },
+    {
+      "file": "screenshots/MOBILE_CONTACT_CLOSE_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 46756,
+      "sha256": "66cc99a4582edc1adde62fd63c3b52c08901ce803525693bdb351d7e12fdbe78"
+    },
+    {
+      "file": "screenshots/MOBILE_CREDENTIALS_ABOUT_CONTACT_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 50977,
+      "sha256": "a92143b086b171125cab358d29e806f83250b498393923c9551ee49e9a70d9c8"
+    },
+    {
+      "file": "screenshots/MOBILE_FTC_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 305059,
+      "sha256": "44619b9b3c2be9d30efcfa8192e78722668c759c4d5fd42f8e145b2873e08299"
+    },
+    {
+      "file": "screenshots/MOBILE_HYDRAULIC_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 479042,
+      "sha256": "701c8d6ba21a8d472a1ac436cc73690c544d94eec4cc8e7dab3fd28641dab8ab"
+    },
+    {
+      "file": "screenshots/MOBILE_INSA_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 258758,
+      "sha256": "9ea3f03e24fd2c5bb8f9a5b6de5e3fe0dd37e9e9a27884cdff5d23d85f06cdd0"
+    },
+    {
+      "file": "screenshots/MOBILE_MAINTENANCE_REHAB_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 335673,
+      "sha256": "c3956715ad4c73026117232e29dc142a92ecb683d68cbe54cb208425e4f2ae59"
+    },
+    {
+      "file": "screenshots/MOBILE_MCH_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 402240,
+      "sha256": "f057d7ba1c174afc5e8668b87d6309a27db58337bfc4e94c90c2cf623d50d9e6"
+    },
+    {
+      "file": "screenshots/MOBILE_NEFAS_ROAD_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 496641,
+      "sha256": "87cb9880c44038914a411bc0641881d8de6e2f12764c22fbf87c8ef9e3744e41"
+    },
+    {
+      "file": "screenshots/MOBILE_PETRA_AI_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 124418,
+      "sha256": "2f8fa30c30923c4ad1c42e76e082e8386bf47fc57f4aa86da89e7429d4d93c00"
+    },
+    {
+      "file": "screenshots/MOBILE_PMO_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 262672,
+      "sha256": "61e5a3801706d035ad5a58d1c34b984aa6f158b8fe8bc2f7230f201fdb7396d7"
+    },
+    {
+      "file": "screenshots/MOBILE_ROAD_CULVERT_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 441720,
+      "sha256": "6444ab55dfbad5fee1dd8b6f509653966ec093ced3dd2e563d6fe23b43c25f32"
+    },
+    {
+      "file": "screenshots/MOBILE_SUPERVISION_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 381465,
+      "sha256": "9257fddf2865f457e8769d00087ee6ebae6baa747916c0ad1f9b9c3b86ba4433"
+    },
+    {
+      "file": "screenshots/MOBILE_TRAINING_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 375142,
+      "sha256": "1ba1a0eb8280dc3b03f19a6ac7bd100e8d3cede9a0142a167812733a7f788709"
+    },
+    {
+      "file": "screenshots/MOBILE_UNDP_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 264058,
+      "sha256": "9ab567bd43aae923d50340a9acd9d94f7b5a9eec4ebb1e1b02dc6d9d42125bd2"
+    },
+    {
+      "file": "screenshots/MOBILE_VET_POST_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 419093,
+      "sha256": "7119265a91feef9dcd3ea0d6763d27804bbbd5fb8394a596ede1e603690990ca"
+    },
+    {
+      "file": "screenshots/MOBILE_WAREHOUSE_FDP_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 350746,
+      "sha256": "d10d9161c31c765ea8cd9d9a108a2b6eca5a2806a0efa615100137e2fb515b95"
+    },
+    {
+      "file": "screenshots/MOBILE_WASH_TRAINING_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 345481,
+      "sha256": "be4f3766eef7ab46f8e50d0ec724eb35a3fe58b13770273a49517dcd918f8041"
+    },
+    {
+      "file": "screenshots/MOBILE_WATER_WASH_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 369761,
+      "sha256": "0d09700719914ce2160dec43be6aa8765d936f1279d869d6683d2bfecdf659fa"
+    },
+    {
+      "file": "screenshots/MOBILE_XAUUSD_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 122827,
+      "sha256": "62f4848b8765ee86c9d9eb252d1b616e38291a79a56a6219723b9d1ecfea4816"
+    },
+    {
+      "file": "screenshots/MOBILE_ZAZI_CINEMATIC_CORRECTED.png",
+      "width": 390,
+      "height": 900,
+      "bytes": 359692,
+      "sha256": "e6d32eadab2c3ba6661cbc1170138f2c0b5f95525a13f46bce8c830ef37c43de"
+    },
+    {
+      "file": "screenshots/NEFAS_ROAD_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1756741,
+      "sha256": "093aa2f6dcb2e596ddc50551445a8bc7a2f6ddbe11d97b4af95407aa8ba8bded"
+    },
+    {
+      "file": "screenshots/PETRA_AI_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 318431,
+      "sha256": "ea48c341098d7181a2b9a33939f71f530ae02e24e93a838b059cffa30863cefb"
+    },
+    {
+      "file": "screenshots/PMO_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1152335,
+      "sha256": "635dd8fa6a42c67c81588d7ff16718ad76a45b93d411ab683850644946690d7f"
+    },
+    {
+      "file": "screenshots/ROAD_CULVERT_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1845052,
+      "sha256": "bf2c287941db23657d298082ba4f689725d3ba7e758922b6a64d6d1eadc53a08"
+    },
+    {
+      "file": "screenshots/SUPERVISION_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1525759,
+      "sha256": "ab5a14a4278a7fdf7a9241dfd20dd919a2bc7357ca1a35cc45ff7f47c1d53e7f"
+    },
+    {
+      "file": "screenshots/TRAINING_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1573817,
+      "sha256": "c2d725497aa7ba77d746fea73e650610e98545c7e65006025cde1f4372e42fc3"
+    },
+    {
+      "file": "screenshots/UNDP_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1205110,
+      "sha256": "994612ed4b9cbfcfea2d7cf2b914932ab817cd81981e6709d9a349910bef270e"
+    },
+    {
+      "file": "screenshots/VET_POST_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1655648,
+      "sha256": "4ed79072a30a6805d638abe069012d8fe11950a65d8744baa9d965e65ced35be"
+    },
+    {
+      "file": "screenshots/WAREHOUSE_FDP_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1425899,
+      "sha256": "bf0236b40548ceac8426583fdb566e380afddf7bcb3154119b92ff5de0a12559"
+    },
+    {
+      "file": "screenshots/WASH_TRAINING_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1487393,
+      "sha256": "9e2589ff216540209942bd6bf75afc39c50bb47c5f2957480b0e9f946e12d344"
+    },
+    {
+      "file": "screenshots/WATER_WASH_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1550023,
+      "sha256": "b1eb1e7550da7e509c3103f943b89d413624dedef5e0477ed83f7423280fff57"
+    },
+    {
+      "file": "screenshots/XAUUSD_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 412175,
+      "sha256": "d6f17817ec77f249ff6a7f88006797f3dc52fbe74aa2be96ceb5891374f53fa2"
+    },
+    {
+      "file": "screenshots/ZAZI_CINEMATIC_CORRECTED.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 1730798,
+      "sha256": "1de8486c6df1f57247e14a18b79a59a5535fde0e503aae665470aaa82aab17b6"
+    }
+  ]
+}

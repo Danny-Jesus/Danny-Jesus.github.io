@@ -1,0 +1,285 @@
+{
+  "status": "PASS_AESTHETIC_AND_PRESENTATION_REVIEW_WITH_SEPARATE_PROVENANCE_HOLDS",
+  "reviewed": "2026-10-22T05:43:34.128049+00:00",
+  "productionIndexSha256": "c6606251eff49c40c8808256eda8053ad23e1c5a8b7c6335af350913fc3b2cb8",
+  "method": [
+    "Independent visual inspection of all20 desktop and20 mobile chapter screenshots.",
+    "Independent rendered browser captures at10% and90% actual native-scroll progress for every photographic chapter at1440x1000 and390x900; both images visually inspected rather than relying on transform values alone.",
+    "Critical Anseta masks and the mobile wide-source/montage pan were inspected at full resolution. Hero, research scenes and closing content were also visually inspected."
+  ],
+  "motionEvidence": "visual-inspection/final-candidate/motion-extremes.json",
+  "scope": "This is agent visual QA of the corrected candidate, not owner approval, documentary authentication, full accessibility conformance or authorization to publish.",
+  "scenes": [
+    {
+      "id": "aji-classroom",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The classroom photograph fills the scene; actual roof/wall perspective and the near-ground duplicate support a restrained dolly. Mobile intentionally crops into the building/openings while keeping the category title and classC boundary readable."
+    },
+    {
+      "id": "anseta-opd",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The supplied OPD structure remains between intact hill/sky context and near vegetation. The exact-source facility/foreground masks remain integrated at native-scroll extremes; no floating wireframe, generic model or inset card remains."
+    },
+    {
+      "id": "gosh-meda-mch",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The clinic remains the full photographic environment with near-ground separation and an intact roof/wall plate. Desktop/mobile title, route and conceptual-context boundary remain readable."
+    },
+    {
+      "id": "bisach-vet-post",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The facility photograph provides the actual perspective; shallow ground-layer movement preserves its source geometry. Mobile focuses on the facade rather than scaling a desktop card."
+    },
+    {
+      "id": "ftc-facilities",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The supplied facility and grass remain the environment under a restrained source-plane dolly. Both viewports identify FTC Facilities directly and retain the source boundary."
+    },
+    {
+      "id": "warehouse-fdp",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "Exterior and separate Rub Hall source views form a full-scene dissolve during native scrolling. They remain separate conceptual contexts; no single-facility assignment or inferred structural model is claimed."
+    },
+    {
+      "id": "zazi-bridge",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "HOLD",
+      "notes": "Photographic road/culvert terrain supplies the scene; the title identifies the documented project, while the visible caption explicitly says the Zazi image assignment is unconfirmed. Aesthetic acceptance does not resolve that evidence HOLD."
+    },
+    {
+      "id": "nefas-mewucha-road",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The original supplied road triptych remains intact. Desktop shows its panel boundaries; mobile pans across the unchanged full source plate, keeping photography dominant and explicitly labelling it a conceptual/edited montage."
+    },
+    {
+      "id": "road-bridge-culvert",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The actual visible culvert opening, road and stone/terrain planes carry the scene. The near-ground mask and dolly do not infer an undocumented span or structural system."
+    },
+    {
+      "id": "barguada-irrigation",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The wider field/conveyance photograph remains intact because people and rows overlap. Native-scroll dolly preserves this source context without body segmentation, invented canal geometry or generic hydraulic overlays."
+    },
+    {
+      "id": "hydraulic-infrastructure",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The dam and reservoir are separate full-scene supplied plates with a restrained dissolve, not an invented connected system. The title and description preserve this distinction."
+    },
+    {
+      "id": "water-wash",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The supplied spring-development image fills mobile and is explored as one intact wide source. Neutral classC conceptual/edited wording avoids an unsupported montage or documentary claim."
+    },
+    {
+      "id": "maintenance-rehabilitation",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "HOLD",
+      "notes": "The recorded Saka Health Post before35/after37 pair remains two distinct source photographs in an edge-to-edge reveal. Dates, exact scope and attribution are visibly unconfirmed; the evidence HOLD remains despite aesthetic acceptance."
+    },
+    {
+      "id": "supervision-field-practice",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "HOLD",
+      "notes": "The field/team photograph remains one intact terrain-and-people plane; native-scroll dolly avoids person segmentation. The caption keeps project assignment and permissions unconfirmed, so the provenance HOLD remains."
+    },
+    {
+      "id": "undp-head-office",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The supplied montage remains intact and explicitly illustrative. Desktop shows exterior/interior panels; mobile explores them through native-scroll source panning. Copy limits Daniel’s scope to specialist interior systems."
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The supplied illustrative interior montage remains unchanged. Full-scene mobile panning replaces the small contained strip; the title and specialist partition/acoustic-related scope remain clear without whole-building attribution."
+    },
+    {
+      "id": "insa-head-office",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The original illustrative building/interior montage stays intact. Its source panels receive full photographic presentation and mobile camera exploration, with specialist partition scope and unconfirmed exact-facility imagery visible."
+    },
+    {
+      "id": "training-artisan",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The intact supplied artisan image is explored through the mobile viewport without separating people or inventing hidden bodies. Neutral classC source wording retains event/date/participant uncertainty."
+    },
+    {
+      "id": "wash-community-training",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "The intact training-room image provides foreground participants and background room depth through the native-scroll camera. The title visibly identifies WASH/community training and the classC event boundary remains readable."
+    },
+    {
+      "id": "community-participation-awareness",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "testA": "YES",
+      "testB": "N/A_REMOVED",
+      "testC": "YES",
+      "testD": "YES",
+      "testE": "YES",
+      "provenanceDisposition": "CONTEXT_ONLY_NOT_DOCUMENTARY",
+      "notes": "Awareness and earthwork-participation sources remain separate full-scene plates. The controlled native-scroll dissolve is photographic rather than a floating UI card; no named event, date or outcome is inferred."
+    }
+  ],
+  "hero": {
+    "desktop": "PASS",
+    "mobile": "PASS",
+    "notes": "Exact approved portrait remains recognizable with face/hair visible and proportional. Full editorial name, professional title and CTA remain readable; approved structural mark plus full-name identity remain in the navigation. Mobile composition uses the approved portrait above the identity copy."
+  },
+  "coverage": {
+    "required": 23,
+    "visible": 23,
+    "photographicWorkstreams": 20,
+    "researchPrograms": [
+      "XAUUSD Market Structure & Quantitative Research",
+      "PETRA AI"
+    ],
+    "closing": [
+      "Credentials",
+      "About Daniel Ashagrie Ayele",
+      "Contact"
+    ]
+  },
+  "technicalGraphics": "Removed from photographic scenes because exact project/model correspondence is not established. TestB is deliberately N/A, not fabricated as YES. Separately labelled research visualizations remain.",
+  "provenanceHolds": [
+    "Zazi road/culvert source assignment to the named bridge is unconfirmed.",
+    "Maintenance before/after source provenance, dates and exact scope/attribution are unconfirmed.",
+    "Field/team photograph project assignment and participant permissions are unconfirmed."
+  ],
+  "limitations": [
+    "Agent aesthetic acceptance does not replace Daniel’s owner visual approval.",
+    "ClassC imagery remains conceptual/edited context, not documentary evidence of named-project execution.",
+    "Source-coordinate masks and intact-plane perspective are presentational depth treatments, not measured3D reconstructions."
+  ],
+  "publication": "HOLD_PENDING_OWNER_VISUAL_APPROVAL"
+}

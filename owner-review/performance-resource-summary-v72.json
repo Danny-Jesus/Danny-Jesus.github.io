@@ -1,0 +1,124 @@
+[
+  {
+    "mode": "mobile",
+    "resource_summary": {
+      "total": {
+        "resourceType": "total",
+        "label": "Total",
+        "requestCount": 23,
+        "transferSize": 1365148
+      },
+      "image": {
+        "resourceType": "image",
+        "label": "Image",
+        "requestCount": 16,
+        "transferSize": 1157861
+      },
+      "script": {
+        "resourceType": "script",
+        "label": "Script",
+        "requestCount": 2,
+        "transferSize": 147948
+      },
+      "font": {
+        "resourceType": "font",
+        "label": "Font",
+        "requestCount": 2,
+        "transferSize": 39944
+      },
+      "stylesheet": {
+        "resourceType": "stylesheet",
+        "label": "Stylesheet",
+        "requestCount": 1,
+        "transferSize": 11024
+      },
+      "document": {
+        "resourceType": "document",
+        "label": "Document",
+        "requestCount": 1,
+        "transferSize": 7732
+      },
+      "other": {
+        "resourceType": "other",
+        "label": "Other",
+        "requestCount": 1,
+        "transferSize": 639
+      },
+      "media": {
+        "resourceType": "media",
+        "label": "Media",
+        "requestCount": 0,
+        "transferSize": 0
+      },
+      "third-party": {
+        "resourceType": "third-party",
+        "label": "Third-party",
+        "requestCount": 0,
+        "transferSize": 0
+      }
+    },
+    "initial_spatial_requests": [],
+    "warnings": []
+  },
+  {
+    "mode": "desktop",
+    "resource_summary": {
+      "total": {
+        "resourceType": "total",
+        "label": "Total",
+        "requestCount": 22,
+        "transferSize": 1243383
+      },
+      "image": {
+        "resourceType": "image",
+        "label": "Image",
+        "requestCount": 15,
+        "transferSize": 1036096
+      },
+      "script": {
+        "resourceType": "script",
+        "label": "Script",
+        "requestCount": 2,
+        "transferSize": 147948
+      },
+      "font": {
+        "resourceType": "font",
+        "label": "Font",
+        "requestCount": 2,
+        "transferSize": 39944
+      },
+      "stylesheet": {
+        "resourceType": "stylesheet",
+        "label": "Stylesheet",
+        "requestCount": 1,
+        "transferSize": 11024
+      },
+      "document": {
+        "resourceType": "document",
+        "label": "Document",
+        "requestCount": 1,
+        "transferSize": 7732
+      },
+      "other": {
+        "resourceType": "other",
+        "label": "Other",
+        "requestCount": 1,
+        "transferSize": 639
+      },
+      "media": {
+        "resourceType": "media",
+        "label": "Media",
+        "requestCount": 0,
+        "transferSize": 0
+      },
+      "third-party": {
+        "resourceType": "third-party",
+        "label": "Third-party",
+        "requestCount": 0,
+        "transferSize": 0
+      }
+    },
+    "initial_spatial_requests": [],
+    "warnings": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "file": "ANSETA_BEFORE_AFTER_CINEMATIC.png",
+    "type": "labelled screenshot comparison",
+    "sources": [
+      {
+        "file": "/workspace/rebuild-evidence/deliverables/screenshots/desktop-scene-anseta-opd.jpg",
+        "sha256": "1a2571cad41df4ffb1585a61c98f16428f7165e4d5b2123087523134493c9420"
+      },
+      {
+        "file": "/workspace/v72-correction/review/screenshots/ANSETA_CINEMATIC_CORRECTED.png",
+        "sha256": "7abd647b363977c59b9a134fc6f2a04d340ac2141d00c2420a221fe1f6c08615"
+      }
+    ]
+  },
+  {
+    "file": "LOGO_USAGE_COMPARISON.png",
+    "type": "labelled before/after desktop/mobile screenshot montage",
+    "sources": [
+      "/workspace/brand-correction-review/BEFORE_DESKTOP_HEADER_HERO.png",
+      "/workspace/brand-correction-review/BEFORE_MOBILE_HEADER_HERO.png",
+      "/workspace/v72-correction/review/screenshots/HERO_DESKTOP_1440_CORRECTED.png",
+      "/workspace/v72-correction/review/screenshots/HERO_MOBILE_390_CORRECTED.png"
+    ]
+  },
+  {
+    "file": "HOMEPAGE_ALL_23_CATEGORIES_DESKTOP_CONTACT_SHEET.png",
+    "type": "23-category complete screenshot contact sheet",
+    "mode": "desktop",
+    "groups": 23
+  },
+  {
+    "file": "HOMEPAGE_ALL_23_CATEGORIES_MOBILE_CONTACT_SHEET.png",
+    "type": "23-category complete screenshot contact sheet",
+    "mode": "mobile",
+    "groups": 23
+  }
+]

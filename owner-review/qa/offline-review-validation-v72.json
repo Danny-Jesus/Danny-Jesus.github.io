@@ -1,0 +1,590 @@
+{
+  "started": "2026-10-22T06:38:46.038Z",
+  "html": "FINAL_VISUAL_REVIEW_v7_2_CORRECTED.html",
+  "sha256": "00101d156b04890f8d8b0bb398b2098e4f049af3b812e5ce9d3bd6370f1cece5",
+  "result": "PASS",
+  "checks": [
+    {
+      "name": "All23category review sections and visible inventory rows",
+      "result": "PASS",
+      "detail": [
+        "review-aji-classroom",
+        "review-anseta-opd",
+        "review-gosh-meda-mch",
+        "review-bisach-vet-post",
+        "review-ftc-facilities",
+        "review-warehouse-fdp",
+        "review-zazi-bridge",
+        "review-nefas-mewucha-road",
+        "review-road-bridge-culvert",
+        "review-barguada-irrigation",
+        "review-hydraulic-infrastructure",
+        "review-water-wash",
+        "review-maintenance-rehabilitation",
+        "review-supervision-field-practice",
+        "review-undp-head-office",
+        "review-prime-ministers-office-press-offices",
+        "review-insa-head-office",
+        "review-training-artisan",
+        "review-wash-community-training",
+        "review-community-participation-awareness",
+        "review-research",
+        "review-petra",
+        "review-closing"
+      ]
+    },
+    {
+      "name": "Every local media/report reference exists and returns200",
+      "result": "PASS",
+      "detail": [
+        {
+          "file": "screenshots/HERO_DESKTOP_1440_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/HERO_MOBILE_390_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/LOGO_BRAND_LOCKUP_DESKTOP.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/LOGO_BRAND_LOCKUP_MOBILE.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/LOGO_USAGE_COMPARISON.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/HOMEPAGE_ALL_23_CATEGORIES_DESKTOP_CONTACT_SHEET.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/HOMEPAGE_ALL_23_CATEGORIES_MOBILE_CONTACT_SHEET.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/ANSETA_BEFORE_AFTER_CINEMATIC.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/AJI_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_AJI_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/ANSETA_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_ANSETA_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MCH_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_MCH_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/VET_POST_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_VET_POST_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/FTC_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_FTC_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/WAREHOUSE_FDP_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_WAREHOUSE_FDP_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/ZAZI_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_ZAZI_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/NEFAS_ROAD_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_NEFAS_ROAD_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/ROAD_CULVERT_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_ROAD_CULVERT_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/BARGUADA_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_BARGUADA_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/HYDRAULIC_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_HYDRAULIC_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/WATER_WASH_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_WATER_WASH_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MAINTENANCE_REHAB_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_MAINTENANCE_REHAB_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/SUPERVISION_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_SUPERVISION_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/UNDP_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_UNDP_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/PMO_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_PMO_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/INSA_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_INSA_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/TRAINING_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_TRAINING_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/WASH_TRAINING_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_WASH_TRAINING_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/COMMUNITY_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_COMMUNITY_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/XAUUSD_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_XAUUSD_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/PETRA_AI_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_PETRA_AI_CINEMATIC_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/DESKTOP_CREDENTIALS_ABOUT_CONTACT_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_CREDENTIALS_ABOUT_CONTACT_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/DESKTOP_ABOUT_CLOSE_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_ABOUT_CLOSE_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/DESKTOP_CONTACT_CLOSE_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "screenshots/MOBILE_CONTACT_CLOSE_CORRECTED.png",
+          "status": 200
+        },
+        {
+          "file": "videos/FINAL_CINEMATIC_SCROLL_REVIEW_CORRECTED.mp4",
+          "status": 200
+        },
+        {
+          "file": "videos/FINAL_MOBILE_SCROLL_REVIEW_CORRECTED.mp4",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-about-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-about-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-contact-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-contact-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-credentials-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-credentials-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-field-community-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-field-community-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-projects-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-projects-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-aji-classroom-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-aji-classroom-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-anseta-opd-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-anseta-opd-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-barguada-irrigation-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-barguada-irrigation-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-bisach-vet-post-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-bisach-vet-post-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-ftc-facilities-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-ftc-facilities-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-gosh-meda-mch-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-gosh-meda-mch-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-hydraulic-infrastructure-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-hydraulic-infrastructure-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-insa-head-office-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-insa-head-office-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-institutional-installation-documentation-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-institutional-installation-documentation-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-maintenance-rehabilitation-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-maintenance-rehabilitation-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-nefas-mewucha-road-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-nefas-mewucha-road-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-prime-ministers-office-press-offices-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-prime-ministers-office-press-offices-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-undp-head-office-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-undp-head-office-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-warehouse-fdp-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-warehouse-fdp-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-water-wash-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-water-wash-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-zazi-bridge-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-zazi-bridge-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-research-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-research-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-petra-ai-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-petra-ai-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-xauusd-research-390.jpg",
+          "status": 200
+        },
+        {
+          "file": "qa/screenshots/page-xauusd-research-1440.jpg",
+          "status": 200
+        },
+        {
+          "file": "reports/FINAL_CORRECTION_REPORT_v7_2.md",
+          "status": 200
+        },
+        {
+          "file": "reports/HOMEPAGE_COVERAGE_AUDIT.md",
+          "status": 200
+        },
+        {
+          "file": "reports/CINEMATIC_PHOTO_INTEGRATION_REPORT.md",
+          "status": 200
+        },
+        {
+          "file": "reports/ROUTE_VALIDATION_REPORT_v7_2.md",
+          "status": 200
+        },
+        {
+          "file": "reports/ACCESSIBILITY_REPORT_v7_2.md",
+          "status": 200
+        },
+        {
+          "file": "reports/PERFORMANCE_REPORT_v7_2.md",
+          "status": 200
+        },
+        {
+          "file": "reports/SEO_REPORT_v7_2.md",
+          "status": 200
+        },
+        {
+          "file": "reports/SECURITY_REVIEW_v7_2.md",
+          "status": 200
+        },
+        {
+          "file": "reports/ASSET_INTEGRITY_REPORT_v7_2.md",
+          "status": 200
+        },
+        {
+          "file": "reports/INPUT_ADMISSION_REPORT.md",
+          "status": 200
+        },
+        {
+          "file": "reports/OFFLINE_REVIEW_VALIDATION_v7_2.md",
+          "status": 200
+        },
+        {
+          "file": "REVIEW_MEMBER_SHA256_MANIFEST_v7_2.txt",
+          "status": 200
+        },
+        {
+          "file": "production-members.json",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "name": "BothMP4review recordings expose playable browser metadata",
+      "result": "PASS",
+      "detail": [
+        {
+          "src": "videos/FINAL_CINEMATIC_SCROLL_REVIEW_CORRECTED.mp4",
+          "duration": 132.836,
+          "width": 1440,
+          "height": 1000,
+          "readyState": 4,
+          "error": null
+        },
+        {
+          "src": "videos/FINAL_MOBILE_SCROLL_REVIEW_CORRECTED.mp4",
+          "duration": 107.378,
+          "width": 390,
+          "height": 900,
+          "readyState": 4,
+          "error": null
+        }
+      ]
+    },
+    {
+      "name": "Hero/brand/media/reflow at390px",
+      "result": "PASS",
+      "detail": {
+        "width": 390,
+        "heroImages": 5
+      }
+    },
+    {
+      "name": "Hero/brand/media/reflow at1440px",
+      "result": "PASS",
+      "detail": {
+        "width": 1440,
+        "heroImages": 5
+      }
+    },
+    {
+      "name": "ReleaseHOLD and open provenance items remain visible",
+      "result": "PASS"
+    },
+    {
+      "name": "No browser errors or remote requests",
+      "result": "PASS"
+    }
+  ],
+  "errors": [],
+  "remoteRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "height": 900
+    },
+    {
+      "width": 1440,
+      "height": 1000
+    }
+  ],
+  "directFile": {
+    "result": "HOLD",
+    "error": "page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at file:///workspace/v72-correction/review/FINAL_VISUAL_REVIEW_v7_2_CORRECTED.html\nCall log:\n\u001b[2m  - navigating to \"file:///workspace/v72-correction/review/FINAL_VISUAL_REVIEW_v7_2_CORRECTED.html\", waiting until \"load\"\u001b[22m\n"
+  },
+  "finished": "2026-10-22T06:38:48.547Z"
+}

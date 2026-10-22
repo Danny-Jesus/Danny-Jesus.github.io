@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "generated_utc": "2026-10-22T06:27:28.779284+00:00",
+  "source": {
+    "file": "Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_2_CORRECTED_Source.zip",
+    "bytes": 217134600,
+    "sha256": "67155df4b3e0b8473b533c49ea58dfe9b6e862fc9063e744da2dd2a51b77d0fb",
+    "members": 562,
+    "central_directory_crc": "PASS",
+    "all_member_hashes": "PASS"
+  },
+  "production": {
+    "file": "Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_2_CORRECTED_Production.zip",
+    "bytes": 34588937,
+    "sha256": "d6e8bdf2e91c3527fbd0f2ec938d4a95c66c2875af6fcde74a2ff7e2ba8f4a28",
+    "members": 318,
+    "central_directory_crc": "PASS",
+    "all_member_hashes": "PASS"
+  },
+  "source_member_count": 562,
+  "production_member_count": 318,
+  "central_directory_crc": "PASS",
+  "member_names_and_all_hashes": "PASS",
+  "duplicate_unsafe_path_symlink_members": "NONE",
+  "known_private_E_and_retired_portraits_excluded_by_name_and_full_member_hash": "PASS",
+  "private_E_sha256": "cc9275b0292e874e6a49cbb421e1edae49a2b61bd1d2c495b86897d2bba689cc",
+  "source_environment_private_key_filename_candidates": "NONE",
+  "source_text_files_scanned": 184,
+  "source_secret_findings_without_values": [],
+  "editable_source_config_and_portable_qa_members_present": "PASS",
+  "package_metadata_version": "7.2.0",
+  "dependency_declarations_and_locked_resolution_graph_unchanged_from_v71": "PASS",
+  "approved_portrait_original_sha256": "c2e86ee1d675de11998f0e21f463e52bdece38b0b99fa641546cdfd26ce77a77",
+  "source_reproducibility_report": {
+    "status": "PASS",
+    "source_package_sha256": "67155df4b3e0b8473b533c49ea58dfe9b6e862fc9063e744da2dd2a51b77d0fb",
+    "method": "Fresh extraction of final Source ZIP, npm ci locked workflow using shared download cache, full production build including TypeScript/prerender/verifier, exhaustive byte/hash comparison with reviewed production manifest.",
+    "npm_ci": "PASS",
+    "build": "PASS",
+    "compared_members": 318,
+    "exact_member_set_and_sizes_and_sha256": "PASS",
+    "private_E_and_retired_originals_excluded": "PASS",
+    "node_modules_and_dist_excluded": "PASS",
+    "dependency_updates": "NONE; version metadata only",
+    "limitations": "Shared npm download cache; fresh extracted project and fresh node_modules.",
+    "source_isolation_directory": "/workspace/v72-correction/source-isolation-final/daniel-portfolio-v7-2-corrected",
+    "review_encoder": "Explicit full-range JPEG to limited-range yuv420p conversion; original CDP timestamps retained."
+  },
+  "production_matches_final_static_review_manifest": "PASS",
+  "limitations": "Scoped known-file/limited secret-pattern hygiene and exhaustive byte integrity checks. Does not certify all possible privacy, permissions or provenance questions; owner item HOLDs persist."
+}

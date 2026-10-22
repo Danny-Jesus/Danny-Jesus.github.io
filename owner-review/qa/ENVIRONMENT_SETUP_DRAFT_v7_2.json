@@ -1,0 +1,7 @@
+{
+  "status": "saved",
+  "requires_publish": true,
+  "applied_or_published": false,
+  "scope": "Cloud environment startup instructions only; no website publication.",
+  "activation": "To activate later, review and save the draft in environment settings, then publish the environment snapshot. This is separate from website publication."
+}
