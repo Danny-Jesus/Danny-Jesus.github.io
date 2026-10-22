@@ -1,0 +1,31 @@
+{
+  "html": "FINAL_VISUAL_REVIEW_v7_3_PREMIUM_REDESIGN.html",
+  "generated_utc": "2026-10-22T11:50:34.982885+00:00",
+  "candidate_summary": "PASS within recorded technical scope",
+  "technical_checks_ready": true,
+  "readiness": true,
+  "index_fingerprints": {
+    "browser": "7d7920ba85cecaad2edfc3c7abc4f453e1233946e4bb4a893f1ce8654f5869e8",
+    "performance": "7d7920ba85cecaad2edfc3c7abc4f453e1233946e4bb4a893f1ce8654f5869e8",
+    "static": "7d7920ba85cecaad2edfc3c7abc4f453e1233946e4bb4a893f1ce8654f5869e8",
+    "capture": "7d7920ba85cecaad2edfc3c7abc4f453e1233946e4bb4a893f1ce8654f5869e8",
+    "hero_contrast": "7d7920ba85cecaad2edfc3c7abc4f453e1233946e4bb4a893f1ce8654f5869e8"
+  },
+  "fingerprints_match": true,
+  "runtime_production_manifests": {
+    "browser": "75421fdc47040eb2993a5f0f95e40088dfd88edfe752ea0010693e4074eeea98",
+    "performance": "75421fdc47040eb2993a5f0f95e40088dfd88edfe752ea0010693e4074eeea98",
+    "capture": "75421fdc47040eb2993a5f0f95e40088dfd88edfe752ea0010693e4074eeea98"
+  },
+  "runtime_manifests_match": true,
+  "font_sha256": "d4635232acf2d656f82b9ed06f20167dfff389031d718943022ce7016a36e722",
+  "contrast_font_sha256": "d4635232acf2d656f82b9ed06f20167dfff389031d718943022ce7016a36e722",
+  "contrast_font_matches": true,
+  "static_font_sha256": "d4635232acf2d656f82b9ed06f20167dfff389031d718943022ce7016a36e722",
+  "static_font_matches": true,
+  "required_linked_evidence": 83,
+  "missing": [],
+  "external_dependencies": 0,
+  "javascript_required": false,
+  "publication": "HOLD_PENDING_OWNER_VISUAL_APPROVAL"
+}

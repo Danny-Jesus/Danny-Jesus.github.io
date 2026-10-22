@@ -1,0 +1,118 @@
+{
+  "result": "PASS",
+  "method": "Sequential nonoverlapping slices of each complete fresh browser full-page screenshot. No visual content omitted; scaled only for contact-sheet review.",
+  "sheets": [
+    {
+      "file": "screenshots/HOMEPAGE_FULL_DESKTOP_CONTACT_SHEET_V73.png",
+      "source": "screenshots/HOMEPAGE_FULL_DESKTOP_V73.png",
+      "sourceWidth": 1440,
+      "sourceHeight": 12588,
+      "tiles": 9,
+      "allSourceRowsRepresented": true,
+      "slices": [
+        {
+          "tile": 1,
+          "sourceTop": 0,
+          "sourceBottom": 1500
+        },
+        {
+          "tile": 2,
+          "sourceTop": 1500,
+          "sourceBottom": 3000
+        },
+        {
+          "tile": 3,
+          "sourceTop": 3000,
+          "sourceBottom": 4500
+        },
+        {
+          "tile": 4,
+          "sourceTop": 4500,
+          "sourceBottom": 6000
+        },
+        {
+          "tile": 5,
+          "sourceTop": 6000,
+          "sourceBottom": 7500
+        },
+        {
+          "tile": 6,
+          "sourceTop": 7500,
+          "sourceBottom": 9000
+        },
+        {
+          "tile": 7,
+          "sourceTop": 9000,
+          "sourceBottom": 10500
+        },
+        {
+          "tile": 8,
+          "sourceTop": 10500,
+          "sourceBottom": 12000
+        },
+        {
+          "tile": 9,
+          "sourceTop": 12000,
+          "sourceBottom": 12588
+        }
+      ],
+      "sha256": "090b46da0a46385769fab697a4bebf7300b969d293f16fef6c845af6d34c7759"
+    },
+    {
+      "file": "screenshots/HOMEPAGE_FULL_MOBILE_CONTACT_SHEET_V73.png",
+      "source": "screenshots/HOMEPAGE_FULL_MOBILE_V73.png",
+      "sourceWidth": 390,
+      "sourceHeight": 14803,
+      "tiles": 9,
+      "allSourceRowsRepresented": true,
+      "slices": [
+        {
+          "tile": 1,
+          "sourceTop": 0,
+          "sourceBottom": 1700
+        },
+        {
+          "tile": 2,
+          "sourceTop": 1700,
+          "sourceBottom": 3400
+        },
+        {
+          "tile": 3,
+          "sourceTop": 3400,
+          "sourceBottom": 5100
+        },
+        {
+          "tile": 4,
+          "sourceTop": 5100,
+          "sourceBottom": 6800
+        },
+        {
+          "tile": 5,
+          "sourceTop": 6800,
+          "sourceBottom": 8500
+        },
+        {
+          "tile": 6,
+          "sourceTop": 8500,
+          "sourceBottom": 10200
+        },
+        {
+          "tile": 7,
+          "sourceTop": 10200,
+          "sourceBottom": 11900
+        },
+        {
+          "tile": 8,
+          "sourceTop": 11900,
+          "sourceBottom": 13600
+        },
+        {
+          "tile": 9,
+          "sourceTop": 13600,
+          "sourceBottom": 14803
+        }
+      ],
+      "sha256": "53975a086ac4d45fa0d35fc8f6ead00dd96e69985ab4bf706708691b5f713be4"
+    }
+  ]
+}

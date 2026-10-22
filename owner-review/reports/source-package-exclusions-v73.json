@@ -1,0 +1,44 @@
+{
+  "policy": [
+    {
+      "path": "assets-originals/daniel-field-original.jpg",
+      "sha256": "bed4fdd703fea06d563748fccaa8b00c6ebc3a5aba5c87afecc0b6e98b5d4f3a",
+      "reason": "Retired temporary portrait original"
+    },
+    {
+      "path": "assets-originals/photo-library/Photos/Comm Training/Certificat.png",
+      "sha256": "cc9275b0292e874e6a49cbb421e1edae49a2b61bd1d2c495b86897d2bba689cc",
+      "reason": "Private E-class certificate"
+    },
+    {
+      "path": "assets-originals/supplied-v4/portrait/daniel-field-portrait-hero.webp",
+      "sha256": "41c32495abb8020a0f07f87dced6b74a3a4082d61086f7ba6d4d5c5d9cb2a40c",
+      "reason": "Retired temporary portrait original"
+    },
+    {
+      "path": "assets-originals/supplied-v4/portrait/daniel-field-portrait-landscape.webp",
+      "sha256": "f84ed3023e87874bee7ab423277a45a7eda1b88afef07e3404d494ae84d74a9b",
+      "reason": "Retired temporary portrait original"
+    },
+    {
+      "path": "assets-originals/supplied-v4/portrait/daniel-field-portrait-square.webp",
+      "sha256": "fa7ef006c01f33723e9c6ee0c0600160e18308206ca506258efb6a2a74f2f921",
+      "reason": "Retired temporary portrait original"
+    }
+  ],
+  "actual_exclusions": [],
+  "cache_directories": [
+    ".cache",
+    ".git",
+    ".ssr",
+    ".vite",
+    ".vite-temp",
+    "__pycache__",
+    "dist",
+    "node_modules",
+    "npm-cache",
+    "playwright-report",
+    "review",
+    "test-results"
+  ]
+}

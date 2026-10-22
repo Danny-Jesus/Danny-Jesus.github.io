@@ -1,0 +1,87 @@
+{
+  "result": "PASS",
+  "required": 15,
+  "present": 15,
+  "production": {
+    "members": 316,
+    "indexSha256": "7d7920ba85cecaad2edfc3c7abc4f453e1233946e4bb4a893f1ce8654f5869e8",
+    "manifestSha256": "75421fdc47040eb2993a5f0f95e40088dfd88edfe752ea0010693e4074eeea98"
+  },
+  "members": [
+    {
+      "file": "screenshots/HERO_DESKTOP_1440_V73.png",
+      "bytes": 757080,
+      "sha256": "0b80f6dc344afb7b62f04efe91fea5aa4cb1bc15074b8c795772588da28c1b34"
+    },
+    {
+      "file": "screenshots/HERO_MOBILE_390_V73.png",
+      "bytes": 173335,
+      "sha256": "639ee6ad4038d660c89236592b3c8a1e9d4ad492236764bf351375fab54b2446"
+    },
+    {
+      "file": "screenshots/HOMEPAGE_FULL_DESKTOP_CONTACT_SHEET_V73.png",
+      "bytes": 1701071,
+      "sha256": "090b46da0a46385769fab697a4bebf7300b969d293f16fef6c845af6d34c7759"
+    },
+    {
+      "file": "screenshots/HOMEPAGE_FULL_MOBILE_CONTACT_SHEET_V73.png",
+      "bytes": 3320247,
+      "sha256": "53975a086ac4d45fa0d35fc8f6ead00dd96e69985ab4bf706708691b5f713be4"
+    },
+    {
+      "file": "screenshots/ANSETA_SCENE_V73.png",
+      "bytes": 685000,
+      "sha256": "0372a4575777371298993f0e2bc3347c2a77254ead21ec8ecdabc737d987779e"
+    },
+    {
+      "file": "screenshots/WATER_WASH_SCENE_V73.png",
+      "bytes": 633579,
+      "sha256": "046dfb608c65406248c419706fc48e98344d8f67272f4624680c05be8acf4bc8"
+    },
+    {
+      "file": "screenshots/VET_POST_SCENE_V73.png",
+      "bytes": 256812,
+      "sha256": "a2a4f0a788b87c6bca4a4198fa93e31212f21bd7e663202704a03063773d12fb"
+    },
+    {
+      "file": "screenshots/MAINTENANCE_REHAB_SCENE_V73.png",
+      "bytes": 259421,
+      "sha256": "fc64f3fe44b3f6077f09c730779dd2f7cee74fc842c8f9610410cf2f6803eab2"
+    },
+    {
+      "file": "screenshots/UNDP_SCENE_V73.png",
+      "bytes": 413882,
+      "sha256": "9f4aaa8111d43e4fd484187ecc4e36003c228f25c48379e3cf4f1dc804d15132"
+    },
+    {
+      "file": "screenshots/PMO_SCENE_V73.png",
+      "bytes": 327214,
+      "sha256": "8c76b313e57628921770f408a15a933194ae1ad1706876fc17f080b7d1a2d89a"
+    },
+    {
+      "file": "screenshots/INSA_SCENE_V73.png",
+      "bytes": 331619,
+      "sha256": "a79ab85a60877e39855e493bca2c61c5550e4c52d79f6877862281ae7d733165"
+    },
+    {
+      "file": "screenshots/XAUUSD_SCENE_V73.png",
+      "bytes": 81013,
+      "sha256": "aba3f24d1a98c9811bb5bc8b2edb1f46609f3e89fd1847ad536cfb48b4720e90"
+    },
+    {
+      "file": "screenshots/PETRA_SCENE_V73.png",
+      "bytes": 62341,
+      "sha256": "1b353f43b16628f97085ee4d7c4d849de2eb120b700642af80cf9893a58b7bb6"
+    },
+    {
+      "file": "videos/FINAL_SCROLL_REVIEW_DESKTOP_V73.mp4",
+      "bytes": 18463630,
+      "sha256": "484cfd57520b7bafe9b6b29b50337c982502076ab80e7cf6483f23096c948914"
+    },
+    {
+      "file": "videos/FINAL_SCROLL_REVIEW_MOBILE_V73.mp4",
+      "bytes": 10064728,
+      "sha256": "bea740683256b6da63ff4a6814c51adbe271c0624cd441a9157ee9379dd807fe"
+    }
+  ]
+}

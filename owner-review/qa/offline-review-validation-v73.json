@@ -1,0 +1,1080 @@
+{
+  "version": "7.3",
+  "started": "2026-10-22T11:50:35.341Z",
+  "scope": "Review presentation over an isolated local HTTP server, relative-file integrity, media, responsive layout, no-JS and scoped Axe. Direct file protocol is a separate optional environment probe; app QA is recorded separately.",
+  "result": "PASS",
+  "checks": [
+    {
+      "name": "No script dependency or external resource in review HTML",
+      "result": "PASS",
+      "detail": {
+        "externalResources": 0,
+        "scripts": 0
+      }
+    },
+    {
+      "name": "Every local file link and section anchor resolves",
+      "result": "PASS",
+      "detail": {
+        "uniqueLocalFiles": 83,
+        "sectionAnchors": 10
+      }
+    },
+    {
+      "name": "Required owner review disposition and unchanged image holds are explicit",
+      "result": "PASS",
+      "detail": {
+        "publication": "HOLD_PENDING_OWNER_VISUAL_APPROVAL"
+      }
+    },
+    {
+      "name": "Review renders at 1440px without horizontal overflow",
+      "result": "PASS",
+      "detail": {
+        "documentWidth": 1440,
+        "loadedImages": 52
+      }
+    },
+    {
+      "name": "H264 recordings expose playable video metadata at 1440px",
+      "result": "PASS",
+      "detail": [
+        {
+          "duration": 52.52,
+          "width": 1440,
+          "height": 1000,
+          "codecSupport": "probably"
+        },
+        {
+          "duration": 60.547,
+          "width": 390,
+          "height": 900,
+          "codecSupport": "probably"
+        }
+      ]
+    },
+    {
+      "name": "Review presentation automated accessibility at 1440px",
+      "result": "PASS",
+      "detail": {
+        "width": 1440,
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "video-caption",
+            "nodes": 2
+          }
+        ],
+        "passes": 22
+      }
+    },
+    {
+      "name": "Review renders at 390px without horizontal overflow",
+      "result": "PASS",
+      "detail": {
+        "documentWidth": 390,
+        "loadedImages": 52
+      }
+    },
+    {
+      "name": "H264 recordings expose playable video metadata at 390px",
+      "result": "PASS",
+      "detail": [
+        {
+          "duration": 52.52,
+          "width": 1440,
+          "height": 1000,
+          "codecSupport": "probably"
+        },
+        {
+          "duration": 60.547,
+          "width": 390,
+          "height": 900,
+          "codecSupport": "probably"
+        }
+      ]
+    },
+    {
+      "name": "Review presentation automated accessibility at 390px",
+      "result": "PASS",
+      "detail": {
+        "width": 390,
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "video-caption",
+            "nodes": 2
+          }
+        ],
+        "passes": 22
+      }
+    },
+    {
+      "name": "Core owner review is usable with JavaScript disabled",
+      "result": "PASS",
+      "detail": {
+        "scriptRequired": false,
+        "categoryScenes": 20,
+        "nativeVideos": 2,
+        "nativeDetails": 5
+      }
+    },
+    {
+      "name": "No external network dependency or browser exceptions",
+      "result": "PASS",
+      "detail": {
+        "externalRequests": 0,
+        "runtimeErrors": 0
+      }
+    }
+  ],
+  "optionalChecks": [
+    {
+      "name": "Extracted owner review direct-file environment probe",
+      "result": "ENVIRONMENT_HOLD",
+      "exactError": "page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at file:///workspace/v73-premium-review/review/FINAL_VISUAL_REVIEW_v7_3_PREMIUM_REDESIGN.html\nCall log:\n\u001b[2m  - navigating to \"file:///workspace/v73-premium-review/review/FINAL_VISUAL_REVIEW_v7_3_PREMIUM_REDESIGN.html\", waiting until \"load\"\u001b[22m\n"
+    }
+  ],
+  "environmentLimitations": [
+    {
+      "operation": "Direct file:// navigation",
+      "exactError": "page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at file:///workspace/v73-premium-review/review/FINAL_VISUAL_REVIEW_v7_3_PREMIUM_REDESIGN.html\nCall log:\n\u001b[2m  - navigating to \"file:///workspace/v73-premium-review/review/FINAL_VISUAL_REVIEW_v7_3_PREMIUM_REDESIGN.html\", waiting until \"load\"\u001b[22m\n",
+      "resolution": "Local HTTP presentation and all relative-file integrity/media checks were exercised. Direct file:// behavior could not be observed because of cloud administrator policy."
+    }
+  ],
+  "viewports": [
+    {
+      "width": 1440,
+      "documentWidth": 1440,
+      "images": [
+        {
+          "src": "screenshots/HERO_DESKTOP_1440_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/HERO_MOBILE_390_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/LOGO_BRAND_LOCKUP_DESKTOP_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/LOGO_BRAND_LOCKUP_MOBILE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/HOMEPAGE_FULL_DESKTOP_CONTACT_SHEET_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/HOMEPAGE_FULL_MOBILE_CONTACT_SHEET_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/AJI_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_AJI_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/ANSETA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_ANSETA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MCH_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_MCH_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/ZAZI_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_ZAZI_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/BARGUADA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_BARGUADA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/NEFAS_ROAD_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_NEFAS_ROAD_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/WATER_WASH_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_WATER_WASH_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/VET_POST_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_VET_POST_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MAINTENANCE_REHAB_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_MAINTENANCE_REHAB_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/HYDRAULIC_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_HYDRAULIC_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/FTC_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_FTC_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/WAREHOUSE_FDP_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_WAREHOUSE_FDP_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/ROAD_CULVERT_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_ROAD_CULVERT_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/UNDP_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_UNDP_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/PMO_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_PMO_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/INSA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_INSA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/TRAINING_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_TRAINING_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/SUPERVISION_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_SUPERVISION_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/WASH_TRAINING_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_WASH_TRAINING_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/COMMUNITY_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_COMMUNITY_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/XAUUSD_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_XAUUSD_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/PETRA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_PETRA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/CREDENTIALS_ABOUT_CONTACT_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_CREDENTIALS_ABOUT_CONTACT_SCENE_V73.png",
+          "loaded": true
+        }
+      ],
+      "videos": [
+        {
+          "src": "videos/FINAL_SCROLL_REVIEW_DESKTOP_V73.mp4",
+          "duration": 52.52,
+          "width": 1440,
+          "height": 1000,
+          "ready": 4
+        },
+        {
+          "src": "videos/FINAL_SCROLL_REVIEW_MOBILE_V73.mp4",
+          "duration": 60.547,
+          "width": 390,
+          "height": 900,
+          "ready": 4
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "images": [
+        {
+          "src": "screenshots/HERO_DESKTOP_1440_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/HERO_MOBILE_390_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/LOGO_BRAND_LOCKUP_DESKTOP_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/LOGO_BRAND_LOCKUP_MOBILE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/HOMEPAGE_FULL_DESKTOP_CONTACT_SHEET_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/HOMEPAGE_FULL_MOBILE_CONTACT_SHEET_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/AJI_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_AJI_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/ANSETA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_ANSETA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MCH_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_MCH_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/ZAZI_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_ZAZI_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/BARGUADA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_BARGUADA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/NEFAS_ROAD_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_NEFAS_ROAD_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/WATER_WASH_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_WATER_WASH_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/VET_POST_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_VET_POST_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MAINTENANCE_REHAB_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_MAINTENANCE_REHAB_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/HYDRAULIC_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_HYDRAULIC_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/FTC_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_FTC_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/WAREHOUSE_FDP_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_WAREHOUSE_FDP_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/ROAD_CULVERT_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_ROAD_CULVERT_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/UNDP_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_UNDP_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/PMO_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_PMO_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/INSA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_INSA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/TRAINING_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_TRAINING_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/SUPERVISION_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_SUPERVISION_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/WASH_TRAINING_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_WASH_TRAINING_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/COMMUNITY_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_COMMUNITY_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/XAUUSD_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_XAUUSD_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/PETRA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_PETRA_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/CREDENTIALS_ABOUT_CONTACT_SCENE_V73.png",
+          "loaded": true
+        },
+        {
+          "src": "screenshots/MOBILE_CREDENTIALS_ABOUT_CONTACT_SCENE_V73.png",
+          "loaded": true
+        }
+      ],
+      "videos": [
+        {
+          "src": "videos/FINAL_SCROLL_REVIEW_DESKTOP_V73.mp4",
+          "duration": 52.52,
+          "width": 1440,
+          "height": 1000,
+          "ready": 4
+        },
+        {
+          "src": "videos/FINAL_SCROLL_REVIEW_MOBILE_V73.mp4",
+          "duration": 60.547,
+          "width": 390,
+          "height": 900,
+          "ready": 4
+        }
+      ]
+    }
+  ],
+  "runtime": [],
+  "requests": [
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/FINAL_VISUAL_REVIEW_v7_3_PREMIUM_REDESIGN.html"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/videos/FINAL_SCROLL_REVIEW_DESKTOP_V73.mp4"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/videos/FINAL_SCROLL_REVIEW_MOBILE_V73.mp4"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/HERO_DESKTOP_1440_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/HERO_MOBILE_390_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/HOMEPAGE_FULL_DESKTOP_CONTACT_SHEET_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/HOMEPAGE_FULL_MOBILE_CONTACT_SHEET_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/LOGO_BRAND_LOCKUP_DESKTOP_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/LOGO_BRAND_LOCKUP_MOBILE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/AJI_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_AJI_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/ANSETA_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_ANSETA_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MCH_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_MCH_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/ZAZI_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_ZAZI_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/BARGUADA_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_BARGUADA_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/NEFAS_ROAD_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_NEFAS_ROAD_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/WATER_WASH_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_WATER_WASH_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/VET_POST_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_VET_POST_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MAINTENANCE_REHAB_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_MAINTENANCE_REHAB_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/HYDRAULIC_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_HYDRAULIC_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/FTC_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_FTC_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/WAREHOUSE_FDP_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_WAREHOUSE_FDP_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/ROAD_CULVERT_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_ROAD_CULVERT_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/UNDP_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_UNDP_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/PMO_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_PMO_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/INSA_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_INSA_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/TRAINING_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_TRAINING_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/SUPERVISION_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_SUPERVISION_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/WASH_TRAINING_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_WASH_TRAINING_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/COMMUNITY_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_COMMUNITY_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/XAUUSD_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_XAUUSD_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/PETRA_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_PETRA_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/CREDENTIALS_ABOUT_CONTACT_SCENE_V73.png"
+    },
+    {
+      "width": 1440,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_CREDENTIALS_ABOUT_CONTACT_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/FINAL_VISUAL_REVIEW_v7_3_PREMIUM_REDESIGN.html"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/videos/FINAL_SCROLL_REVIEW_DESKTOP_V73.mp4"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/videos/FINAL_SCROLL_REVIEW_MOBILE_V73.mp4"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/HERO_DESKTOP_1440_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/HERO_MOBILE_390_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/LOGO_BRAND_LOCKUP_DESKTOP_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/LOGO_BRAND_LOCKUP_MOBILE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/HOMEPAGE_FULL_DESKTOP_CONTACT_SHEET_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/HOMEPAGE_FULL_MOBILE_CONTACT_SHEET_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/AJI_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_AJI_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/ANSETA_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_ANSETA_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MCH_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_MCH_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/ZAZI_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_ZAZI_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/BARGUADA_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_BARGUADA_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/NEFAS_ROAD_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_NEFAS_ROAD_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/WATER_WASH_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_WATER_WASH_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/VET_POST_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_VET_POST_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MAINTENANCE_REHAB_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_MAINTENANCE_REHAB_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/HYDRAULIC_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_HYDRAULIC_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/FTC_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_FTC_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/WAREHOUSE_FDP_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_WAREHOUSE_FDP_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/ROAD_CULVERT_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_ROAD_CULVERT_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/UNDP_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_UNDP_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/PMO_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_PMO_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/INSA_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_INSA_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/TRAINING_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_TRAINING_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/SUPERVISION_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_SUPERVISION_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/WASH_TRAINING_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_WASH_TRAINING_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/COMMUNITY_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_COMMUNITY_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/XAUUSD_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_XAUUSD_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/PETRA_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_PETRA_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/CREDENTIALS_ABOUT_CONTACT_SCENE_V73.png"
+    },
+    {
+      "width": 390,
+      "url": "http://127.0.0.1:43855/screenshots/MOBILE_CREDENTIALS_ABOUT_CONTACT_SCENE_V73.png"
+    }
+  ],
+  "a11y": [
+    {
+      "width": 1440,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "video-caption",
+          "nodes": 2
+        }
+      ],
+      "passes": 22
+    },
+    {
+      "width": 390,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "video-caption",
+          "nodes": 2
+        }
+      ],
+      "passes": 22
+    }
+  ],
+  "directFileProtocol": {
+    "tested": true,
+    "result": "ENVIRONMENT_HOLD",
+    "exactError": "page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at file:///workspace/v73-premium-review/review/FINAL_VISUAL_REVIEW_v7_3_PREMIUM_REDESIGN.html\nCall log:\n\u001b[2m  - navigating to \"file:///workspace/v73-premium-review/review/FINAL_VISUAL_REVIEW_v7_3_PREMIUM_REDESIGN.html\", waiting until \"load\"\u001b[22m\n"
+  },
+  "finished": "2026-10-22T11:50:39.776Z"
+}

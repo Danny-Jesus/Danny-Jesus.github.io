@@ -1,0 +1,28 @@
+{
+  "scope": "Additional manual support for Axe video-caption incomplete items in the owner review interface. The two browser recordings have no audio streams. Project-specific labeled stills and full contact sheets provide equivalent visual review context. This does not certify all accessibility requirements.",
+  "result": "SILENT_RECORDINGS_CONFIRMED",
+  "files": [
+    {
+      "file": "videos/FINAL_SCROLL_REVIEW_DESKTOP_V73.mp4",
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video"
+        }
+      ],
+      "audio_streams": 0,
+      "audio_captions_applicable": false
+    },
+    {
+      "file": "videos/FINAL_SCROLL_REVIEW_MOBILE_V73.mp4",
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video"
+        }
+      ],
+      "audio_streams": 0,
+      "audio_captions_applicable": false
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "assessment": "fresh rendered HTML and byte comparison audit; not a substitute for browser, a11y or performance QA",
+  "indexSha256": "7d7920ba85cecaad2edfc3c7abc4f453e1233946e4bb4a893f1ce8654f5869e8",
+  "coverageGroups": 23,
+  "passedGroups": 23,
+  "rows": [
+    {
+      "id": "aji-classroom",
+      "title": "Aji Four-Classroom Construction",
+      "section": "signature-works",
+      "route": "/projects/aji-classroom/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 5,
+      "result": "PASS"
+    },
+    {
+      "id": "anseta-opd",
+      "title": "Anseta OPD Facility",
+      "section": "signature-works",
+      "route": "/projects/anseta-opd/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 1,
+      "result": "PASS"
+    },
+    {
+      "id": "gosh-meda-mch",
+      "title": "Gosh Meda MCH Facility",
+      "section": "signature-works",
+      "route": "/projects/gosh-meda-mch/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 42,
+      "result": "PASS"
+    },
+    {
+      "id": "zazi-bridge",
+      "title": "Zazi Bridge Infrastructure Project",
+      "section": "signature-works",
+      "route": "/projects/zazi-bridge/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 48,
+      "result": "PASS"
+    },
+    {
+      "id": "barguada-irrigation",
+      "title": "Barguada Irrigation Canal",
+      "section": "signature-works",
+      "route": "/projects/barguada-irrigation/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 27,
+      "result": "PASS"
+    },
+    {
+      "id": "nefas-mewucha-road",
+      "title": "Nefas Mewucha\u2013Lay Gayint Road",
+      "section": "signature-works",
+      "route": "/projects/nefas-mewucha-road/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 50,
+      "result": "PASS"
+    },
+    {
+      "id": "water-wash",
+      "title": "Water & WASH infrastructure",
+      "section": "infrastructure-systems",
+      "route": "/projects/water-wash/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 62,
+      "result": "PASS"
+    },
+    {
+      "id": "bisach-vet-post",
+      "title": "Bisach Vet Post",
+      "section": "infrastructure-systems",
+      "route": "/projects/bisach-vet-post/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 56,
+      "result": "PASS"
+    },
+    {
+      "id": "maintenance-rehabilitation",
+      "title": "Maintenance & Rehabilitation",
+      "section": "infrastructure-systems",
+      "route": "/projects/maintenance-rehabilitation/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 37,
+      "result": "PASS"
+    },
+    {
+      "id": "hydraulic-infrastructure",
+      "title": "Irrigation / dam / reservoir systems",
+      "section": "infrastructure-systems",
+      "route": "/projects/hydraulic-infrastructure/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 25,
+      "result": "PASS"
+    },
+    {
+      "id": "ftc-facilities",
+      "title": "FTC Facilities",
+      "section": "infrastructure-systems",
+      "route": "/projects/ftc-facilities/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 24,
+      "result": "PASS"
+    },
+    {
+      "id": "warehouse-fdp",
+      "title": "Warehouse / FDP / Rub Hall",
+      "section": "infrastructure-systems",
+      "route": "/projects/warehouse-fdp/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 19,
+      "result": "PASS"
+    },
+    {
+      "id": "road-bridge-culvert",
+      "title": "Road / bridge / culvert infrastructure",
+      "section": "infrastructure-systems",
+      "route": "/projects/nefas-mewucha-road/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 49,
+      "result": "PASS"
+    },
+    {
+      "id": "undp-head-office",
+      "title": "UNDP Head Office",
+      "section": "institutional-works",
+      "route": "/projects/undp-head-office/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 46,
+      "result": "PASS"
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "title": "Press Secretariat of the Prime Minister\u2019s Office",
+      "section": "institutional-works",
+      "route": "/projects/prime-ministers-office-press-offices/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 44,
+      "result": "PASS"
+    },
+    {
+      "id": "insa-head-office",
+      "title": "INSA Head Office",
+      "section": "institutional-works",
+      "route": "/projects/insa-head-office/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 43,
+      "result": "PASS"
+    },
+    {
+      "id": "training-artisan",
+      "title": "Training / artisan training",
+      "section": "people-practice",
+      "route": "/field-community/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 7,
+      "result": "PASS"
+    },
+    {
+      "id": "supervision-field-practice",
+      "title": "Supervision / field practice",
+      "section": "people-practice",
+      "route": "/field-community/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 54,
+      "result": "PASS"
+    },
+    {
+      "id": "wash-community-training",
+      "title": "WASH / community training",
+      "section": "people-practice",
+      "route": "/field-community/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 13,
+      "result": "PASS"
+    },
+    {
+      "id": "community-participation-awareness",
+      "title": "Community participation / awareness",
+      "section": "people-practice",
+      "route": "/field-community/",
+      "titlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "provenancePresent": true,
+      "holdPreserved": true,
+      "photoId": 16,
+      "result": "PASS"
+    },
+    {
+      "id": "research",
+      "title": "XAUUSD Market Structure & Quantitative Research",
+      "section": "research-innovation",
+      "route": "/research/xauusd-research/",
+      "titlePresent": true,
+      "subtitlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "result": "PASS"
+    },
+    {
+      "id": "petra",
+      "title": "PETRA AI",
+      "section": "research-innovation",
+      "route": "/research/petra-ai/",
+      "titlePresent": true,
+      "subtitlePresent": true,
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "result": "PASS"
+    },
+    {
+      "id": "professional-close",
+      "title": "Credentials / About / Contact",
+      "section": "credentials",
+      "route": "/credentials/, /about/, /contact/",
+      "linkPresent": true,
+      "localPrerenderExists": true,
+      "result": "PASS"
+    }
+  ],
+  "preservation": [
+    {
+      "path": "src/v7/home-chapters.json",
+      "baselineSha256": "7731e9e65f3d0ebef6881a010741e09edc5500b6215bfa365caa2c5a6cb2529b",
+      "candidateSha256": "7731e9e65f3d0ebef6881a010741e09edc5500b6215bfa365caa2c5a6cb2529b",
+      "identical": true
+    },
+    {
+      "path": "src/data/projects.ts",
+      "baselineSha256": "915f7c60cbfc4dc5b6a56ba945a2e208bf5006c34b5f3a75b44d1cc2f48ed9b1",
+      "candidateSha256": "915f7c60cbfc4dc5b6a56ba945a2e208bf5006c34b5f3a75b44d1cc2f48ed9b1",
+      "identical": true
+    },
+    {
+      "path": "src/data/career.ts",
+      "baselineSha256": "2439f8a5afc0d7f913b037763d6952498cffdafe534a0eb4944830224053d2be",
+      "candidateSha256": "2439f8a5afc0d7f913b037763d6952498cffdafe534a0eb4944830224053d2be",
+      "identical": true
+    },
+    {
+      "path": "src/data/credentials.ts",
+      "baselineSha256": "5ea1bc33aa11e0569ff9ae5d177cbccc9294a8a63a429f0b7693e748d53e9ebf",
+      "candidateSha256": "5ea1bc33aa11e0569ff9ae5d177cbccc9294a8a63a429f0b7693e748d53e9ebf",
+      "identical": true
+    },
+    {
+      "path": "src/data/site.ts",
+      "baselineSha256": "2d173a0c614b6b315d8b1546ac175475bc52cdb30c96597054608f4c41908ba0",
+      "candidateSha256": "2d173a0c614b6b315d8b1546ac175475bc52cdb30c96597054608f4c41908ba0",
+      "identical": true
+    },
+    {
+      "path": "src/data/socials.ts",
+      "baselineSha256": "1952d3da942ea73a9c8e3d74aa645ffe2c69d3938d0af39d86959de62a25805e",
+      "candidateSha256": "1952d3da942ea73a9c8e3d74aa645ffe2c69d3938d0af39d86959de62a25805e",
+      "identical": true
+    },
+    {
+      "path": "public/brand/logo-mark.svg",
+      "baselineSha256": "220044aa4d23626fd6d5e798e7a94aa710a469e583eaba820f0e1ab17ac93ea0",
+      "candidateSha256": "220044aa4d23626fd6d5e798e7a94aa710a469e583eaba820f0e1ab17ac93ea0",
+      "identical": true
+    },
+    {
+      "path": "assets-originals/approved-portrait/Friendly Outdoor Professional Portrait(1).png",
+      "baselineSha256": "c2e86ee1d675de11998f0e21f463e52bdece38b0b99fa641546cdfd26ce77a77",
+      "candidateSha256": "c2e86ee1d675de11998f0e21f463e52bdece38b0b99fa641546cdfd26ce77a77",
+      "identical": true
+    }
+  ],
+  "h1Count": 1,
+  "visibleEmDashCount": 0
+}

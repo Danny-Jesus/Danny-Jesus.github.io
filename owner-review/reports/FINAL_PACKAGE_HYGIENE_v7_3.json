@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "generated_utc": "2026-10-22T11:43:10.952735+00:00",
+  "source": {
+    "filename": "Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_3_PREMIUM_REDESIGN_Source.zip",
+    "bytes": 217265304,
+    "sha256": "8345da656c00ffd9689a360d8a8c136b94225b853b4c891cf7faaee0f6074fbf",
+    "members": 573,
+    "crc": "PASS"
+  },
+  "production": {
+    "filename": "Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_3_PREMIUM_REDESIGN_Production.zip",
+    "bytes": 34473172,
+    "sha256": "7d98417ffd6e54723ec14fc54698e3e69a5649bbb524948cdb6eb8bac0c0496f",
+    "members": 316,
+    "crc": "PASS"
+  },
+  "source_text_files_scanned": 194,
+  "source_secret_findings_without_values": [],
+  "unsafe_paths_symlinks_duplicates": "NONE",
+  "known_private_E_and_retired_originals_excluded_by_names_and_full_hashes": true,
+  "editable_source_required_members_present": true,
+  "production_member_set_sizes_and_sha256_match_reviewed_dist": true,
+  "production_members": 316,
+  "production_manifest_sha256": "dcd757580187277e5e5c82e6fdcca01b0d81d4e818b385e296600397b6ad10aa",
+  "approved_portrait_original_sha256": "c2e86ee1d675de11998f0e21f463e52bdece38b0b99fa641546cdfd26ce77a77",
+  "limitations": "Scoped limited-pattern secret scan plus exhaustive known-file and byte integrity checks. Full rights/privacy/provenance and owner visual approval remain separate."
+}

@@ -1,0 +1,227 @@
+{
+  "file": "newsreader-exact-fullaxes-english.woff2",
+  "size": 96852,
+  "sha256": "d4635232acf2d656f82b9ed06f20167dfff389031d718943022ce7016a36e722",
+  "source_sha256": "be1eba0a2d7d2b01802dd7f40f75835825966328415df007ecd4869e8a469f6d",
+  "axes": [
+    [
+      "wght",
+      200.0,
+      400.0,
+      800.0
+    ],
+    [
+      "opsz",
+      6.0,
+      18.0,
+      72.0
+    ]
+  ],
+  "glyphs": 147,
+  "characters": 108,
+  "actual_cmap_coverage": true,
+  "original_supported_actual_characters": [
+    32,
+    38,
+    40,
+    41,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    124,
+    183,
+    8211,
+    8217
+  ],
+  "comparison": [
+    {
+      "location": {
+        "wght": 400,
+        "opsz": 24
+      },
+      "compared_glyphs": 147,
+      "coordinate_values": 9634,
+      "max_outline_difference_font_units": 0.0,
+      "max_advance_difference_font_units": 0.0,
+      "outline_structure_mismatch": [],
+      "mismatches_over_1e_9": []
+    },
+    {
+      "location": {
+        "wght": 400,
+        "opsz": 48
+      },
+      "compared_glyphs": 147,
+      "coordinate_values": 9634,
+      "max_outline_difference_font_units": 0.0,
+      "max_advance_difference_font_units": 0.0,
+      "outline_structure_mismatch": [],
+      "mismatches_over_1e_9": []
+    },
+    {
+      "location": {
+        "wght": 400,
+        "opsz": 72
+      },
+      "compared_glyphs": 147,
+      "coordinate_values": 9634,
+      "max_outline_difference_font_units": 0.0,
+      "max_advance_difference_font_units": 0.0,
+      "outline_structure_mismatch": [],
+      "mismatches_over_1e_9": []
+    },
+    {
+      "location": {
+        "wght": 420,
+        "opsz": 24
+      },
+      "compared_glyphs": 147,
+      "coordinate_values": 9634,
+      "max_outline_difference_font_units": 0.0,
+      "max_advance_difference_font_units": 0.0,
+      "outline_structure_mismatch": [],
+      "mismatches_over_1e_9": []
+    },
+    {
+      "location": {
+        "wght": 420,
+        "opsz": 48
+      },
+      "compared_glyphs": 147,
+      "coordinate_values": 9634,
+      "max_outline_difference_font_units": 0.0,
+      "max_advance_difference_font_units": 0.0,
+      "outline_structure_mismatch": [],
+      "mismatches_over_1e_9": []
+    },
+    {
+      "location": {
+        "wght": 420,
+        "opsz": 72
+      },
+      "compared_glyphs": 147,
+      "coordinate_values": 9634,
+      "max_outline_difference_font_units": 0.0,
+      "max_advance_difference_font_units": 0.0,
+      "outline_structure_mismatch": [],
+      "mismatches_over_1e_9": []
+    }
+  ],
+  "shaping": [
+    {
+      "location": {
+        "wght": 400,
+        "opsz": 24
+      },
+      "glyphs": 63866,
+      "exact_glyph_sequence_and_positions": true
+    },
+    {
+      "location": {
+        "wght": 400,
+        "opsz": 48
+      },
+      "glyphs": 63866,
+      "exact_glyph_sequence_and_positions": true
+    },
+    {
+      "location": {
+        "wght": 400,
+        "opsz": 72
+      },
+      "glyphs": 63866,
+      "exact_glyph_sequence_and_positions": true
+    },
+    {
+      "location": {
+        "wght": 420,
+        "opsz": 24
+      },
+      "glyphs": 63866,
+      "exact_glyph_sequence_and_positions": true
+    },
+    {
+      "location": {
+        "wght": 420,
+        "opsz": 48
+      },
+      "glyphs": 63866,
+      "exact_glyph_sequence_and_positions": true
+    },
+    {
+      "location": {
+        "wght": 420,
+        "opsz": 72
+      },
+      "glyphs": 63866,
+      "exact_glyph_sequence_and_positions": true
+    }
+  ],
+  "extracted_route_text_characters": 64090
+}

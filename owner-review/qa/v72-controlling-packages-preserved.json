@@ -1,0 +1,20 @@
+[
+  {
+    "file": "Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_2_CORRECTED_Source.zip",
+    "bytes": 217134600,
+    "sha256": "67155df4b3e0b8473b533c49ea58dfe9b6e862fc9063e744da2dd2a51b77d0fb",
+    "result": "PASS"
+  },
+  {
+    "file": "Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_2_CORRECTED_Production.zip",
+    "bytes": 34588937,
+    "sha256": "d6e8bdf2e91c3527fbd0f2ec938d4a95c66c2875af6fcde74a2ff7e2ba8f4a28",
+    "result": "PASS"
+  },
+  {
+    "file": "Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_2_CORRECTED_Review_Package.zip",
+    "bytes": 142598499,
+    "sha256": "edf744fd5ed08dbc16d4a1baea6cb9729297ff918f18d59697ca3ad4ee24bb9d",
+    "result": "PASS"
+  }
+]

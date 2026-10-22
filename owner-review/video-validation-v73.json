@@ -1,0 +1,42 @@
+{
+  "result": "PASS",
+  "method": "ffprobe counted all encoded frames and inspected codec/dimensions/duration; ffmpeg fully decoded both files to null without suppressing errors. Encoded/capture durations compared directly.",
+  "checks": [
+    {
+      "file": "videos/FINAL_SCROLL_REVIEW_DESKTOP_V73.mp4",
+      "bytes": 18463630,
+      "sha256": "484cfd57520b7bafe9b6b29b50337c982502076ab80e7cf6483f23096c948914",
+      "codec": "h264",
+      "pixelFormat": "yuv420p",
+      "colorRange": "tv",
+      "width": 1440,
+      "height": 1000,
+      "framesRead": 1424,
+      "encodedDurationSeconds": 52.52,
+      "capturedDurationSeconds": 52.51843190193176,
+      "durationDifferenceSeconds": 0.001568098068240431,
+      "decodeExit": 0,
+      "decodeErrors": "",
+      "reachedDocumentEnd": true,
+      "result": "PASS"
+    },
+    {
+      "file": "videos/FINAL_SCROLL_REVIEW_MOBILE_V73.mp4",
+      "bytes": 10064728,
+      "sha256": "bea740683256b6da63ff4a6814c51adbe271c0624cd441a9157ee9379dd807fe",
+      "codec": "h264",
+      "pixelFormat": "yuv420p",
+      "colorRange": "tv",
+      "width": 390,
+      "height": 900,
+      "framesRead": 1689,
+      "encodedDurationSeconds": 60.547,
+      "capturedDurationSeconds": 60.544837951660156,
+      "durationDifferenceSeconds": 0.002162048339840794,
+      "decodeExit": 0,
+      "decodeErrors": "",
+      "reachedDocumentEnd": true,
+      "result": "PASS"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-22T11:32:49.650109+00:00",
+  "command": "npm run release:check",
+  "exit_code": 1,
+  "expected": "Release blocked",
+  "result": "PASS_HELD",
+  "stdout": "\n> daniel-ashagrie-ayele-portfolio@7.3.0 release:check\n> node scripts/check-release-hold.mjs\n\n",
+  "stderr": "Release is on hold: the v7.3 visual design requires owner review. Portrait approval does not authorize publication. Provenance and permission questions remain held. Internal builds and reviews remain available.\n"
+}

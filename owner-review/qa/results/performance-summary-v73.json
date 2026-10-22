@@ -1,0 +1,291 @@
+{
+  "result": "MEASURED",
+  "started": "2026-10-22T11:39:05.146Z",
+  "finished": "2026-10-22T11:39:19.145Z",
+  "production": {
+    "directory": "/workspace/portfolio-v73-premium/dist",
+    "members": 316,
+    "manifestSha256": "75421fdc47040eb2993a5f0f95e40088dfd88edfe752ea0010693e4074eeea98",
+    "indexSha256": "7d7920ba85cecaad2edfc3c7abc4f453e1233946e4bb4a893f1ce8654f5869e8"
+  },
+  "profiles": [
+    {
+      "mode": "mobile",
+      "started": "2026-10-22T11:39:05.146Z",
+      "version": "13.5.0",
+      "scores": {
+        "performance": 93,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": {
+          "value": 1359.9597,
+          "display": "1.4 s"
+        },
+        "largest-contentful-paint": {
+          "value": 3234.9597000000003,
+          "display": "3.2 s"
+        },
+        "total-blocking-time": {
+          "value": 0,
+          "display": "0 ms"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "display": "0"
+        },
+        "speed-index": {
+          "value": 1359.9597,
+          "display": "1.4 s"
+        }
+      },
+      "resourceSummary": [
+        {
+          "resourceType": "total",
+          "label": "Total",
+          "requestCount": 14,
+          "transferSize": 578190
+        },
+        {
+          "resourceType": "image",
+          "label": "Image",
+          "requestCount": 8,
+          "transferSize": 337321
+        },
+        {
+          "resourceType": "font",
+          "label": "Font",
+          "requestCount": 2,
+          "transferSize": 122088
+        },
+        {
+          "resourceType": "script",
+          "label": "Script",
+          "requestCount": 1,
+          "transferSize": 101701
+        },
+        {
+          "resourceType": "stylesheet",
+          "label": "Stylesheet",
+          "requestCount": 1,
+          "transferSize": 9115
+        },
+        {
+          "resourceType": "document",
+          "label": "Document",
+          "requestCount": 1,
+          "transferSize": 7326
+        },
+        {
+          "resourceType": "other",
+          "label": "Other",
+          "requestCount": 1,
+          "transferSize": 639
+        },
+        {
+          "resourceType": "media",
+          "label": "Media",
+          "requestCount": 0,
+          "transferSize": 0
+        },
+        {
+          "resourceType": "third-party",
+          "label": "Third-party",
+          "requestCount": 0,
+          "transferSize": 0
+        }
+      ],
+      "webglRequests": [],
+      "videoRequests": [],
+      "fontRequests": [
+        {
+          "url": "http://127.0.0.1:45349/assets/manrope-latin-wght-normal-DHIcAJRg.woff2",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 17.11599999666214,
+          "networkRequestTime": 18.18699999153614,
+          "networkEndTime": 30.591999992728233,
+          "finished": true,
+          "transferSize": 25036,
+          "resourceSize": 24836,
+          "statusCode": 200,
+          "mimeType": "font/woff2",
+          "resourceType": "Font",
+          "priority": "High",
+          "isLinkPreload": true,
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        },
+        {
+          "url": "http://127.0.0.1:45349/fonts/newsreader-latin-variable.woff2",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 17.51299999654293,
+          "networkRequestTime": 18.47199998795986,
+          "networkEndTime": 34.863999992609024,
+          "finished": true,
+          "transferSize": 97052,
+          "resourceSize": 96852,
+          "statusCode": 200,
+          "mimeType": "font/woff2",
+          "resourceType": "Font",
+          "priority": "High",
+          "isLinkPreload": true,
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        }
+      ],
+      "warnings": [],
+      "opportunities": [
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "value": "Est savings of 42 KiB"
+        }
+      ]
+    },
+    {
+      "mode": "desktop",
+      "started": "2026-10-22T11:39:12.475Z",
+      "version": "13.5.0",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": {
+          "value": 366.7234,
+          "display": "0.4 s"
+        },
+        "largest-contentful-paint": {
+          "value": 686.7234000000001,
+          "display": "0.7 s"
+        },
+        "total-blocking-time": {
+          "value": 0,
+          "display": "0 ms"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "display": "0"
+        },
+        "speed-index": {
+          "value": 366.7234,
+          "display": "0.4 s"
+        }
+      },
+      "resourceSummary": [
+        {
+          "resourceType": "total",
+          "label": "Total",
+          "requestCount": 14,
+          "transferSize": 1596765
+        },
+        {
+          "resourceType": "image",
+          "label": "Image",
+          "requestCount": 8,
+          "transferSize": 1355896
+        },
+        {
+          "resourceType": "font",
+          "label": "Font",
+          "requestCount": 2,
+          "transferSize": 122088
+        },
+        {
+          "resourceType": "script",
+          "label": "Script",
+          "requestCount": 1,
+          "transferSize": 101701
+        },
+        {
+          "resourceType": "stylesheet",
+          "label": "Stylesheet",
+          "requestCount": 1,
+          "transferSize": 9115
+        },
+        {
+          "resourceType": "document",
+          "label": "Document",
+          "requestCount": 1,
+          "transferSize": 7326
+        },
+        {
+          "resourceType": "other",
+          "label": "Other",
+          "requestCount": 1,
+          "transferSize": 639
+        },
+        {
+          "resourceType": "media",
+          "label": "Media",
+          "requestCount": 0,
+          "transferSize": 0
+        },
+        {
+          "resourceType": "third-party",
+          "label": "Third-party",
+          "requestCount": 0,
+          "transferSize": 0
+        }
+      ],
+      "webglRequests": [],
+      "videoRequests": [],
+      "fontRequests": [
+        {
+          "url": "http://127.0.0.1:45349/assets/manrope-latin-wght-normal-DHIcAJRg.woff2",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 13.114999994635582,
+          "networkRequestTime": 14.412000000476837,
+          "networkEndTime": 22.408000007271767,
+          "finished": true,
+          "transferSize": 25036,
+          "resourceSize": 24836,
+          "statusCode": 200,
+          "mimeType": "font/woff2",
+          "resourceType": "Font",
+          "priority": "High",
+          "isLinkPreload": true,
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        },
+        {
+          "url": "http://127.0.0.1:45349/fonts/newsreader-latin-variable.woff2",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 13.46400000154972,
+          "networkRequestTime": 14.752999991178513,
+          "networkEndTime": 24.078000009059906,
+          "finished": true,
+          "transferSize": 97052,
+          "resourceSize": 96852,
+          "statusCode": 200,
+          "mimeType": "font/woff2",
+          "resourceType": "Font",
+          "priority": "High",
+          "isLinkPreload": true,
+          "experimentalFromMainFrame": true,
+          "entity": "127.0.0.1"
+        }
+      ],
+      "warnings": [],
+      "opportunities": [
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "value": "Est savings of 42 KiB"
+        }
+      ]
+    }
+  ]
+}

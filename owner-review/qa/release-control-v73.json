@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-22T11:32:50.070350+00:00",
+  "remote_refs": {
+    "refs/heads/main": "59a53041351954950a52ebba8c9d89287dbbcfff",
+    "refs/heads/review/v7-1-owner-approval": "3616e03ed3a89ba1f13cd9539a049acf0b40bfba",
+    "refs/heads/review/v7-2-owner-approval": "bbd8e099b934d96d1b5d840eab7a69f1526e5c92"
+  },
+  "baseline_refs": {
+    "refs/heads/main": "59a53041351954950a52ebba8c9d89287dbbcfff",
+    "refs/heads/review/v7-1-owner-approval": "3616e03ed3a89ba1f13cd9539a049acf0b40bfba",
+    "refs/heads/review/v7-2-owner-approval": "bbd8e099b934d96d1b5d840eab7a69f1526e5c92"
+  },
+  "unchanged": true,
+  "existing_repository_worktree_clean": true,
+  "v73_actions": {
+    "push": false,
+    "merge": false,
+    "release": false,
+    "deployment": false,
+    "github_pages_configuration_change": false
+  },
+  "publication": "HOLD_PENDING_OWNER_VISUAL_APPROVAL"
+}

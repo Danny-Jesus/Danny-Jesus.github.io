@@ -1,0 +1,1251 @@
+{
+  "version": "7.3",
+  "started": "2026-10-22T11:41:26.279Z",
+  "browser": "154.0.8037.57",
+  "production": {
+    "members": 316,
+    "indexSha256": "7d7920ba85cecaad2edfc3c7abc4f453e1233946e4bb4a893f1ce8654f5869e8",
+    "manifestSha256": "75421fdc47040eb2993a5f0f95e40088dfd88edfe752ea0010693e4074eeea98"
+  },
+  "sourceIndexSha256": "7d7920ba85cecaad2edfc3c7abc4f453e1233946e4bb4a893f1ce8654f5869e8",
+  "staticCapture": "Reduced-motion browser, actual page pixels. Element captures hide fixed navigation only to avoid occluding clipped content; hero/full-page captures retain navigation.",
+  "desktop": [
+    {
+      "id": "aji-classroom",
+      "title": "Aji Four-Classroom Construction",
+      "bounds": {
+        "width": 1440,
+        "height": 803
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-005-1600.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "anseta-opd",
+      "title": "Anseta OPD Facility",
+      "bounds": {
+        "width": 719,
+        "height": 616
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-001-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "gosh-meda-mch",
+      "title": "Gosh Meda MCH Facility",
+      "bounds": {
+        "width": 533,
+        "height": 695
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-042-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "bisach-vet-post",
+      "title": "Bisach Vet Post",
+      "bounds": {
+        "width": 491,
+        "height": 438
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-056-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "ftc-facilities",
+      "title": "FTC Facilities",
+      "bounds": {
+        "width": 396,
+        "height": 477
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-024-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "warehouse-fdp",
+      "title": "Warehouse / FDP / Rub Hall",
+      "bounds": {
+        "width": 396,
+        "height": 477
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-019-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "zazi-bridge",
+      "title": "Zazi Bridge Infrastructure Project",
+      "bounds": {
+        "width": 462,
+        "height": 482
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-048-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "nefas-mewucha-road",
+      "title": "Nefas Mewucha\u2013Lay Gayint Road",
+      "bounds": {
+        "width": 958,
+        "height": 273
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-050-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "road-bridge-culvert",
+      "title": "Road / bridge / culvert infrastructure",
+      "bounds": {
+        "width": 660,
+        "height": 351
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-049-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "barguada-irrigation",
+      "title": "Barguada Irrigation Canal",
+      "bounds": {
+        "width": 462,
+        "height": 482
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-027-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "hydraulic-infrastructure",
+      "title": "Irrigation / dam / reservoir systems",
+      "bounds": {
+        "width": 455,
+        "height": 477
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-025-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "water-wash",
+      "title": "Water & WASH infrastructure",
+      "bounds": {
+        "width": 761,
+        "height": 679
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-062-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "maintenance-rehabilitation",
+      "title": "Maintenance & Rehabilitation",
+      "bounds": {
+        "width": 491,
+        "height": 438
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-037-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "supervision-field-practice",
+      "title": "Supervision / field practice",
+      "bounds": {
+        "width": 523,
+        "height": 540
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-054-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "undp-head-office",
+      "title": "UNDP Head Office",
+      "bounds": {
+        "width": 1310,
+        "height": 406
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-046-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "title": "Press Secretariat of the Prime Minister\u2019s Office",
+      "bounds": {
+        "width": 671,
+        "height": 596
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-044-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "insa-head-office",
+      "title": "INSA Head Office",
+      "bounds": {
+        "width": 584,
+        "height": 596
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-043-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "training-artisan",
+      "title": "Training / artisan training",
+      "bounds": {
+        "width": 732,
+        "height": 592
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-007-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "wash-community-training",
+      "title": "WASH / community training",
+      "bounds": {
+        "width": 546,
+        "height": 571
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-013-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "community-participation-awareness",
+      "title": "Community participation / awareness",
+      "bounds": {
+        "width": 710,
+        "height": 598
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-016-960.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "research",
+      "title": "XAUUSD Market Structure & Quantitative Research",
+      "bounds": {
+        "width": 1310,
+        "height": 720
+      },
+      "images": [],
+      "canvasCount": 0
+    },
+    {
+      "id": "petra",
+      "title": "PETRA AI",
+      "bounds": {
+        "width": 1310,
+        "height": 736
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/brand/petra-ai-primary-lockup.png",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "credentials",
+      "title": "Daniel Ashagrie Ayele",
+      "bounds": {
+        "width": 1440,
+        "height": 517
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/brand/logo-mark.svg",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    }
+  ],
+  "mobile": [
+    {
+      "id": "aji-classroom",
+      "title": "Aji Four-Classroom Construction",
+      "bounds": {
+        "width": 390,
+        "height": 503
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-005-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "anseta-opd",
+      "title": "Anseta OPD Facility",
+      "bounds": {
+        "width": 350,
+        "height": 451
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-001-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "gosh-meda-mch",
+      "title": "Gosh Meda MCH Facility",
+      "bounds": {
+        "width": 350,
+        "height": 528
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-042-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "bisach-vet-post",
+      "title": "Bisach Vet Post",
+      "bounds": {
+        "width": 350,
+        "height": 420
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-056-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "ftc-facilities",
+      "title": "FTC Facilities",
+      "bounds": {
+        "width": 350,
+        "height": 420
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-024-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "warehouse-fdp",
+      "title": "Warehouse / FDP / Rub Hall",
+      "bounds": {
+        "width": 350,
+        "height": 453
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-019-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "zazi-bridge",
+      "title": "Zazi Bridge Infrastructure Project",
+      "bounds": {
+        "width": 350,
+        "height": 459
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-048-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "nefas-mewucha-road",
+      "title": "Nefas Mewucha\u2013Lay Gayint Road",
+      "bounds": {
+        "width": 350,
+        "height": 440
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-050-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "road-bridge-culvert",
+      "title": "Road / bridge / culvert infrastructure",
+      "bounds": {
+        "width": 350,
+        "height": 235
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-049-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "barguada-irrigation",
+      "title": "Barguada Irrigation Canal",
+      "bounds": {
+        "width": 350,
+        "height": 453
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-027-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "hydraulic-infrastructure",
+      "title": "Irrigation / dam / reservoir systems",
+      "bounds": {
+        "width": 350,
+        "height": 453
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-025-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "water-wash",
+      "title": "Water & WASH infrastructure",
+      "bounds": {
+        "width": 350,
+        "height": 386
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-062-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "maintenance-rehabilitation",
+      "title": "Maintenance & Rehabilitation",
+      "bounds": {
+        "width": 350,
+        "height": 453
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-037-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "supervision-field-practice",
+      "title": "Supervision / field practice",
+      "bounds": {
+        "width": 350,
+        "height": 435
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-054-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "undp-head-office",
+      "title": "UNDP Head Office",
+      "bounds": {
+        "width": 350,
+        "height": 408
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-046-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "title": "Press Secretariat of the Prime Minister\u2019s Office",
+      "bounds": {
+        "width": 350,
+        "height": 440
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-044-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "insa-head-office",
+      "title": "INSA Head Office",
+      "bounds": {
+        "width": 350,
+        "height": 406
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-043-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "training-artisan",
+      "title": "Training / artisan training",
+      "bounds": {
+        "width": 350,
+        "height": 417
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-007-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "wash-community-training",
+      "title": "WASH / community training",
+      "bounds": {
+        "width": 350,
+        "height": 417
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-013-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "community-participation-awareness",
+      "title": "Community participation / awareness",
+      "bounds": {
+        "width": 350,
+        "height": 482
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/images/cinematic/photo-016-480.webp",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "research",
+      "title": "XAUUSD Market Structure & Quantitative Research",
+      "bounds": {
+        "width": 350,
+        "height": 854
+      },
+      "images": [],
+      "canvasCount": 0
+    },
+    {
+      "id": "petra",
+      "title": "PETRA AI",
+      "bounds": {
+        "width": 350,
+        "height": 811
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/brand/petra-ai-primary-lockup.png",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    },
+    {
+      "id": "credentials",
+      "title": "Daniel Ashagrie Ayele",
+      "bounds": {
+        "width": 390,
+        "height": 534
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:38847/brand/logo-mark.svg",
+          "loaded": true
+        }
+      ],
+      "canvasCount": 0
+    }
+  ],
+  "pageErrors": [],
+  "console": [],
+  "failedRequests": [],
+  "httpErrors": [],
+  "videos": [
+    {
+      "mode": "desktop",
+      "file": "videos/FINAL_SCROLL_REVIEW_DESKTOP_V73.mp4",
+      "width": 1440,
+      "height": 1000,
+      "frames": 1423,
+      "capturedDuration": 52.51843190193176,
+      "reachedDocumentEnd": true,
+      "documentHeight": 12588,
+      "waypoints": [
+        {
+          "target": 1318.046875,
+          "actual": 1318
+        },
+        {
+          "target": 2210.96875,
+          "actual": 2211
+        },
+        {
+          "target": 3016.328125,
+          "actual": 3016
+        },
+        {
+          "target": 3548.078125,
+          "actual": 3548
+        },
+        {
+          "target": 4233.75,
+          "actual": 4234
+        },
+        {
+          "target": 4726.78125,
+          "actual": 4727
+        },
+        {
+          "target": 5259.8125,
+          "actual": 5260
+        },
+        {
+          "target": 5831.90625,
+          "actual": 5832
+        },
+        {
+          "target": 6747.5625,
+          "actual": 6748
+        },
+        {
+          "target": 7218.21875,
+          "actual": 7218
+        },
+        {
+          "target": 8393.96875,
+          "actual": 8394
+        },
+        {
+          "target": 9056.296875,
+          "actual": 9056
+        },
+        {
+          "target": 10142.125,
+          "actual": 10142
+        },
+        {
+          "target": 10861.859375,
+          "actual": 10862
+        },
+        {
+          "target": 11588,
+          "actual": 11588
+        },
+        {
+          "target": 11588,
+          "actual": 11588
+        }
+      ],
+      "method": "Continuous native browser scrolling via requestAnimationFrame scrollTo, captured from Chromium CDP with original JPEG frames and actual timestamps. H264 VFR limited-range yuv420p; no simulated UI or generated footage."
+    },
+    {
+      "mode": "mobile",
+      "file": "videos/FINAL_SCROLL_REVIEW_MOBILE_V73.mp4",
+      "width": 390,
+      "height": 900,
+      "frames": 1688,
+      "capturedDuration": 60.544837951660156,
+      "reachedDocumentEnd": true,
+      "documentHeight": 14803,
+      "waypoints": [
+        {
+          "target": 955.109375,
+          "actual": 955
+        },
+        {
+          "target": 1505.90625,
+          "actual": 1506
+        },
+        {
+          "target": 1956.5,
+          "actual": 1957
+        },
+        {
+          "target": 2716.375,
+          "actual": 2716
+        },
+        {
+          "target": 3214.890625,
+          "actual": 3215
+        },
+        {
+          "target": 3708.15625,
+          "actual": 3708
+        },
+        {
+          "target": 4417.15625,
+          "actual": 4417
+        },
+        {
+          "target": 4845.28125,
+          "actual": 4845
+        },
+        {
+          "target": 5307.078125,
+          "actual": 5307
+        },
+        {
+          "target": 5804.34375,
+          "actual": 5804
+        },
+        {
+          "target": 6299.609375,
+          "actual": 6300
+        },
+        {
+          "target": 6761.40625,
+          "actual": 6761
+        },
+        {
+          "target": 7258.671875,
+          "actual": 7259
+        },
+        {
+          "target": 8112.703125,
+          "actual": 8113
+        },
+        {
+          "target": 8565.953125,
+          "actual": 8566
+        },
+        {
+          "target": 9050.515625,
+          "actual": 9051
+        },
+        {
+          "target": 9915.640625,
+          "actual": 9916
+        },
+        {
+          "target": 10332.453125,
+          "actual": 10332
+        },
+        {
+          "target": 10811.015625,
+          "actual": 10811
+        },
+        {
+          "target": 11271.828125,
+          "actual": 11272
+        },
+        {
+          "target": 12062.84375,
+          "actual": 12063
+        },
+        {
+          "target": 12916.6875,
+          "actual": 12917
+        },
+        {
+          "target": 13793.46875,
+          "actual": 13793
+        },
+        {
+          "target": 13903,
+          "actual": 13903
+        },
+        {
+          "target": 13903,
+          "actual": 13903
+        }
+      ],
+      "method": "Continuous native browser scrolling via requestAnimationFrame scrollTo, captured from Chromium CDP with original JPEG frames and actual timestamps. H264 VFR limited-range yuv420p; no simulated UI or generated footage."
+    }
+  ],
+  "screenshots": [
+    {
+      "id": "identity",
+      "mode": "desktop",
+      "file": "screenshots/HERO_DESKTOP_1440_V73.png",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "id": "full-homepage",
+      "mode": "desktop",
+      "file": "screenshots/HOMEPAGE_FULL_DESKTOP_V73.png",
+      "width": 1440,
+      "height": 12588
+    },
+    {
+      "id": "aji-classroom",
+      "mode": "desktop",
+      "file": "screenshots/AJI_SCENE_V73.png",
+      "width": 1440,
+      "height": 803
+    },
+    {
+      "id": "anseta-opd",
+      "mode": "desktop",
+      "file": "screenshots/ANSETA_SCENE_V73.png",
+      "width": 719,
+      "height": 616
+    },
+    {
+      "id": "gosh-meda-mch",
+      "mode": "desktop",
+      "file": "screenshots/MCH_SCENE_V73.png",
+      "width": 533,
+      "height": 695
+    },
+    {
+      "id": "bisach-vet-post",
+      "mode": "desktop",
+      "file": "screenshots/VET_POST_SCENE_V73.png",
+      "width": 491,
+      "height": 438
+    },
+    {
+      "id": "ftc-facilities",
+      "mode": "desktop",
+      "file": "screenshots/FTC_SCENE_V73.png",
+      "width": 396,
+      "height": 477
+    },
+    {
+      "id": "warehouse-fdp",
+      "mode": "desktop",
+      "file": "screenshots/WAREHOUSE_FDP_SCENE_V73.png",
+      "width": 396,
+      "height": 477
+    },
+    {
+      "id": "zazi-bridge",
+      "mode": "desktop",
+      "file": "screenshots/ZAZI_SCENE_V73.png",
+      "width": 462,
+      "height": 482
+    },
+    {
+      "id": "nefas-mewucha-road",
+      "mode": "desktop",
+      "file": "screenshots/NEFAS_ROAD_SCENE_V73.png",
+      "width": 958,
+      "height": 273
+    },
+    {
+      "id": "road-bridge-culvert",
+      "mode": "desktop",
+      "file": "screenshots/ROAD_CULVERT_SCENE_V73.png",
+      "width": 660,
+      "height": 351
+    },
+    {
+      "id": "barguada-irrigation",
+      "mode": "desktop",
+      "file": "screenshots/BARGUADA_SCENE_V73.png",
+      "width": 462,
+      "height": 482
+    },
+    {
+      "id": "hydraulic-infrastructure",
+      "mode": "desktop",
+      "file": "screenshots/HYDRAULIC_SCENE_V73.png",
+      "width": 455,
+      "height": 477
+    },
+    {
+      "id": "water-wash",
+      "mode": "desktop",
+      "file": "screenshots/WATER_WASH_SCENE_V73.png",
+      "width": 761,
+      "height": 679
+    },
+    {
+      "id": "maintenance-rehabilitation",
+      "mode": "desktop",
+      "file": "screenshots/MAINTENANCE_REHAB_SCENE_V73.png",
+      "width": 491,
+      "height": 438
+    },
+    {
+      "id": "supervision-field-practice",
+      "mode": "desktop",
+      "file": "screenshots/SUPERVISION_SCENE_V73.png",
+      "width": 523,
+      "height": 540
+    },
+    {
+      "id": "undp-head-office",
+      "mode": "desktop",
+      "file": "screenshots/UNDP_SCENE_V73.png",
+      "width": 1310,
+      "height": 406
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "mode": "desktop",
+      "file": "screenshots/PMO_SCENE_V73.png",
+      "width": 671,
+      "height": 596
+    },
+    {
+      "id": "insa-head-office",
+      "mode": "desktop",
+      "file": "screenshots/INSA_SCENE_V73.png",
+      "width": 584,
+      "height": 596
+    },
+    {
+      "id": "training-artisan",
+      "mode": "desktop",
+      "file": "screenshots/TRAINING_SCENE_V73.png",
+      "width": 732,
+      "height": 592
+    },
+    {
+      "id": "wash-community-training",
+      "mode": "desktop",
+      "file": "screenshots/WASH_TRAINING_SCENE_V73.png",
+      "width": 546,
+      "height": 571
+    },
+    {
+      "id": "community-participation-awareness",
+      "mode": "desktop",
+      "file": "screenshots/COMMUNITY_SCENE_V73.png",
+      "width": 710,
+      "height": 598
+    },
+    {
+      "id": "research",
+      "mode": "desktop",
+      "file": "screenshots/XAUUSD_SCENE_V73.png",
+      "width": 1310,
+      "height": 720
+    },
+    {
+      "id": "petra",
+      "mode": "desktop",
+      "file": "screenshots/PETRA_SCENE_V73.png",
+      "width": 1310,
+      "height": 736
+    },
+    {
+      "id": "credentials",
+      "mode": "desktop",
+      "file": "screenshots/CREDENTIALS_ABOUT_CONTACT_SCENE_V73.png",
+      "width": 1440,
+      "height": 517
+    },
+    {
+      "id": "identity",
+      "mode": "mobile",
+      "file": "screenshots/HERO_MOBILE_390_V73.png",
+      "width": 390,
+      "height": 900
+    },
+    {
+      "id": "full-homepage",
+      "mode": "mobile",
+      "file": "screenshots/HOMEPAGE_FULL_MOBILE_V73.png",
+      "width": 390,
+      "height": 14803
+    },
+    {
+      "id": "aji-classroom",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_AJI_SCENE_V73.png",
+      "width": 390,
+      "height": 503
+    },
+    {
+      "id": "anseta-opd",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_ANSETA_SCENE_V73.png",
+      "width": 350,
+      "height": 451
+    },
+    {
+      "id": "gosh-meda-mch",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_MCH_SCENE_V73.png",
+      "width": 350,
+      "height": 528
+    },
+    {
+      "id": "bisach-vet-post",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_VET_POST_SCENE_V73.png",
+      "width": 350,
+      "height": 420
+    },
+    {
+      "id": "ftc-facilities",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_FTC_SCENE_V73.png",
+      "width": 350,
+      "height": 420
+    },
+    {
+      "id": "warehouse-fdp",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_WAREHOUSE_FDP_SCENE_V73.png",
+      "width": 350,
+      "height": 453
+    },
+    {
+      "id": "zazi-bridge",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_ZAZI_SCENE_V73.png",
+      "width": 350,
+      "height": 459
+    },
+    {
+      "id": "nefas-mewucha-road",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_NEFAS_ROAD_SCENE_V73.png",
+      "width": 350,
+      "height": 440
+    },
+    {
+      "id": "road-bridge-culvert",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_ROAD_CULVERT_SCENE_V73.png",
+      "width": 350,
+      "height": 235
+    },
+    {
+      "id": "barguada-irrigation",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_BARGUADA_SCENE_V73.png",
+      "width": 350,
+      "height": 453
+    },
+    {
+      "id": "hydraulic-infrastructure",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_HYDRAULIC_SCENE_V73.png",
+      "width": 350,
+      "height": 453
+    },
+    {
+      "id": "water-wash",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_WATER_WASH_SCENE_V73.png",
+      "width": 350,
+      "height": 386
+    },
+    {
+      "id": "maintenance-rehabilitation",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_MAINTENANCE_REHAB_SCENE_V73.png",
+      "width": 350,
+      "height": 453
+    },
+    {
+      "id": "supervision-field-practice",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_SUPERVISION_SCENE_V73.png",
+      "width": 350,
+      "height": 435
+    },
+    {
+      "id": "undp-head-office",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_UNDP_SCENE_V73.png",
+      "width": 350,
+      "height": 408
+    },
+    {
+      "id": "prime-ministers-office-press-offices",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_PMO_SCENE_V73.png",
+      "width": 350,
+      "height": 440
+    },
+    {
+      "id": "insa-head-office",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_INSA_SCENE_V73.png",
+      "width": 350,
+      "height": 406
+    },
+    {
+      "id": "training-artisan",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_TRAINING_SCENE_V73.png",
+      "width": 350,
+      "height": 417
+    },
+    {
+      "id": "wash-community-training",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_WASH_TRAINING_SCENE_V73.png",
+      "width": 350,
+      "height": 417
+    },
+    {
+      "id": "community-participation-awareness",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_COMMUNITY_SCENE_V73.png",
+      "width": 350,
+      "height": 482
+    },
+    {
+      "id": "research",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_XAUUSD_SCENE_V73.png",
+      "width": 350,
+      "height": 854
+    },
+    {
+      "id": "petra",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_PETRA_SCENE_V73.png",
+      "width": 350,
+      "height": 811
+    },
+    {
+      "id": "credentials",
+      "mode": "mobile",
+      "file": "screenshots/MOBILE_CREDENTIALS_ABOUT_CONTACT_SCENE_V73.png",
+      "width": 390,
+      "height": 534
+    }
+  ],
+  "result": "PASS",
+  "finished": "2026-10-22T11:44:15.603Z",
+  "rawFrameEvidence": {
+    "workspaceDirectory": "/workspace/v73-premium-review/capture-frames-final",
+    "includedInReviewPackage": false,
+    "reason": "Original CDP browser frames and timestamps retained in workspace; final owner review contains fully validated MP4s, capture proof and decode results."
+  }
+}

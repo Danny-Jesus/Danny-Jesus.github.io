@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "generated_utc": "2026-10-22T11:43:10.970352+00:00",
+  "source_package_sha256": "8345da656c00ffd9689a360d8a8c136b94225b853b4c891cf7faaee0f6074fbf",
+  "production_package_sha256": "7d98417ffd6e54723ec14fc54698e3e69a5649bbb524948cdb6eb8bac0c0496f",
+  "method": "Fresh Source ZIP extraction, fresh node_modules via locked npm ci using a shared download cache, complete production build, exhaustive member-set/size/SHA-256 comparison to the reviewed dist.",
+  "npm_ci": "PASS",
+  "production_build": "PASS",
+  "compared_members": 316,
+  "all_members_exactly_reproduced": true,
+  "production_manifest_sha256": "dcd757580187277e5e5c82e6fdcca01b0d81d4e818b385e296600397b6ad10aa",
+  "reviewed_index_sha256": "7d7920ba85cecaad2edfc3c7abc4f453e1233946e4bb4a893f1ce8654f5869e8",
+  "isolation_directory": "/workspace/v73-premium-review/source-isolation-1ny656cm/daniel-portfolio-v7-3-premium-redesign",
+  "log": "source-isolation-build-v73.log",
+  "dependency_updates": "NONE",
+  "limitations": "Shared npm download cache; new extracted editable source and new dependency directory. This does not authorize publication."
+}
