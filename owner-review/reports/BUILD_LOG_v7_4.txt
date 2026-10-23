@@ -1,0 +1,41 @@
+
+> daniel-ashagrie-ayele-portfolio@7.4.0 build
+> npm run typecheck && node scripts/clean-build.mjs && vite build && vite build --ssr src/entry-server.tsx --outDir .ssr && node scripts/prerender.mjs && node scripts/verify-build.mjs
+
+
+> daniel-ashagrie-ayele-portfolio@7.4.0 typecheck
+> tsc --noEmit
+
+npm notice
+npm notice New major version of npm available! 11.9.0 -> 12.2.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.1
+npm notice To update run: npm install -g npm@12.2.1
+npm notice
+vite v8.3.3 building client environment for production...
+transforming...
+✓ 4584 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/.vite/manifest.json                                0.51 kB │ gzip:   0.23 kB
+dist/index.html                                         2.49 kB │ gzip:   0.78 kB
+dist/assets/manrope-latin-wght-normal-DHIcAJRg.woff2   24.83 kB
+dist/assets/index-Bhviw2oJ.css                        100.60 kB │ gzip:  18.15 kB
+dist/assets/index-COc2yBmQ.js                         390.27 kB │ gzip: 108.05 kB
+
+✓ built in 1.50s
+vite v8.3.3 building ssr environment for production...
+transforming...
+✓ 27 modules transformed.
+rendering chunks...
+computing gzip size...
+.ssr/.vite/manifest.json    0.21 kB │ gzip:  0.13 kB
+.ssr/entry-server.js      154.34 kB │ gzip: 30.68 kB
+
+✓ built in 173ms
+Prerendered 25 static pages and the 404 page.
+Verified 26 prerendered HTML pages, curated coverage, 55 photo selections, local links, metadata, PETRA identity and restrained editorial presentation.
+npm notice
+npm notice New major version of npm available! 11.9.0 -> 12.2.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.1
+npm notice To update run: npm install -g npm@12.2.1
+npm notice

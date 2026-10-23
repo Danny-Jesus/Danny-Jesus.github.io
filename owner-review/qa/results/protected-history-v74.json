@@ -1,0 +1,105 @@
+{
+  "result": "PASS",
+  "captured_utc": "2026-10-23T16:37:43.957645+00:00",
+  "archives": [
+    {
+      "path": "/workspace/rebuild-evidence/deliverables/Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_1_REBUILT_Source.zip",
+      "bytes": 217078620,
+      "sha256": "4bb48ccb3388d27154298006f8761840337a1aa2b7adcfbc6c8b4771800eae93",
+      "expected_sha256": "4bb48ccb3388d27154298006f8761840337a1aa2b7adcfbc6c8b4771800eae93",
+      "unchanged": true
+    },
+    {
+      "path": "/workspace/rebuild-evidence/deliverables/Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_1_REBUILT_Production.zip",
+      "bytes": 34568784,
+      "sha256": "71b4da6a60552911f6005be390322fa6158f6b9e6093cac0745fbc5853e13371",
+      "expected_sha256": "71b4da6a60552911f6005be390322fa6158f6b9e6093cac0745fbc5853e13371",
+      "unchanged": true
+    },
+    {
+      "path": "/workspace/rebuild-evidence/deliverables/Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_1_REBUILT_Review_Package.zip",
+      "bytes": 91401265,
+      "sha256": "15e7933865584e78ccc02787237221f1adee16c42d9eea8147a1ef0a578b2656",
+      "expected_sha256": "15e7933865584e78ccc02787237221f1adee16c42d9eea8147a1ef0a578b2656",
+      "unchanged": true
+    },
+    {
+      "path": "/workspace/v72-correction/deliverables/Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_2_CORRECTED_Source.zip",
+      "bytes": 217134600,
+      "sha256": "67155df4b3e0b8473b533c49ea58dfe9b6e862fc9063e744da2dd2a51b77d0fb",
+      "expected_sha256": "67155df4b3e0b8473b533c49ea58dfe9b6e862fc9063e744da2dd2a51b77d0fb",
+      "unchanged": true
+    },
+    {
+      "path": "/workspace/v72-correction/deliverables/Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_2_CORRECTED_Production.zip",
+      "bytes": 34588937,
+      "sha256": "d6e8bdf2e91c3527fbd0f2ec938d4a95c66c2875af6fcde74a2ff7e2ba8f4a28",
+      "expected_sha256": "d6e8bdf2e91c3527fbd0f2ec938d4a95c66c2875af6fcde74a2ff7e2ba8f4a28",
+      "unchanged": true
+    },
+    {
+      "path": "/workspace/v72-correction/deliverables/Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_2_CORRECTED_Review_Package.zip",
+      "bytes": 142598499,
+      "sha256": "edf744fd5ed08dbc16d4a1baea6cb9729297ff918f18d59697ca3ad4ee24bb9d",
+      "expected_sha256": "edf744fd5ed08dbc16d4a1baea6cb9729297ff918f18d59697ca3ad4ee24bb9d",
+      "unchanged": true
+    },
+    {
+      "path": "/workspace/v73-premium-review/deliverables/Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_3_PREMIUM_REDESIGN_Source.zip",
+      "bytes": 217265304,
+      "sha256": "8345da656c00ffd9689a360d8a8c136b94225b853b4c891cf7faaee0f6074fbf",
+      "expected_sha256": "8345da656c00ffd9689a360d8a8c136b94225b853b4c891cf7faaee0f6074fbf",
+      "unchanged": true
+    },
+    {
+      "path": "/workspace/v73-premium-review/deliverables/Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_3_PREMIUM_REDESIGN_Production.zip",
+      "bytes": 34473172,
+      "sha256": "7d98417ffd6e54723ec14fc54698e3e69a5649bbb524948cdb6eb8bac0c0496f",
+      "expected_sha256": "7d98417ffd6e54723ec14fc54698e3e69a5649bbb524948cdb6eb8bac0c0496f",
+      "unchanged": true
+    },
+    {
+      "path": "/workspace/v73-premium-review/deliverables/Daniel_Ashagrie_Ayele_Portfolio_FINAL_Cinematic_v7_3_PREMIUM_REDESIGN_Review_Package.zip",
+      "bytes": 97978957,
+      "sha256": "d1a12ac727bd4677d9087a3aa2fd4ae04c42ca89c7652f691fefbb11fb3c4623",
+      "expected_sha256": "d1a12ac727bd4677d9087a3aa2fd4ae04c42ca89c7652f691fefbb11fb3c4623",
+      "unchanged": true
+    }
+  ],
+  "refs": [
+    {
+      "ref": "refs/heads/main",
+      "expected": "59a53041351954950a52ebba8c9d89287dbbcfff",
+      "remote": "59a53041351954950a52ebba8c9d89287dbbcfff",
+      "remote_unchanged": true,
+      "local_if_present": null,
+      "local_unchanged_if_present": true
+    },
+    {
+      "ref": "refs/heads/review/v7-1-owner-approval",
+      "expected": "3616e03ed3a89ba1f13cd9539a049acf0b40bfba",
+      "remote": "3616e03ed3a89ba1f13cd9539a049acf0b40bfba",
+      "remote_unchanged": true,
+      "local_if_present": "3616e03ed3a89ba1f13cd9539a049acf0b40bfba",
+      "local_unchanged_if_present": true
+    },
+    {
+      "ref": "refs/heads/review/v7-2-owner-approval",
+      "expected": "bbd8e099b934d96d1b5d840eab7a69f1526e5c92",
+      "remote": "bbd8e099b934d96d1b5d840eab7a69f1526e5c92",
+      "remote_unchanged": true,
+      "local_if_present": "bbd8e099b934d96d1b5d840eab7a69f1526e5c92",
+      "local_unchanged_if_present": true
+    },
+    {
+      "ref": "refs/heads/review/v7-3-owner-approval",
+      "expected": "20ca291ed33f50c32295574711d52d2645775fb4",
+      "remote": "20ca291ed33f50c32295574711d52d2645775fb4",
+      "remote_unchanged": true,
+      "local_if_present": "20ca291ed33f50c32295574711d52d2645775fb4",
+      "local_unchanged_if_present": true
+    }
+  ],
+  "errors": [],
+  "mutations": "NONE; archive reads and read-only git ls-remote/rev-parse only"
+}

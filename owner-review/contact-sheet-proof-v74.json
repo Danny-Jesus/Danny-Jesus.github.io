@@ -1,0 +1,209 @@
+{
+  "result": "PASS",
+  "resultScope": "Complete contact-sheet composition only; art direction is not automatically certified.",
+  "mode": "FINAL_FROZEN_CANDIDATE",
+  "productionManifestSha256": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+  "method": "Sequential nonoverlapping slices of complete fresh browser full-page screenshots. Every source row appears once; scaled only for contact-sheet review. Read each tile top to bottom, then the next tile to the right.",
+  "sheets": [
+    {
+      "file": "screenshots/HOMEPAGE_DESKTOP_CONTACT_SHEET_V74.png",
+      "source": "screenshots/HOMEPAGE_FULL_DESKTOP_V74.png",
+      "sourceSha256": "6e232e8e72129511120fd68c103933b17a00c178e9aae325f0dded02b0879bd9",
+      "sourceWidth": 1440,
+      "sourceHeight": 26820,
+      "tiles": 18,
+      "columns": 3,
+      "rows": 6,
+      "balancedTileHeight": 1490,
+      "allSourceRowsRepresented": true,
+      "slices": [
+        {
+          "tile": 1,
+          "sourceTop": 0,
+          "sourceBottom": 1490
+        },
+        {
+          "tile": 2,
+          "sourceTop": 1490,
+          "sourceBottom": 2980
+        },
+        {
+          "tile": 3,
+          "sourceTop": 2980,
+          "sourceBottom": 4470
+        },
+        {
+          "tile": 4,
+          "sourceTop": 4470,
+          "sourceBottom": 5960
+        },
+        {
+          "tile": 5,
+          "sourceTop": 5960,
+          "sourceBottom": 7450
+        },
+        {
+          "tile": 6,
+          "sourceTop": 7450,
+          "sourceBottom": 8940
+        },
+        {
+          "tile": 7,
+          "sourceTop": 8940,
+          "sourceBottom": 10430
+        },
+        {
+          "tile": 8,
+          "sourceTop": 10430,
+          "sourceBottom": 11920
+        },
+        {
+          "tile": 9,
+          "sourceTop": 11920,
+          "sourceBottom": 13410
+        },
+        {
+          "tile": 10,
+          "sourceTop": 13410,
+          "sourceBottom": 14900
+        },
+        {
+          "tile": 11,
+          "sourceTop": 14900,
+          "sourceBottom": 16390
+        },
+        {
+          "tile": 12,
+          "sourceTop": 16390,
+          "sourceBottom": 17880
+        },
+        {
+          "tile": 13,
+          "sourceTop": 17880,
+          "sourceBottom": 19370
+        },
+        {
+          "tile": 14,
+          "sourceTop": 19370,
+          "sourceBottom": 20860
+        },
+        {
+          "tile": 15,
+          "sourceTop": 20860,
+          "sourceBottom": 22350
+        },
+        {
+          "tile": 16,
+          "sourceTop": 22350,
+          "sourceBottom": 23840
+        },
+        {
+          "tile": 17,
+          "sourceTop": 23840,
+          "sourceBottom": 25330
+        },
+        {
+          "tile": 18,
+          "sourceTop": 25330,
+          "sourceBottom": 26820
+        }
+      ],
+      "sha256": "156e2336a28362f00c9ca9b54a238ae01c25b0bede59cb18d3b9be6c2e4757ee"
+    },
+    {
+      "file": "screenshots/HOMEPAGE_MOBILE_CONTACT_SHEET_V74.png",
+      "source": "screenshots/HOMEPAGE_FULL_MOBILE_V74.png",
+      "sourceSha256": "30c087e583c230f1cd261c75c6af94d0ce956fb5907de2bc502114fd726620e9",
+      "sourceWidth": 390,
+      "sourceHeight": 20934,
+      "tiles": 16,
+      "columns": 4,
+      "rows": 4,
+      "balancedTileHeight": 1309,
+      "allSourceRowsRepresented": true,
+      "slices": [
+        {
+          "tile": 1,
+          "sourceTop": 0,
+          "sourceBottom": 1309
+        },
+        {
+          "tile": 2,
+          "sourceTop": 1309,
+          "sourceBottom": 2618
+        },
+        {
+          "tile": 3,
+          "sourceTop": 2618,
+          "sourceBottom": 3927
+        },
+        {
+          "tile": 4,
+          "sourceTop": 3927,
+          "sourceBottom": 5236
+        },
+        {
+          "tile": 5,
+          "sourceTop": 5236,
+          "sourceBottom": 6545
+        },
+        {
+          "tile": 6,
+          "sourceTop": 6545,
+          "sourceBottom": 7854
+        },
+        {
+          "tile": 7,
+          "sourceTop": 7854,
+          "sourceBottom": 9163
+        },
+        {
+          "tile": 8,
+          "sourceTop": 9163,
+          "sourceBottom": 10472
+        },
+        {
+          "tile": 9,
+          "sourceTop": 10472,
+          "sourceBottom": 11781
+        },
+        {
+          "tile": 10,
+          "sourceTop": 11781,
+          "sourceBottom": 13090
+        },
+        {
+          "tile": 11,
+          "sourceTop": 13090,
+          "sourceBottom": 14399
+        },
+        {
+          "tile": 12,
+          "sourceTop": 14399,
+          "sourceBottom": 15708
+        },
+        {
+          "tile": 13,
+          "sourceTop": 15708,
+          "sourceBottom": 17017
+        },
+        {
+          "tile": 14,
+          "sourceTop": 17017,
+          "sourceBottom": 18326
+        },
+        {
+          "tile": 15,
+          "sourceTop": 18326,
+          "sourceBottom": 19635
+        },
+        {
+          "tile": 16,
+          "sourceTop": 19635,
+          "sourceBottom": 20934
+        }
+      ],
+      "sha256": "8dad8ed019f235b6cef15897de98e3802bee03e65a5151cfbdd22e4719b19649"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "result": "PASS",
+  "exit_code": 0,
+  "command": "npm run build",
+  "started": "2026-10-23T16:36:45.930146+00:00",
+  "finished": "2026-10-23T16:36:54.769243+00:00",
+  "log": "qa/build-final-v74.log",
+  "log_sha256": "0870b10ab5bfd55a7f2230f70068e462d0fe06dbcdf19cf7cb06792320c5acc4",
+  "package_lock_sha256": "250bcac281d4530f2b9f78b3b3b5c44f505e752a482225f95487be01085c2e73",
+  "index_sha256": "f289425c531a6135170472acbef7f8593a4398374995b66f5b01e051a72f572c",
+  "production_member_manifest_sha256": "2d4dba71b2344e4559fe588d54ae1f2d13029708275261768e1e41e07d5f769b"
+}

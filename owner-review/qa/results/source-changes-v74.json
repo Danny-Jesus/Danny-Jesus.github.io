@@ -1,0 +1,34 @@
+{
+  "added": [
+    "docs/V74_ART_DIRECTION.md",
+    "scripts/compose-contact-sheets-v74.py",
+    "scripts/contrast-v74.mjs",
+    "scripts/contrast-v74.py",
+    "scripts/performance-v74.mjs",
+    "scripts/qa-common-v74.mjs",
+    "scripts/record-v74.mjs",
+    "scripts/review-v74.mjs",
+    "scripts/verify-v74-videos.py",
+    "src/v74/InfrastructureSpreads.tsx",
+    "src/v74/InstitutionalSpreads.tsx",
+    "src/v74/PeopleSpreads.tsx",
+    "src/v74/ResearchEditorial.tsx",
+    "src/v74/SelectedWorks.tsx",
+    "src/v74/Shared.tsx",
+    "src/v74/art-direction.css",
+    "src/v74/infrastructure-spreads.css",
+    "src/v74/institutional-spreads.css",
+    "src/v74/research-editorial.css"
+  ],
+  "removed": [],
+  "modified": [
+    "GITHUB_RELEASE_STATUS.json",
+    "README.md",
+    "RELEASE_HOLD.json",
+    "package-lock.json",
+    "package.json",
+    "src/main.tsx",
+    "src/v7/Pages.tsx",
+    "src/v7/Stories.tsx"
+  ]
+}

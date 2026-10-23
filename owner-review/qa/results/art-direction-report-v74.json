@@ -1,0 +1,72 @@
+{
+  "result": "PASS",
+  "failures": [],
+  "fingerprints": {
+    "browser": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "performance": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "static": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "contrast": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "capture": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "contact": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "video": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8"
+  },
+  "fingerprints_match": true,
+  "current_production_matches": true,
+  "publication": "HOLD_PENDING_OWNER_VISUAL_APPROVAL",
+  "generated_utc": "2026-10-23T16:53:48.515616+00:00",
+  "build": {
+    "result": "PASS",
+    "log": "/workspace/v74-art-direction/qa/build-final-v74.log",
+    "exit_code": 0,
+    "sha256": "0870b10ab5bfd55a7f2230f70068e462d0fe06dbcdf19cf7cb06792320c5acc4"
+  },
+  "package_closure": {
+    "result": "PASS",
+    "packages": {
+      "source": {
+        "filename": "Daniel_Ashagrie_Ayele_Portfolio_v7_4_FINAL_ART_DIRECTION_Source.zip",
+        "bytes": 217327103,
+        "sha256": "8d1481eff8285d0fde3e33799600a50b512d18b05818e591cd4f7232e1103def",
+        "members": 592,
+        "crc": "PASS",
+        "all_member_bytes_match_snapshot": true,
+        "result": "PASS"
+      },
+      "production": {
+        "filename": "Daniel_Ashagrie_Ayele_Portfolio_v7_4_FINAL_ART_DIRECTION_Production.zip",
+        "bytes": 34496637,
+        "sha256": "5727dcadf8cf3b49712df299f4ccf2ff6d6caecff493d33b7622db55fb3a5335",
+        "members": 316,
+        "crc": "PASS",
+        "all_member_bytes_match_snapshot": true,
+        "result": "PASS"
+      }
+    },
+    "source_reproducibility": "PASS",
+    "package_hygiene": "PASS",
+    "production_member_manifest": "PASS",
+    "compared_members": 316,
+    "production_manifest_sha256": "2d4dba71b2344e4559fe588d54ae1f2d13029708275261768e1e41e07d5f769b",
+    "reviewed_browser_manifest_sha256": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "failures": [],
+    "review_package_hash": "External REBUILD_SHA256_MANIFEST_v7_4.txt only; the Review ZIP cannot contain its own final hash."
+  },
+  "coverage_rows": 23,
+  "coverage_complete": 23,
+  "reports": [
+    {
+      "file": "FINAL_ART_DIRECTION_REPORT_v7_4.md",
+      "sha256": "a7bbb928d411d2a7ca964215865052d9b7e0a6c5664f43197fc69a4ab98751b2"
+    },
+    {
+      "file": "HOMEPAGE_COVERAGE_AUDIT_v7_4.md",
+      "sha256": "deb387d8ab3ffea335f314e2baba620cc269b241852621797aa554d2bf137872"
+    },
+    {
+      "file": "CINEMATIC_PHOTO_INTEGRATION_REPORT_v7_4.md",
+      "sha256": "71f428456267bf08167b9d380039537d89703ebe8ed3439a80962834ab673963"
+    }
+  ],
+  "owner_visual_approval": "PENDING",
+  "automated_premium_design_certification": false
+}

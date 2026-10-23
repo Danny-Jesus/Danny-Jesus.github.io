@@ -1,0 +1,43 @@
+{
+  "result": "PASS",
+  "productionManifestSha256": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+  "method": "ffprobe counted all encoded frames and inspected codec/dimensions/duration; ffmpeg fully decoded both files to null without suppressing errors. Encoded durations are compared directly to the CDP timestamps, and exact capture-file hashes must match.",
+  "checks": [
+    {
+      "file": "videos/FINAL_CINEMATIC_SCROLL_REVIEW_V74.mp4",
+      "bytes": 37501435,
+      "sha256": "0f84c4b23a0e9683944160df6102289693ea6980081bb0dfbcadd67f7dfa8289",
+      "codec": "h264",
+      "pixelFormat": "yuv420p",
+      "colorRange": "tv",
+      "width": 1440,
+      "height": 1000,
+      "framesRead": 2897,
+      "encodedDurationSeconds": 114.646,
+      "capturedDurationSeconds": 114.64479780197144,
+      "durationDifferenceSeconds": 0.001202198028565249,
+      "decodeExit": 0,
+      "decodeErrors": "",
+      "reachedDocumentEnd": true,
+      "result": "PASS"
+    },
+    {
+      "file": "videos/FINAL_MOBILE_SCROLL_REVIEW_V74.mp4",
+      "bytes": 11433645,
+      "sha256": "7288da6e31ac33ac56e328c8e6f2ab2e5dd9904e055fa6950d35e12c0d89385f",
+      "codec": "h264",
+      "pixelFormat": "yuv420p",
+      "colorRange": "tv",
+      "width": 390,
+      "height": 900,
+      "framesRead": 2422,
+      "encodedDurationSeconds": 85.013,
+      "capturedDurationSeconds": 85.01099014282227,
+      "durationDifferenceSeconds": 0.0020098571777396046,
+      "decodeExit": 0,
+      "decodeErrors": "",
+      "reachedDocumentEnd": true,
+      "result": "PASS"
+    }
+  ]
+}

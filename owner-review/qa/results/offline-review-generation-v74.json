@@ -1,0 +1,27 @@
+{
+  "result": "PASS",
+  "html": "FINAL_VISUAL_REVIEW_v7_4_FINAL_ART_DIRECTION.html",
+  "htmlSha256": "3a79ad949b51f128206334f9f4edf4224a2a9e4534663d3efee61acae6acd502",
+  "generated_utc": "2026-10-23T16:58:15.788816+00:00",
+  "technical_checks_ready": true,
+  "readiness": true,
+  "missing": [],
+  "failures": [],
+  "required_linked_evidence": 110,
+  "fingerprints": {
+    "browser": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "performance": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "static": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "contrast": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "capture": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "contact": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+    "video": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8"
+  },
+  "fingerprints_match": true,
+  "current_production_matches": true,
+  "productionManifestSha256": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+  "external_dependencies": 0,
+  "javascript_required": false,
+  "owner_visual_approval": "PENDING",
+  "publication": "HOLD_PENDING_OWNER_VISUAL_APPROVAL"
+}

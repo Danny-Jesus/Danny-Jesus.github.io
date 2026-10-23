@@ -1,0 +1,79 @@
+{
+  "status": "PASS",
+  "generated_utc": "2026-10-23T16:52:03.414803+00:00",
+  "source": {
+    "filename": "Daniel_Ashagrie_Ayele_Portfolio_v7_4_FINAL_ART_DIRECTION_Source.zip",
+    "bytes": 217327103,
+    "sha256": "8d1481eff8285d0fde3e33799600a50b512d18b05818e591cd4f7232e1103def",
+    "members": 592,
+    "crc": "PASS",
+    "all_member_bytes_match_snapshot": true
+  },
+  "production": {
+    "filename": "Daniel_Ashagrie_Ayele_Portfolio_v7_4_FINAL_ART_DIRECTION_Production.zip",
+    "bytes": 34496637,
+    "sha256": "5727dcadf8cf3b49712df299f4ccf2ff6d6caecff493d33b7622db55fb3a5335",
+    "members": 316,
+    "crc": "PASS",
+    "all_member_bytes_match_snapshot": true
+  },
+  "reviewed_index_sha256": "f289425c531a6135170472acbef7f8593a4398374995b66f5b01e051a72f572c",
+  "reviewed_browser_manifest_sha256": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8",
+  "source_member_manifest_sha256": "50db701bccbe8a0da3583a123243e2a09baeed9f7532510a4a6b41242634a111",
+  "production_member_manifest_sha256": "2d4dba71b2344e4559fe588d54ae1f2d13029708275261768e1e41e07d5f769b",
+  "evidence_bindings": [
+    {
+      "kind": "final_build",
+      "path": "/workspace/v74-art-direction/qa/results/build-result-v74.json",
+      "sha256": "9f449079fc441c43d492313d3f092aed64b14c06688628f160ba683ed0f9daec",
+      "actual_exit_code": 0
+    },
+    {
+      "kind": "static",
+      "path": "/workspace/v74-art-direction/qa/results/static-review-v74.json",
+      "sha256": "3e11ea64cd830055326d2b74bd6f2bdfec060d5150063ed48bc638ed1ce23af3",
+      "production_manifest_sha256": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8"
+    },
+    {
+      "kind": "browser",
+      "path": "/workspace/v74-art-direction/qa/results/browser-review-v74.json",
+      "sha256": "775aa52dc3ae69965294e293d05037a1cd50c2b4dce229639b73499a4d266e25",
+      "production_manifest_sha256": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8"
+    },
+    {
+      "kind": "performance",
+      "path": "/workspace/v74-art-direction/qa/results/performance-summary-v74.json",
+      "sha256": "da280ff2a129b7b7488464108cbeb8dddd5b622fe47610e0beca7b6bb8b26c07",
+      "production_manifest_sha256": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8"
+    },
+    {
+      "kind": "contrast",
+      "path": "/workspace/v74-art-direction/qa/results/contrast/contrast-results.json",
+      "sha256": "b136a503a24a1469463e1dfc45f516ab6741f356408dbf4780efe58ef575e879",
+      "production_manifest_sha256": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8"
+    },
+    {
+      "kind": "capture",
+      "path": "/workspace/v74-art-direction/review/visual-capture-proof-v74.json",
+      "sha256": "699db28f55ec016280e23c785f33e0ad25f1064d530d1f8c242e5c2bab492210",
+      "production_manifest_sha256": "bd6ecdde31ef8c7ea708bcfd8ee599c5f13584085c7b9d6f42e52b8c0a4b5bf8"
+    },
+    {
+      "kind": "video_decode",
+      "path": "/workspace/v74-art-direction/review/video-validation-v74.json",
+      "sha256": "792158ae42ceaa5d6225ff7086ff29e146df1f92eaa5922d1436fed3ebb6f7d1"
+    }
+  ],
+  "source_member_manifest": "SOURCE_MEMBER_MANIFEST_v7_4.json",
+  "production_member_manifest": "PRODUCTION_MEMBER_MANIFEST_v7_4.json",
+  "publication": "HOLD_PENDING_OWNER_VISUAL_APPROVAL",
+  "owner_visual_approval": "PENDING",
+  "unresolved_owner_items": [
+    "Zazi photo assignment",
+    "Saka Health Post before/after provenance, dates and scope",
+    "Field-photo assignment",
+    "Participant permissions",
+    "Manual contrast review beyond sampled automated checks"
+  ],
+  "remote_actions": "NONE"
+}
