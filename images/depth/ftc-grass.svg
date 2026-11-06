@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024"><defs><filter id="soft" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="18.432"/></filter></defs><polygon points="0.00,839.68 414.72,839.68 706.56,870.40 1152.00,860.16 1536.00,829.44 1536.00,1024.00 0.00,1024.00" fill="white" filter="url(#soft)"/></svg>
